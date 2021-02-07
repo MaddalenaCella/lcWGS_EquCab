@@ -1,0 +1,33 @@
+Horse ID,Breed,Gender,Reference,#Mapped,Cov. (X)
+Mon_FM1798,Franches-Montagnes,M,Der Sarkissian et al. 2015 (18),42505483,22.62
+Mon_FM1932,Franches-Montagnes,M,Der Sarkissian et al. 2015 (18),20527420,10.82
+Mon_FM1948,Franches-Montagnes,M,Der Sarkissian et al. 2015 (18),16600211,8.72
+Mon_FM2218,Franches-Montagnes,M,Der Sarkissian et al. 2015 (18),22771087,12.05
+Mon_FM1190,Franches-Montagnes,M,Der Sarkissian et al. 2015 (18),30749884,16.37
+Mon_FM1041,Franches-Montagnes,M,Der Sarkissian et al. 2015 (18),14695522,7.96
+Mon_FM1951,Franches-Montagnes,M,Der Sarkissian et al. 2015 (18),36627376,19.24
+Mon_FM0467,Franches-Montagnes,M,Der Sarkissian et al. 2015 (18),28836871,15.29
+Mon_FM_431,Franches-Montagnes,M,Der Sarkissian et al. 2015 (18),21988334,11.62
+Mon_FM1785,Franches-Montagnes,M,Der Sarkissian et al. 2015 (18),28230241,14.89
+Mon_FM1030,Franches-Montagnes,M,Der Sarkissian et al. 2015 (18),32187975,17.02
+Mon_FM0450,Franches-Montagnes,M,Der Sarkissian et al. 2015 (18),29840675,16.15
+Mor_EMS595,Morgan,F,Der Sarkissian et al. 2015 (18),25216660,14.02
+Qrt_A5964,American Quarter Horse,F,Der Sarkissian et al. 2015 (18),25565430,13.97
+Qrt_A5659,American Quarter Horse,F,Der Sarkissian et al. 2015 (18),25576377,13.67
+Qrt_A1543,American Quarter Horse,F,Der Sarkissian et al. 2015 (18),22265239,12.55
+Qrt_A2085,American Quarter Horse,M,Der Sarkissian et al. 2015 (18),22456409,12.32
+Std_M977,Standardbred,F,Der Sarkissian et al. 2015 (18),22685006,12.35
+Std_M5256,Standardbred,M,Der Sarkissian et al. 2015 (18),20975678,11.44
+Std_M1009,Standardbred,M,Der Sarkissian et al. 2015 (18),13252954,7.68
+Std_Standardbred,Standardbred,M,"Orlando et al. 2013; Schubert et al. 2014 (13, 16)",27145773,12.31
+Mng_D2629,Mongolian,F,Do et al. 2014 (19),44899823,24.09
+Mng_D2628,Mongolian,M,Do et al. 2014 (19),43833220,23.54
+Fjord,Norwegian Fjord,F,"Orlando et al. 2013; Schubert et al. 2014 (13, 16)",17734587,7.73
+Icelandic,Icelandic,M,"Orlando et al. 2013; Schubert et al. 2014 (13, 16)",16814503,8.51
+Arabian,Arabian,F,"Orlando et al. 2013; Schubert et al. 2014 (13, 16)",24648073,10.82
+Throroughbred,Thoroughbred,F,Wade et al. 2009 (29),74144230,41.14
+Prz_D2630,Przewalski,M,Do et al. 2014 (19),31465668,16.91
+Prz_D2631,Przewalski,F,Do et al. 2014 (19),47061560,25.25
+Prz_Przewalski,Przewalski,M,"Orlando et al. 2013; Schubert et al. 2014 (13, 16)",20310866,9.65
+CGG10022,Late Pleistocene,F,"Orlando et al. 2013; Schubert et al. 2014 (13, 16)",53947568,25.6
+CGG10023,Late Pleistocene,M,Schubert et al. 2014 (16),18032105,7.72

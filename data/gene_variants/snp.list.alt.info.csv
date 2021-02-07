@@ -1,0 +1,57 @@
+variant_id,chr,phen,breed,start_bp,end_bp,mutation,ref,new
+77,1,Hydrocephalus,Friesian,76887901,76887901,sub,C,T
+89,1,"Dwarfism, ACAN-related D4",Miniature,95257458,95257500,del,,
+81,1,"Dwarfism, ACAN-related D3",Miniature Shetland,95282140,95282140,sub,C,G
+90,1,"Dwarfism, ACAN-related D2",Miniature,95284530,95284530,sub,C,T
+91,1,"Dwarfism, ACAN-related D1",Miniature,95291270,95291270,del,,
+66,1,Hereditary Equine Regional Dermal Asthenia (HERDA),American Quarter Horse,128056148,128056148,sub,G,A
+48,1,Tiger eye,Paso Fino,141660611,141661239,del,,
+49,1,Tiger eye,Paso Fino,141677402,141677402,sub,A,T
+70,2,Cerebellar abiotrophy (CA),"Arabian, Bashkir Curly Horse, Danish Sport Horse, Trakehner, and Welsh Pony",13122415,13122415,sub,G,A
+75,2,"Warmblood Fragile Foal Syndrome (WFFS) or Ehlers-Danlos Syndrome, type VI",Warmblood,39711930,39711930,sub,G,A
+42,3,LP pattern modifier,"American Miniature Horse, Appaloosa, Australian Spotted Pony, British Spotted Pony, Knabstrupper, Noriker, Pony of the Americas, ",23658447,23658447,sub,T,G
+0,3,Chestnut,Many,36259552,36259552,sub,C,T
+2,3, Chestnut,Black Forest ,36259554,36259554,sub,G,A
+14,3,Dominant white,South German Draft,77731743,77731743,sub,G,A
+24,3,Dominant white,Oldenburg,77732055,77732055,sub,A,T
+23,3,Dominant white,"American Miniature Horse, Quarter Horse",77735380,77735380,sub,G,C
+25,3,Dominant white,Thoroughbred,77735465,77735518,del,,
+39,3,Dominant white,Icelandic,77735488,77735488,del,G,
+5,3,Sabino 1,"Appaloosa, Haflinger, Lipizzan, Noriker, Quarter Horse",77735520,77735520,sub,A,T
+50,3,Dominant white,Italian Trotter,77736559,77736559,sub,C,T
+17,3,Dominant white,Thoroughbred,77737214,77737214,del,G,
+8,3,Dominant white,Franches-Montagnes,77737256,77737256,sub,C,G
+34,3,Dominant white,"American Paint Horse, Appaloosa, German Riding Pony, Gipsy, Noriker, Old-Tori, Oldenberg, Quarter Horse, Thoroughbred, Warmblood, Welsh Pony",77739534,77739534,sub,G,A
+26,3,Dominant white,Japanese Draft,77739558,77739558,sub,T,C
+27,3,Dominant white,Japanese Draft,77739579,77739579,sub,A,T
+9,3,Dominant white,Thoroughbred,77740854,77740854,sub,G,A
+10,3,Dominant white,Camarillo White Horse,77741094,77741094,sub,C,T
+18,3,Dominant white,Holstein,77741111,77741111,sub,G,A
+28,3,Dominant white,Arabian,77741665,77741665,sub,T,C
+33,3,Dominant white,Swiss Warmblood,77745065,77745065,sub,G,A
+35,3,Dominant white,Arabian,77745090,77745090,sub,A,G
+19,3,Dominant white,Quarter Horse,77758240,77758243,del,,
+20,3,Dominant white,Thoroughbred,77765059,77765059,sub,G,A
+46,3,Dominant white,Arabian,77769789,77769789,sub,C,G
+11,3,Dominant white,Arabian,77769840,77769840,sub,A,T
+53,3,Dominant white,Thoroughbred,77769878,77769878,sub,A,G
+22,3,Dominant white,Thoroughbred,77771079,77771083,del,TCTGC,
+16,3,Dominant white,Thoroughbred,77771305,77771305,sub,G,C
+68,5,Junctional Epidermolysis Bullosa (JEB2) ,American Saddlebred,3724,10312,del,6589,
+32,6,Splashed white,"Lipizzan, Noriker, Quarter Horse",11429753,11429753,sub,G,A
+36,6,Splashed white,Appaloosa,11429867,11429867,sub,G,C
+76,8,Hoof wall separation syndrome,Connemara pony,80111598,80111599,ins,,C
+60,9,Severe combined immunodeficiency disease (SCID),Arabian,36395752,36395759,del,,
+67,10,Polysaccharide storage myopathy (PSSM1),"American Quarter Horse, American Paint Horse, Appaloosa, Draft,  Pony of the America,  and Warmblood",18940324,18940324,sub,G,A
+58,11,Hyperkalemic Periodic Paralysis  (HYPP),American Quarter Horse and related breeds,15474228,15474228,sub,C,G
+54,11,Curly coat,Bashkir Curly Horse Curly,21962991,21962991,sub,G,A
+87,11,Curly coat with hypotrichosis Crd,Bashkir Curly Horse ,21962991,21962991,sub,G,A
+88,11,Curly coat without hypotrichosis,American Bashkir Curly horse and Missouri Foxtrotter,24096309,24096309,sub,C,T
+86,11,Immune-mediated myositis (IMM/MYH1),American Quarter Horse,53345548,53345548,sub,T,C
+85,12,Ocular squamous cell carcinoma (ocular SCC),"Belgian, Haflinger, Percheron, Rocky Mountain Horse",11608667,11608667,sub,C,T
+80,14,"Dwarfism, Friesian",Friesian,4535550,4535550,sub,C,T
+13,14,Champagne dilution,"Spanish Mustang, Tennessee Walking Horse, Quarter Horse, and pony breeds",26701092,26701092,sub,C,G
+44,16,White,American Standardbred,20094630,20094630,sub,C,T
+45,16,White leg markings,Menorca Purebred,20147039,20147039,sub,C,T
+74,23,Permissive to gait,Numerous breeds,22999655,22999655,sub,C,A
+71,26,Foal immunodeficiency syndrome in the Fell and Dales Pony (FIS),Dales Pony and Fell Pony,30660224,30660224,sub,G,T

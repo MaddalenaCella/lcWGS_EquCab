@@ -1,0 +1,631 @@
+Run,BioSample,BioProject,Organism,sub_group,DATASTORE_filetype,SRA_Study,era,era_guess,age,comments
+ERR466186,SAMEA2421738,PRJEB5942,Equus caballus,Franches-Montagnes,"bam,sra",ERP005387,modern,,,
+ERR863167,SAMEA3355589,PRJEB9139,Equus caballus,Icelandic,"bam,sra",ERP010217,modern,,,
+ERR868003,SAMEA3367609,PRJEB9267,Equus caballus,Shetland,"bam,sra",ERP010352,modern,,,
+ERR868004,SAMEA3367610,PRJEB9269,Equus caballus,Shetland,"bam,sra",ERP010354,modern,,,
+ERR953404,SAMEA3475186,PRJEB9799,Equus caballus,American Miniature Horse,"fastq,sra",ERP010944,modern,,,appears modern
+ERR953412,SAMEA3475296,PRJEB9799,Equus caballus,Arabian,"fastq,sra",ERP010944,modern,,,appears modern
+ERR953413,SAMEA3475316,PRJEB9799,Equus caballus,Tennessee Walking Horse,"fastq,sra",ERP010944,modern,,,appears modern
+ERR982794,SAMEA3504078,PRJEB9799,Equus caballus,Mangalarga Marchador,"fastq,sra",ERP010944,modern,,,appears modern
+ERR953411,SAMEA3475276,PRJEB9799,Equus caballus,Percheron horse,"fastq,sra",ERP010944,modern,,,appears modern
+ERR982786,SAMEA3504070,PRJEB9799,Equus caballus,Mongolian,"fastq,sra",ERP010944,modern,,,appears modern
+ERR978598,SAMEA3498895,PRJEB10098,Equus caballus,Franches-Montagnes,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR978601,SAMEA3498892,PRJEB10098,Equus caballus,Franches-Montagnes,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR978602,SAMEA3498897,PRJEB10098,Equus caballus,Franches-Montagnes,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR978603,SAMEA3498888,PRJEB10098,Equus caballus,Franches-Montagnes,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR978605,SAMEA3498889,PRJEB10098,Equus caballus,Franches-Montagnes,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR978606,SAMEA3498890,PRJEB10098,Equus caballus,Franches-Montagnes,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR978921,SAMEA3498587,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR978922,SAMEA3498582,PRJEB10098,Equus caballus,Mongolian,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR978923,SAMEA3498582,PRJEB10098,Equus caballus,Mongolian,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR978924,SAMEA3498586,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR978926,SAMEA3498585,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR978930,SAMEA3498589,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR978931,SAMEA3498589,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR978942,SAMEA3498584,PRJEB10098,Equus ferus,Przewalski-hybrid,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979309,SAMEA3498587,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979310,SAMEA3498587,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979311,SAMEA3498587,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979312,SAMEA3498587,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979313,SAMEA3498587,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979314,SAMEA3498587,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979315,SAMEA3498587,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979316,SAMEA3498587,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979318,SAMEA3498587,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979319,SAMEA3498587,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979320,SAMEA3498587,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979321,SAMEA3498587,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979322,SAMEA3498587,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979323,SAMEA3498587,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979324,SAMEA3498587,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979325,SAMEA3498587,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979326,SAMEA3498587,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979327,SAMEA3498587,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979328,SAMEA3498587,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979329,SAMEA3498587,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979330,SAMEA3498587,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979331,SAMEA3498587,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979332,SAMEA3498587,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979334,SAMEA3498587,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979335,SAMEA3498587,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979336,SAMEA3498587,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979337,SAMEA3498587,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979338,SAMEA3498587,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979339,SAMEA3498587,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979340,SAMEA3498587,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979342,SAMEA3498587,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979343,SAMEA3498587,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979344,SAMEA3498582,PRJEB10098,Equus caballus,Mongolian,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979345,SAMEA3498582,PRJEB10098,Equus caballus,Mongolian,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979346,SAMEA3498582,PRJEB10098,Equus caballus,Mongolian,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979347,SAMEA3498582,PRJEB10098,Equus caballus,Mongolian,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979348,SAMEA3498582,PRJEB10098,Equus caballus,Mongolian,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979349,SAMEA3498582,PRJEB10098,Equus caballus,Mongolian,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979350,SAMEA3498582,PRJEB10098,Equus caballus,Mongolian,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979351,SAMEA3498582,PRJEB10098,Equus caballus,Mongolian,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979352,SAMEA3498582,PRJEB10098,Equus caballus,Mongolian,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979353,SAMEA3498582,PRJEB10098,Equus caballus,Mongolian,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979354,SAMEA3498582,PRJEB10098,Equus caballus,Mongolian,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979357,SAMEA3498582,PRJEB10098,Equus caballus,Mongolian,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979358,SAMEA3498582,PRJEB10098,Equus caballus,Mongolian,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979359,SAMEA3498582,PRJEB10098,Equus caballus,Mongolian,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979360,SAMEA3498582,PRJEB10098,Equus caballus,Mongolian,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979361,SAMEA3498582,PRJEB10098,Equus caballus,Mongolian,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979362,SAMEA3498582,PRJEB10098,Equus caballus,Mongolian,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979363,SAMEA3498582,PRJEB10098,Equus caballus,Mongolian,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979364,SAMEA3498582,PRJEB10098,Equus caballus,Mongolian,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979365,SAMEA3498582,PRJEB10098,Equus caballus,Mongolian,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979366,SAMEA3498582,PRJEB10098,Equus caballus,Mongolian,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979367,SAMEA3498582,PRJEB10098,Equus caballus,Mongolian,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979368,SAMEA3498582,PRJEB10098,Equus caballus,Mongolian,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979369,SAMEA3498582,PRJEB10098,Equus caballus,Mongolian,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979370,SAMEA3498582,PRJEB10098,Equus caballus,Mongolian,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979371,SAMEA3498582,PRJEB10098,Equus caballus,Mongolian,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979372,SAMEA3498582,PRJEB10098,Equus caballus,Mongolian,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979373,SAMEA3498582,PRJEB10098,Equus caballus,Mongolian,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979374,SAMEA3498582,PRJEB10098,Equus caballus,Mongolian,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979375,SAMEA3498582,PRJEB10098,Equus caballus,Mongolian,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979376,SAMEA3498582,PRJEB10098,Equus caballus,Mongolian,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979377,SAMEA3498582,PRJEB10098,Equus caballus,Mongolian,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979378,SAMEA3498582,PRJEB10098,Equus caballus,Mongolian,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979379,SAMEA3498586,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979380,SAMEA3498586,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979381,SAMEA3498586,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979382,SAMEA3498586,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979383,SAMEA3498586,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979384,SAMEA3498586,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979385,SAMEA3498586,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979386,SAMEA3498586,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979387,SAMEA3498586,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979388,SAMEA3498586,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979389,SAMEA3498586,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979390,SAMEA3498586,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979391,SAMEA3498586,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979392,SAMEA3498586,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979393,SAMEA3498586,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979396,SAMEA3498586,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979397,SAMEA3498586,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979398,SAMEA3498586,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979399,SAMEA3498586,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979400,SAMEA3498586,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979401,SAMEA3498586,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979402,SAMEA3498586,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979403,SAMEA3498586,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979405,SAMEA3498586,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979406,SAMEA3498586,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979407,SAMEA3498586,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979408,SAMEA3498586,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979409,SAMEA3498586,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979410,SAMEA3498586,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979411,SAMEA3498586,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979412,SAMEA3498586,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979413,SAMEA3498586,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979414,SAMEA3498585,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979415,SAMEA3498585,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979416,SAMEA3498585,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979417,SAMEA3498585,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979418,SAMEA3498585,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979419,SAMEA3498585,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979420,SAMEA3498585,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979422,SAMEA3498585,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979423,SAMEA3498585,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979424,SAMEA3498585,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979425,SAMEA3498585,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979427,SAMEA3498585,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979428,SAMEA3498585,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979429,SAMEA3498585,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979430,SAMEA3498585,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979431,SAMEA3498585,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979432,SAMEA3498585,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979433,SAMEA3498585,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979434,SAMEA3498585,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979435,SAMEA3498585,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979436,SAMEA3498585,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979437,SAMEA3498585,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979438,SAMEA3498585,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979439,SAMEA3498585,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979441,SAMEA3498585,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979442,SAMEA3498585,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979443,SAMEA3498585,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979444,SAMEA3498585,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979446,SAMEA3498585,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979447,SAMEA3498585,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979448,SAMEA3498585,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979485,SAMEA3498589,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979486,SAMEA3498589,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979487,SAMEA3498589,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979488,SAMEA3498589,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979489,SAMEA3498589,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979490,SAMEA3498589,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979491,SAMEA3498589,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979492,SAMEA3498589,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979494,SAMEA3498589,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979495,SAMEA3498589,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979496,SAMEA3498589,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979498,SAMEA3498589,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979499,SAMEA3498589,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979500,SAMEA3498589,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979501,SAMEA3498589,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979502,SAMEA3498589,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979503,SAMEA3498589,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979504,SAMEA3498589,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979505,SAMEA3498589,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979506,SAMEA3498589,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979507,SAMEA3498589,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979508,SAMEA3498589,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979509,SAMEA3498589,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979510,SAMEA3498589,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979511,SAMEA3498589,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979512,SAMEA3498589,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979513,SAMEA3498589,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979514,SAMEA3498589,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979515,SAMEA3498589,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979516,SAMEA3498589,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979518,SAMEA3498589,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979658,SAMEA3498590,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979659,SAMEA3498590,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979660,SAMEA3498590,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979661,SAMEA3498590,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979662,SAMEA3498590,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979663,SAMEA3498590,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979664,SAMEA3498590,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979665,SAMEA3498590,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979666,SAMEA3498590,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979667,SAMEA3498590,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979668,SAMEA3498590,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979669,SAMEA3498590,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979670,SAMEA3498590,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979671,SAMEA3498590,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979672,SAMEA3498590,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979673,SAMEA3498590,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979674,SAMEA3498590,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979675,SAMEA3498590,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979676,SAMEA3498590,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979677,SAMEA3498590,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979679,SAMEA3498590,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979680,SAMEA3498590,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979681,SAMEA3498590,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979682,SAMEA3498590,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979683,SAMEA3498590,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979685,SAMEA3498590,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979686,SAMEA3498590,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979687,SAMEA3498590,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979688,SAMEA3498590,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979689,SAMEA3498590,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979690,SAMEA3498590,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979692,SAMEA3498590,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979694,SAMEA3498584,PRJEB10098,Equus ferus,Przewalski-hybrid,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979695,SAMEA3498584,PRJEB10098,Equus ferus,Przewalski-hybrid,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979696,SAMEA3498584,PRJEB10098,Equus ferus,Przewalski-hybrid,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979697,SAMEA3498584,PRJEB10098,Equus ferus,Przewalski-hybrid,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979698,SAMEA3498584,PRJEB10098,Equus ferus,Przewalski-hybrid,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979699,SAMEA3498584,PRJEB10098,Equus ferus,Przewalski-hybrid,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979700,SAMEA3498584,PRJEB10098,Equus ferus,Przewalski-hybrid,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979701,SAMEA3498584,PRJEB10098,Equus ferus,Przewalski-hybrid,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979702,SAMEA3498584,PRJEB10098,Equus ferus,Przewalski-hybrid,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979703,SAMEA3498584,PRJEB10098,Equus ferus,Przewalski-hybrid,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979706,SAMEA3498584,PRJEB10098,Equus ferus,Przewalski-hybrid,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979707,SAMEA3498584,PRJEB10098,Equus ferus,Przewalski-hybrid,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979708,SAMEA3498584,PRJEB10098,Equus ferus,Przewalski-hybrid,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979709,SAMEA3498584,PRJEB10098,Equus ferus,Przewalski-hybrid,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979710,SAMEA3498584,PRJEB10098,Equus ferus,Przewalski-hybrid,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979711,SAMEA3498584,PRJEB10098,Equus ferus,Przewalski-hybrid,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979712,SAMEA3498584,PRJEB10098,Equus ferus,Przewalski-hybrid,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979713,SAMEA3498584,PRJEB10098,Equus ferus,Przewalski-hybrid,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979714,SAMEA3498584,PRJEB10098,Equus ferus,Przewalski-hybrid,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979715,SAMEA3498584,PRJEB10098,Equus ferus,Przewalski-hybrid,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979716,SAMEA3498584,PRJEB10098,Equus ferus,Przewalski-hybrid,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979717,SAMEA3498584,PRJEB10098,Equus ferus,Przewalski-hybrid,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979785,SAMEA3498899,PRJEB10098,Equus caballus,Franches-Montagnes,"bam,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979788,SAMEA3498893,PRJEB10098,Equus caballus,Franches-Montagnes,"bam,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979789,SAMEA3498892,PRJEB10098,Equus caballus,Franches-Montagnes,"bam,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979790,SAMEA3498897,PRJEB10098,Equus caballus,Franches-Montagnes,"bam,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979791,SAMEA3498888,PRJEB10098,Equus caballus,Franches-Montagnes,"bam,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979793,SAMEA3498890,PRJEB10098,Equus caballus,Franches-Montagnes,"bam,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR982704,SAMEA3498582,PRJEB10098,Equus caballus,Mongolian,"bam,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR982708,SAMEA3498587,PRJEB10098,Equus ferus,Przewalski,"bam,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR982713,SAMEA3498584,PRJEB10098,Equus ferus,Przewalski-hybrid,"bam,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR982714,SAMEA3498585,PRJEB10098,Equus ferus,Przewalski,"bam,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR982715,SAMEA3498586,PRJEB10098,Equus ferus,Przewalski,"bam,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR982717,SAMEA3498589,PRJEB10098,Equus ferus,Przewalski,"bam,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR982718,SAMEA3498590,PRJEB10098,Equus ferus,Przewalski,"bam,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR978597,SAMEA3498899,PRJEB10098,Equus caballus,Franches-Montagnes,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR978599,SAMEA3498898,PRJEB10098,Equus caballus,Franches-Montagnes,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR978604,SAMEA3498888,PRJEB10098,Equus caballus,Franches-Montagnes,"sra,fastq",ERP011292,modern,,,TableS1.final holds some information
+ERR978607,SAMEA3498894,PRJEB10098,Equus caballus,Franches-Montagnes,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR978920,SAMEA3498587,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR978925,SAMEA3498586,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR978927,SAMEA3498585,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR978940,SAMEA3498590,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR978941,SAMEA3498590,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR978943,SAMEA3498584,PRJEB10098,Equus ferus,Przewalski-hybrid,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979317,SAMEA3498587,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979333,SAMEA3498587,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979341,SAMEA3498587,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979355,SAMEA3498582,PRJEB10098,Equus caballus,Mongolian,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979394,SAMEA3498586,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979395,SAMEA3498586,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979404,SAMEA3498586,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979421,SAMEA3498585,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979426,SAMEA3498585,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979440,SAMEA3498585,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979445,SAMEA3498585,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979484,SAMEA3498589,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979493,SAMEA3498589,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979497,SAMEA3498589,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979517,SAMEA3498589,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979684,SAMEA3498590,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979691,SAMEA3498590,PRJEB10098,Equus ferus,Przewalski,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979704,SAMEA3498584,PRJEB10098,Equus ferus,Przewalski-hybrid,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979786,SAMEA3498895,PRJEB10098,Equus caballus,Franches-Montagnes,"bam,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979792,SAMEA3498889,PRJEB10098,Equus caballus,Franches-Montagnes,"bam,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979787,SAMEA3498898,PRJEB10098,Equus caballus,Franches-Montagnes,"bam,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979705,SAMEA3498584,PRJEB10098,Equus ferus,Przewalski-hybrid,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979693,SAMEA3498584,PRJEB10098,Equus ferus,Przewalski-hybrid,"fastq,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR978600,SAMEA3498893,PRJEB10098,Equus caballus,Franches-Montagnes,"sra,fastq",ERP011292,modern,,,TableS1.final holds some information
+ERR979356,SAMEA3498582,PRJEB10098,Equus caballus,Mongolian,"sra,fastq",ERP011292,modern,,,TableS1.final holds some information
+ERR979794,SAMEA3498894,PRJEB10098,Equus caballus,Franches-Montagnes,"bam,sra",ERP011292,modern,,,TableS1.final holds some information
+ERR979678,SAMEA3498590,PRJEB10098,Equus ferus,Przewalski,"sra,fastq",ERP011292,modern,,,TableS1.final holds some information
+ERR1021663,SAMEA3542237,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021664,SAMEA3542237,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021665,SAMEA3542237,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021666,SAMEA3542237,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021667,SAMEA3542237,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021668,SAMEA3542237,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021669,SAMEA3542237,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021670,SAMEA3542237,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021671,SAMEA3542237,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021672,SAMEA3542237,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021673,SAMEA3542237,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021674,SAMEA3542237,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021675,SAMEA3542237,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021676,SAMEA3542237,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021677,SAMEA3542237,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021678,SAMEA3542237,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021679,SAMEA3542237,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021680,SAMEA3542238,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021681,SAMEA3542238,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021682,SAMEA3542238,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021683,SAMEA3542238,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021684,SAMEA3542238,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021685,SAMEA3542238,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021686,SAMEA3542238,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021687,SAMEA3542238,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021688,SAMEA3542238,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021689,SAMEA3542238,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021690,SAMEA3542238,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021691,SAMEA3542238,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021692,SAMEA3542238,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021693,SAMEA3542238,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021694,SAMEA3542238,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021695,SAMEA3542238,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021696,SAMEA3542238,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021697,SAMEA3542239,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021698,SAMEA3542239,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021699,SAMEA3542239,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021700,SAMEA3542239,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021701,SAMEA3542239,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021702,SAMEA3542239,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021703,SAMEA3542239,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021704,SAMEA3542239,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021705,SAMEA3542239,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021706,SAMEA3542239,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021707,SAMEA3542239,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021708,SAMEA3542239,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021709,SAMEA3542239,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021710,SAMEA3542239,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021711,SAMEA3542239,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021712,SAMEA3542239,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021713,SAMEA3542239,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021714,SAMEA3542240,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021715,SAMEA3542240,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021716,SAMEA3542240,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021717,SAMEA3542240,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021718,SAMEA3542240,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021719,SAMEA3542240,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021720,SAMEA3542240,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021721,SAMEA3542240,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021722,SAMEA3542240,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021723,SAMEA3542240,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021724,SAMEA3542240,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021725,SAMEA3542240,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021726,SAMEA3542240,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021727,SAMEA3542240,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021728,SAMEA3542240,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021729,SAMEA3542240,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021730,SAMEA3542240,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021731,SAMEA3542241,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021732,SAMEA3542241,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021733,SAMEA3542241,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021734,SAMEA3542241,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021735,SAMEA3542241,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021736,SAMEA3542241,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021737,SAMEA3542241,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021738,SAMEA3542241,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021739,SAMEA3542241,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021740,SAMEA3542241,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021741,SAMEA3542241,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021742,SAMEA3542241,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021743,SAMEA3542241,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021744,SAMEA3542241,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021745,SAMEA3542241,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021746,SAMEA3542241,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021747,SAMEA3542241,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021748,SAMEA3542242,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021749,SAMEA3542242,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021750,SAMEA3542242,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021751,SAMEA3542242,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021752,SAMEA3542242,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021753,SAMEA3542242,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021754,SAMEA3542242,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021755,SAMEA3542242,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021756,SAMEA3542242,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021757,SAMEA3542242,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021758,SAMEA3542242,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021759,SAMEA3542242,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021760,SAMEA3542242,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021761,SAMEA3542242,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021762,SAMEA3542242,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021763,SAMEA3542242,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021764,SAMEA3542242,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021765,SAMEA3542243,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021766,SAMEA3542243,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021767,SAMEA3542243,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021768,SAMEA3542243,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021769,SAMEA3542243,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021770,SAMEA3542243,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021771,SAMEA3542243,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021772,SAMEA3542243,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021773,SAMEA3542243,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021774,SAMEA3542243,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021775,SAMEA3542243,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021776,SAMEA3542243,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021777,SAMEA3542243,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021778,SAMEA3542243,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021779,SAMEA3542243,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021780,SAMEA3542243,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021781,SAMEA3542243,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021782,SAMEA3542244,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021783,SAMEA3542244,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021784,SAMEA3542244,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021785,SAMEA3542244,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021786,SAMEA3542244,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021787,SAMEA3542244,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021788,SAMEA3542244,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021789,SAMEA3542244,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021790,SAMEA3542244,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021791,SAMEA3542244,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021792,SAMEA3542244,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021793,SAMEA3542244,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021794,SAMEA3542244,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021795,SAMEA3542244,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021796,SAMEA3542244,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021797,SAMEA3542244,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021798,SAMEA3542244,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021799,SAMEA3542245,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021800,SAMEA3542245,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021801,SAMEA3542245,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021802,SAMEA3542245,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021803,SAMEA3542245,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021804,SAMEA3542245,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021805,SAMEA3542245,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021806,SAMEA3542245,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021807,SAMEA3542245,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021808,SAMEA3542245,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021809,SAMEA3542245,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021810,SAMEA3542245,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021811,SAMEA3542245,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021812,SAMEA3542245,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021813,SAMEA3542245,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021814,SAMEA3542245,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021815,SAMEA3542245,PRJEB10854,Equus caballus,Yakutian horse,"fastq,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021816,SAMEA3542237,PRJEB10854,Equus caballus,Yakutian horse,"bam,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021817,SAMEA3542238,PRJEB10854,Equus caballus,Yakutian horse,"bam,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021818,SAMEA3542239,PRJEB10854,Equus caballus,Yakutian horse,"bam,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021819,SAMEA3542240,PRJEB10854,Equus caballus,Yakutian horse,"bam,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021820,SAMEA3542241,PRJEB10854,Equus caballus,Yakutian horse,"bam,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021821,SAMEA3542242,PRJEB10854,Equus caballus,Yakutian horse,"bam,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021822,SAMEA3542243,PRJEB10854,Equus caballus,Yakutian horse,"bam,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021823,SAMEA3542244,PRJEB10854,Equus caballus,Yakutian horse,"bam,sra",ERP012152,modern,,Age,Region of Origin for location
+ERR1021824,SAMEA3542245,PRJEB10854,Equus caballus,Yakutian horse,"sra,bam",ERP012152,modern,,Age,Region of Origin for location
+ERR1305961,SAMEA3889830,PRJEB12979,Equus caballus,UK Warmblood (>50% Quarter),"bam,sra",ERP014514,modern,,,
+ERR1305962,SAMEA3889831,PRJEB12979,Equus caballus,American Paint,"bam,sra",ERP014514,modern,,,
+ERR1305963,SAMEA3889832,PRJEB12979,Equus caballus,American Paint,"bam,sra",ERP014514,modern,,,
+ERR1305964,SAMEA3889833,PRJEB12979,Equus caballus,American Paint,"bam,sra",ERP014514,modern,,,
+ERR1397959,SAMEA3951217,PRJEB13863,Equus caballus,Friesian dwarf,"bam,sra",ERP015442,modern,,,
+ERR1397961,SAMEA3951219,PRJEB13863,Equus caballus,Friesian dwarf,"sra,bam",ERP015442,modern,,,
+ERR1397962,SAMEA3951220,PRJEB13863,Equus caballus,Friesian dwarf,"unknown_contigs,bam,sra",ERP015442,modern,,,
+ERR1397964,SAMEA3951222,PRJEB13863,Equus caballus,Friesian dwarf,"sra,bam",ERP015442,modern,,,
+ERR1397960,SAMEA3951218,PRJEB13863,Equus caballus,Friesian dwarf,"sra,bam",ERP015442,modern,,,
+ERR1397963,SAMEA3951221,PRJEB13863,Equus caballus,Friesian dwarf,"sra,bam",ERP015442,modern,,,
+ERR1397965,SAMEA3951223,PRJEB13863,Equus caballus,Friesian dwarf,"bam,unknown_contigs,sra",ERP015442,modern,,,
+ERR1512897,SAMEA4059124,PRJEB14651,Equus caballus,Standardbred,"bam,sra",ERP016307,modern,,,
+ERR1527950,SAMEA4075244,PRJEB14779,Equus caballus,Akhal-Teke,"bam,sra",ERP016448,modern,,,
+ERR1527952,SAMEA4075246,PRJEB14779,Equus caballus,Franches-Montagnes,"bam,sra",ERP016448,modern,,,
+ERR1527953,SAMEA4075247,PRJEB14779,Equus caballus,Franches-Montagnes,"bam,sra",ERP016448,modern,,,
+ERR1527954,SAMEA4075248,PRJEB14779,Equus caballus,Franches-Montagnes,"bam,sra",ERP016448,modern,,,
+ERR1527955,SAMEA4075249,PRJEB14779,Equus caballus,Franches-Montagnes,"bam,sra",ERP016448,modern,,,
+ERR1527956,SAMEA4075250,PRJEB14779,Equus caballus,Franches-Montagnes,"bam,sra",ERP016448,modern,,,
+ERR1527957,SAMEA4075251,PRJEB14779,Equus caballus,Franches-Montagnes,"bam,sra",ERP016448,modern,,,
+ERR1527959,SAMEA4075253,PRJEB14779,Equus caballus,Franches-Montagnes,"bam,sra",ERP016448,modern,,,
+ERR1527961,SAMEA4075255,PRJEB14779,Equus caballus,Franches-Montagnes,"bam,sra",ERP016448,modern,,,
+ERR1527962,SAMEA4075256,PRJEB14779,Equus caballus,Franches-Montagnes,"bam,sra",ERP016448,modern,,,
+ERR1527966,SAMEA4075260,PRJEB14779,Equus caballus,Haflinger,"bam,sra",ERP016448,modern,,,
+ERR1527967,SAMEA4075261,PRJEB14779,Equus caballus,Dutch Warmblood,"bam,sra",ERP016448,modern,,,
+ERR1527968,SAMEA4075262,PRJEB14779,Equus caballus,Quarter Horse,"bam,sra",ERP016448,modern,,,
+ERR1527969,SAMEA4075263,PRJEB14779,Equus caballus,Quarter Horse,"bam,sra",ERP016448,modern,,,
+ERR1527971,SAMEA4075265,PRJEB14779,Equus caballus,Franches-Montagnes,"bam,sra",ERP016448,modern,,,
+ERR1527972,SAMEA4075266,PRJEB14779,Equus caballus,Swiss Warmblood,"bam,sra",ERP016448,modern,,,
+ERR1545179,SAMEA4351922,PRJEB14779,Equus caballus,German WarmBlood,"bam,sra",ERP016448,modern,,,
+ERR1545181,SAMEA4351924,PRJEB14779,Equus caballus,German WarmBlood,"bam,sra",ERP016448,modern,,,
+ERR1545184,SAMEA4351927,PRJEB14779,Equus caballus,German WarmBlood,"bam,sra",ERP016448,modern,,,
+ERR1545186,SAMEA4351930,PRJEB14779,Equus caballus,German WarmBlood,"bam,sra",ERP016448,modern,,,
+ERR1545188,SAMEA4351933,PRJEB14779,Equus caballus,German WarmBlood,"bam,sra",ERP016448,modern,,,
+ERR1545190,SAMEA4351932,PRJEB14779,Equus caballus,German WarmBlood,"bam,sra",ERP016448,modern,,,
+ERR1735862,SAMEA4552432,PRJEB14779,Equus caballus,Thoroughbred,"bam,sra",ERP016448,modern,,,
+ERR1527947,SAMEA4075241,PRJEB14779,Equus caballus,Akhal-Teke,"bam,sra",ERP016448,modern,,,
+ERR1527948,SAMEA4075242,PRJEB14779,Equus caballus,Akhal-Teke,"bam,sra",ERP016448,modern,,,
+ERR1527949,SAMEA4075243,PRJEB14779,Equus caballus,Akhal-Teke,"bam,sra",ERP016448,modern,,,
+ERR1527951,SAMEA4075245,PRJEB14779,Equus caballus,Arabian,"bam,sra",ERP016448,modern,,,
+ERR1527958,SAMEA4075252,PRJEB14779,Equus caballus,Franches-Montagnes,"bam,sra",ERP016448,modern,,,
+ERR1527960,SAMEA4075254,PRJEB14779,Equus caballus,Franches-Montagnes,"bam,sra",ERP016448,modern,,,
+ERR1527963,SAMEA4075257,PRJEB14779,Equus caballus,Franches-Montagnes,"bam,sra",ERP016448,modern,,,
+ERR1527964,SAMEA4075258,PRJEB14779,Equus caballus,Franches-Montagnes,"bam,sra",ERP016448,modern,,,
+ERR1527965,SAMEA4075259,PRJEB14779,Equus caballus,Franches-Montagnes,"bam,sra",ERP016448,modern,,,
+ERR1527970,SAMEA4075264,PRJEB14779,Equus caballus,Quarter Horse,"bam,sra",ERP016448,modern,,,
+ERR1545178,SAMEA4351921,PRJEB14779,Equus caballus,German WarmBlood,"bam,sra",ERP016448,modern,,,
+ERR1545180,SAMEA4351923,PRJEB14779,Equus caballus,German WarmBlood,"bam,sra",ERP016448,modern,,,
+ERR1545182,SAMEA4351925,PRJEB14779,Equus caballus,German WarmBlood,"bam,sra",ERP016448,modern,,,
+ERR1545183,SAMEA4351926,PRJEB14779,Equus caballus,German WarmBlood,"bam,sra",ERP016448,modern,,,
+ERR1545185,SAMEA4351928,PRJEB14779,Equus caballus,German WarmBlood,"bam,sra",ERP016448,modern,,,
+ERR1545187,SAMEA4351931,PRJEB14779,Equus caballus,German WarmBlood,"bam,sra",ERP016448,modern,,,
+ERR1545189,SAMEA4351934,PRJEB14779,Equus caballus,German WarmBlood,"bam,sra",ERP016448,modern,,,
+ERR2731056,SAMEA4822839,PRJEB14779,Equus caballus,Shetland,"sra,bam",ERP016448,modern,,,
+ERR2731057,SAMEA4822840,PRJEB14779,Equus caballus,Icelandic,"sra,bam",ERP016448,modern,,,
+ERR2731058,SAMEA4822841,PRJEB14779,Equus caballus,Holsteiner,"bam,sra",ERP016448,modern,,,
+ERR2731059,SAMEA4822842,PRJEB14779,Equus caballus,Holsteiner,"bam,sra",ERP016448,modern,,,
+ERR2731060,SAMEA4822843,PRJEB14779,Equus caballus,Holsteiner,"sra,bam",ERP016448,modern,,,
+ERR2731061,SAMEA4822844,PRJEB14779,Equus caballus,Holsteiner,"sra,bam",ERP016448,modern,,,
+ERR2179540,SAMEA104357335,PRJEB14779,Equus caballus,Franches-Montagnes,"bam,sra",ERP016448,modern,,,
+ERR2179541,SAMEA104357336,PRJEB14779,Equus caballus,Franches-Montagnes,"bam,sra",ERP016448,modern,,,
+ERR2179542,SAMEA104357337,PRJEB14779,Equus caballus,German Riding Pony,"bam,sra",ERP016448,modern,,,
+ERR2179543,SAMEA104357338,PRJEB14779,Equus caballus,Welsh Pony,"bam,sra",ERP016448,modern,,,
+ERR2179544,SAMEA104357339,PRJEB14779,Equus caballus,Arabian,"bam,sra",ERP016448,modern,,,
+ERR2179545,SAMEA104357340,PRJEB14779,Equus caballus,German Riding Pony,"bam,sra",ERP016448,modern,,,
+ERR2179546,SAMEA104357341,PRJEB14779,Equus caballus,Morgan Horse,"bam,sra",ERP016448,modern,,,
+ERR2179547,SAMEA104357342,PRJEB14779,Equus caballus,Holsteiner,"bam,sra",ERP016448,modern,,,
+ERR2179548,SAMEA104357343,PRJEB14779,Equus caballus,Oldenburger,"bam,sra",ERP016448,modern,,,
+ERR2179549,SAMEA104357344,PRJEB14779,Equus caballus,Hannoveraner,"bam,sra",ERP016448,modern,,,
+ERR2179550,SAMEA104357345,PRJEB14779,Equus caballus,Welsh Pony,"bam,sra",ERP016448,modern,,,
+ERR2179551,SAMEA104357346,PRJEB14779,Equus caballus,Arabian,"bam,sra",ERP016448,modern,,,
+ERR2179552,SAMEA104357347,PRJEB14779,Equus caballus,Noriker,"bam,sra",ERP016448,modern,,,
+ERR2179553,SAMEA104357348,PRJEB14779,Equus caballus,Haflinger,"bam,sra",ERP016448,modern,,,
+ERR2179554,SAMEA104357349,PRJEB14779,Equus caballus,Haflinger,"bam,sra",ERP016448,modern,,,
+ERR2179555,SAMEA104357350,PRJEB14779,Equus caballus,Haflinger,"bam,sra",ERP016448,modern,,,
+ERR2179556,SAMEA104357351,PRJEB14779,Equus caballus,Swiss Warmblood,"bam,sra",ERP016448,modern,,,
+ERR2203766,SAMEA104399644,PRJEB14779,Equus caballus,Trakehner,"bam,sra",ERP016448,modern,,,
+ERR3317814,SAMEA5600769,PRJEB14779,Equus caballus,German Riding Pony,"bam,sra",ERP016448,modern,,,
+ERR2731055,SAMEA4822838,PRJEB14779,Equus caballus,American Paint,"bam,sra",ERP016448,modern,,,
+SRR515202,SAMN01047694,PRJNA168142,Equus caballus,Thoroughbred,sra,SRP013636,modern,,,"Library Name some, but not much"
+SRR515203,SAMN01047695,PRJNA168142,Equus caballus,Thoroughbred,sra,SRP013636,modern,,,"Library Name some, but not much"
+SRR515204,SAMN01047696,PRJNA168142,Equus caballus,Thoroughbred,sra,SRP013636,modern,,,"Library Name some, but not much"
+SRR515205,SAMN01047697,PRJNA168142,Equus caballus,Thoroughbred,sra,SRP013636,modern,,,"Library Name some, but not much"
+SRR515206,SAMN01047698,PRJNA168142,Equus caballus,Thoroughbred,sra,SRP013636,modern,,,"Library Name some, but not much"
+SRR515208,SAMN01047699,PRJNA168142,Equus caballus,Thoroughbred,sra,SRP013636,modern,,,"Library Name some, but not much"
+SRR515209,SAMN01047700,PRJNA168142,Equus caballus,Thoroughbred,sra,SRP013636,modern,,,"Library Name some, but not much"
+SRR515211,SAMN01047701,PRJNA168142,Equus caballus,Thoroughbred,sra,SRP013636,modern,,,"Library Name some, but not much"
+SRR515212,SAMN01047702,PRJNA168142,Equus caballus,Thoroughbred,sra,SRP013636,modern,,,"Library Name some, but not much"
+SRR515213,SAMN01047703,PRJNA168142,Equus caballus,Thoroughbred,sra,SRP013636,modern,,,"Library Name some, but not much"
+SRR515214,SAMN01047704,PRJNA168142,Equus caballus,Thoroughbred,sra,SRP013636,modern,,,"Library Name some, but not much"
+SRR515215,SAMN01047705,PRJNA168142,Equus caballus,Thoroughbred,sra,SRP013636,modern,,,"Library Name some, but not much"
+SRR515216,SAMN01047706,PRJNA168142,Equus caballus,Thoroughbred,sra,SRP013636,modern,,,"Library Name some, but not much"
+SRR515217,SAMN01047707,PRJNA168142,Equus caballus,Jeju horse,sra,SRP013636,modern,,,"Library Name some, but not much"
+SRR515218,SAMN01047708,PRJNA168142,Equus caballus,Jeju horse,sra,SRP013636,modern,,,"Library Name some, but not much"
+SRR505867,SAMN01047693,PRJNA168142,Equus caballus,Thoroughbred,sra,SRP013636,modern,,,"Library Name some, but not much"
+SRR516118,SAMN01057172,PRJNA169102,Equus caballus,Jeju horse,sra,SRP013860,modern,,,
+SRR527799,SAMN01057173,PRJNA169102,Equus caballus,Jeju horse,sra,SRP013860,modern,,,
+SRR527800,SAMN01057173,PRJNA169102,Equus caballus,Jeju horse,sra,SRP013860,modern,,,
+SRR527801,SAMN01057173,PRJNA169102,Equus caballus,Jeju horse,sra,SRP013860,modern,,,
+SRR527802,SAMN01057173,PRJNA169102,Equus caballus,Jeju horse,sra,SRP013860,modern,,,
+SRR527803,SAMN01057171,PRJNA169102,Equus caballus,Jeju horse,sra,SRP013860,modern,,,
+SRR527804,SAMN01057171,PRJNA169102,Equus caballus,Jeju horse,sra,SRP013860,modern,,,
+SRR527805,SAMN01057171,PRJNA169102,Equus caballus,Jeju horse,sra,SRP013860,modern,,,
+SRR527806,SAMN01057171,PRJNA169102,Equus caballus,Jeju horse,sra,SRP013860,modern,,,
+SRR527807,SAMN01057171,PRJNA169102,Equus caballus,Jeju horse,sra,SRP013860,modern,,,
+SRR527809,SAMN01057171,PRJNA169102,Equus caballus,Jeju horse,sra,SRP013860,modern,,,
+SRR527825,SAMN01057173,PRJNA169102,Equus caballus,Jeju horse,sra,SRP013860,modern,,,
+SRR526907,SAMN01057170,PRJNA169102,Equus caballus,Jeju horse,sra,SRP013860,modern,,,
+SRR526908,SAMN01057170,PRJNA169102,Equus caballus,Jeju horse,sra,SRP013860,modern,,,
+SRR526909,SAMN01057170,PRJNA169102,Equus caballus,Jeju horse,sra,SRP013860,modern,,,
+SRR527519,SAMN01057173,PRJNA169102,Equus caballus,Jeju horse,sra,SRP013860,modern,,,
+SRR527520,SAMN01057173,PRJNA169102,Equus caballus,Jeju horse,sra,SRP013860,modern,,,
+SRR527521,SAMN01057173,PRJNA169102,Equus caballus,Jeju horse,sra,SRP013860,modern,,,
+SRR527527,SAMN01057173,PRJNA169102,Equus caballus,Jeju horse,sra,SRP013860,modern,,,
+SRR527528,SAMN01057173,PRJNA169102,Equus caballus,Jeju horse,sra,SRP013860,modern,,,
+SRR516104,SAMN01057170,PRJNA169102,Equus caballus,Jeju horse,sra,SRP013860,modern,,,
+SRR641366,SAMN01880951,PRJNA184688,Equus caballus,Thoroughbred,sra,SRP017702,modern,,,
+SRR641367,SAMN01880952,PRJNA184688,Equus caballus,Thoroughbred,sra,SRP017702,modern,,,
+SRR641364,SAMN01880950,PRJNA184688,Equus caballus,Thoroughbred,sra,SRP017702,modern,,,
+SRR641365,SAMN01880949,PRJNA184688,Equus caballus,Thoroughbred,sra,SRP017702,modern,,,
+SRR1046129,SAMN02439777,PRJNA230019,Equus caballus,Arabian,sra,SRP033361,modern,,,additional locations for one sample
+SRR1046135,SAMN02439778,PRJNA230019,Equus caballus,Sorraia,sra,SRP033361,modern,,,additional locations for one sample
+SRR1046147,SAMN02439779,PRJNA230019,Equus caballus,Hanoverian,sra,SRP033361,modern,,,additional locations for one sample
+SRR1046151,SAMN02439782,PRJNA230019,Equus caballus,Hanoverian,sra,SRP033361,modern,,,additional locations for one sample
+SRR1048526,SAMN02422919,PRJNA230019,Equus caballus,Dulmen pony,sra,SRP033361,modern,,,additional locations for one sample
+SRR1167052,SAMN02570035,PRJNA233529,Equus caballus,Mongolian,sra,SRP035222,modern,,,requires join
+SRR1167110,SAMN02570036,PRJNA233529,Equus caballus,Mongolian,sra,SRP035222,modern,,,requires join
+SRR1564419,SAMN03009553,PRJNA233529,Equus caballus,Mongolian,sra,SRP035222,modern,,,requires join
+SRR1564422,SAMN03009554,PRJNA233529,Equus caballus,Mongolian,sra,SRP035222,modern,,,requires join
+SRR1167108,SAMN02570036,PRJNA233529,Equus caballus,Mongolian,sra,SRP035222,modern,,,requires join
+SRR1167109,SAMN02570036,PRJNA233529,Equus caballus,Mongolian,sra,SRP035222,modern,,,requires join
+SRR1167053,SAMN02570035,PRJNA233529,Equus caballus,Mongolian,sra,SRP035222,modern,,,requires join
+SRR1167093,SAMN02570035,PRJNA233529,Equus caballus,Mongolian,sra,SRP035222,modern,,,requires join
+SRR1564421,SAMN03009553,PRJNA233529,Equus caballus,Mongolian,sra,SRP035222,modern,,,requires join
+SRR1564423,SAMN03009554,PRJNA233529,Equus caballus,Mongolian,sra,SRP035222,modern,,,requires join
+SRR1167891,SAMN02570035,PRJNA233529,Equus caballus,Mongolian,sra,SRP035222,modern,,,requires join
+SRR1167892,SAMN02570035,PRJNA233529,Equus caballus,Mongolian,sra,SRP035222,modern,,,requires join
+SRR1167893,SAMN02570036,PRJNA233529,Equus caballus,Mongolian,sra,SRP035222,modern,,,requires join
+SRR1167049,SAMN02570038,PRJNA233533,Equus przewalskii,Przewalski,sra,SRP035221,modern,,,
+SRR1167045,SAMN02570037,PRJNA233533,Equus przewalskii,Przewalski,sra,SRP035221,modern,,,
+SRR1167050,SAMN02570038,PRJNA233533,Equus przewalskii,Przewalski,sra,SRP035221,modern,,,
+SRR1564424,SAMN03009555,PRJNA233533,Equus przewalskii,Przewalski,sra,SRP035221,modern,,,
+SRR1564426,SAMN03009556,PRJNA233533,Equus przewalskii,Przewalski,sra,SRP035221,modern,,,
+SRR1167030,SAMN02570037,PRJNA233533,Equus przewalskii,Przewalski,sra,SRP035221,modern,,,
+SRR1167031,SAMN02570037,PRJNA233533,Equus przewalskii,Przewalski,sra,SRP035221,modern,,,
+SRR1167048,SAMN02570038,PRJNA233533,Equus przewalskii,Przewalski,sra,SRP035221,modern,,,
+SRR1564425,SAMN03009555,PRJNA233533,Equus przewalskii,Przewalski,sra,SRP035221,modern,,,
+SRR1564427,SAMN03009556,PRJNA233533,Equus przewalskii,Przewalski,sra,SRP035221,modern,,,
+SRR1167890,SAMN02570037,PRJNA233533,Equus przewalskii,Przewalski,sra,SRP035221,modern,,,
+SRR1167257,SAMN02570037,PRJNA233533,Equus przewalskii,Przewalski,sra,SRP035221,modern,,,
+SRR1167258,SAMN02570038,PRJNA233533,Equus przewalskii,Przewalski,sra,SRP035221,modern,,,
+SRR1275408,SAMN02767683,PRJNA246445,Equus ferus,Marwari,sra,SRP041785,modern,,,
+SRR1790681,SAMN03291459,PRJNA273402,Equus caballus,Connemara Pony,sra,SRP052751,modern,,,
+SRR1769892,SAMN03291441,PRJNA273402,Equus caballus,Connemara Pony,sra,SRP052751,modern,,,
+SRR1769893,SAMN03291442,PRJNA273402,Equus caballus,Connemara Pony,sra,SRP052751,modern,,,
+SRR1769922,SAMN03291461,PRJNA273402,Equus caballus,Connemara Pony,sra,SRP052751,modern,,,
+SRR2142269,SAMN03952758,PRJNA291776,Equus caballus,Hanoverian,sra,SRP061963,modern,,,
+SRR2142313,SAMN03955413,PRJNA291776,Equus caballus,Sorraia,sra,SRP061963,modern,,,
+SRR2142163,SAMN03952747,PRJNA291776,Equus caballus,Hanoverian,sra,SRP061963,modern,,,
+SRR2142311,SAMN03955412,PRJNA291776,Equus caballus,Saxon-Thuringian Heavy Warmblood,sra,SRP061963,modern,,,
+SRR3045342,SAMN04359671,PRJNA306677,Equus caballus,Standardbred,sra,SRP067684,modern,,,
+SRR3045676,SAMN04359672,PRJNA306677,Equus caballus,Standardbred,sra,SRP067684,modern,,,
+SRR3045847,SAMN04359692,PRJNA306677,Equus caballus,Standardbred,sra,SRP067684,modern,,,
+SRR3045848,SAMN04359693,PRJNA306677,Equus caballus,Standardbred,sra,SRP067684,modern,,,
+SRR3046833,SAMN04359701,PRJNA306677,Equus caballus,Standardbred,sra,SRP067684,modern,,,
+SRR3050542,SAMN04359703,PRJNA306677,Equus caballus,Standardbred,sra,SRP067684,modern,,,
+SRR3050543,SAMN04359704,PRJNA306677,Equus caballus,Standardbred,sra,SRP067684,modern,,,
+SRR3050547,SAMN04359732,PRJNA306677,Equus caballus,Standardbred,sra,SRP067684,modern,,,
+SRR3050550,SAMN04359735,PRJNA306677,Equus caballus,Standardbred,sra,SRP067684,modern,,,
+SRR3046827,SAMN04359694,PRJNA306677,Equus caballus,Standardbred,sra,SRP067684,modern,,,
+SRR3046831,SAMN04359695,PRJNA306677,Equus caballus,Standardbred,sra,SRP067684,modern,,,
+SRR3046832,SAMN04359698,PRJNA306677,Equus caballus,Standardbred,sra,SRP067684,modern,,,
+SRR3046834,SAMN04359702,PRJNA306677,Equus caballus,Standardbred,sra,SRP067684,modern,,,
+SRR3050544,SAMN04359705,PRJNA306677,Equus caballus,Standardbred,sra,SRP067684,modern,,,
+SRR3050545,SAMN04359706,PRJNA306677,Equus caballus,Standardbred,sra,SRP067684,modern,,,
+SRR3050546,SAMN04359720,PRJNA306677,Equus caballus,Standardbred,sra,SRP067684,modern,,,
+SRR3050548,SAMN04359733,PRJNA306677,Equus caballus,Standardbred,sra,SRP067684,modern,,,
+SRR3050549,SAMN04359734,PRJNA306677,Equus caballus,Standardbred,sra,SRP067684,modern,,,
+SRR5131681,SAMN06028168,PRJNA357976,Equus caballus,Lipizzan,sra,SRP095685,modern,,,
+SRR5131680,SAMN06017259,PRJNA357976,Equus caballus,Lipizzan,sra,SRP095685,modern,,,
+SRR5131682,SAMN06017257,PRJNA357976,Equus caballus,Lipizzan,sra,SRP095685,modern,,,
+SRR5131683,SAMN06017258,PRJNA357976,Equus caballus,Lipizzan,sra,SRP095685,modern,,,

@@ -1,0 +1,37 @@
+BioProject,sub_group,era,era_guess,age,comments,ignore
+PRJEB5942,Breed_Info,modern,,,,
+PRJEB7537,,,,,???,y
+PRJEB9139,Breed_Info,modern,,,,
+PRJEB9267,Breed_Info,modern,,,,
+PRJEB9269,Breed_Info,modern,,,,
+PRJEB9799,title,modern,,,appears modern,
+PRJEB10098,Breed_Info,modern,,,TableS1.final holds some information,
+PRJEB10532,Description,ancient,,,ancient in paper,
+PRJEB10854,title,both,,Age,Region of Origin for location,
+PRJEB12979,Breed_Info,modern,,,,
+PRJEB13863,title,modern,,,,
+PRJEB13983,,,ancient,,title gives some info but not all,y
+PRJEB14651,Breed_Info,modern,,,,
+PRJEB14779,title,modern,,,,
+PRJEB15516,,ancient,,,check paper for details,y
+PRJEB19970,,,,,"title and description, check paper",y
+PRJEB20000,,,,,title and alias possibly check paper,y
+PRJEB22390,,,ancient,,"alias and title, appears ancient",y
+PRJEB28294,Alias,ancient,,,"alias holds some clues, check supplementary",
+PRJEB29661,Alias,ancient,,,"alias holds some clues, check supplementary",
+PRJEB31613,Site,ancient,,Age (years ago) ,supplementary holds lots of info – joined,
+PRJNA168142,Breed_Info,modern,,,"Library Name some, but not much",
+PRJNA169102,Breed_Info,modern,,,,
+PRJNA184688,Breed_Info,modern,,,,
+PRJNA230019,Breed,modern,,,additional locations for one sample,
+PRJNA233529,Breed_Info,modern,,,requires join,
+PRJNA233533,Breed_Info,modern,,,,
+PRJNA246445,Breed,modern,,,,
+PRJNA273402,Breed,modern,,,,
+PRJNA291776,Breed,modern,,,,
+PRJNA306677,Breed,modern,,,,
+PRJNA357976,Breed,modern,,,,
+PRJNA205517,,,,Age,many helpful fields,y
+PRJNA225855,,,ancient,,"appears ancient, check paper",y
+SRP012260,Breed_Info,modern,,,,y
+SRA082086,Breed,both,,Age,,y

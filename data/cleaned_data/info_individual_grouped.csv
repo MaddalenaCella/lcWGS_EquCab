@@ -1,0 +1,469 @@
+BioSample,BioProject,Organism,sub_group,SRA_Study,era,era_guess,age,comments,DATASTORE_filetype,run_count
+SAMEA104233649,PRJEB31613,Equus caballus,Actiparc,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',1
+SAMEA104233663,PRJEB31613,Equus caballus,Botai,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',1
+SAMEA104233669,PRJEB31613,Equus caballus,Botai,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',1
+SAMEA104233670,PRJEB31613,Equus caballus,Botai,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',1
+SAMEA104233671,PRJEB31613,Equus caballus,Botai,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',1
+SAMEA104233686,PRJEB31613,Equus caballus,Tepe Hasanlu,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',1
+SAMEA104357335,PRJEB14779,Equus caballus,Franches-Montagnes,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA104357336,PRJEB14779,Equus caballus,Franches-Montagnes,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA104357337,PRJEB14779,Equus caballus,German Riding Pony,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA104357338,PRJEB14779,Equus caballus,Welsh Pony,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA104357339,PRJEB14779,Equus caballus,Arabian,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA104357340,PRJEB14779,Equus caballus,German Riding Pony,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA104357341,PRJEB14779,Equus caballus,Morgan Horse,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA104357342,PRJEB14779,Equus caballus,Holsteiner,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA104357343,PRJEB14779,Equus caballus,Oldenburger,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA104357344,PRJEB14779,Equus caballus,Hannoveraner,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA104357345,PRJEB14779,Equus caballus,Welsh Pony,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA104357346,PRJEB14779,Equus caballus,Arabian,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA104357347,PRJEB14779,Equus caballus,Noriker,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA104357348,PRJEB14779,Equus caballus,Haflinger,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA104357349,PRJEB14779,Equus caballus,Haflinger,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA104357350,PRJEB14779,Equus caballus,Haflinger,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA104357351,PRJEB14779,Equus caballus,Swiss Warmblood,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA104399644,PRJEB14779,Equus caballus,Trakehner,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA2421738,PRJEB5942,Equus caballus,Franches-Montagnes,ERP005387,modern,,,,'bam' 'sra',1
+SAMEA3355589,PRJEB9139,Equus caballus,Icelandic,ERP010217,modern,,,,'bam' 'sra',1
+SAMEA3367609,PRJEB9267,Equus caballus,Shetland,ERP010352,modern,,,,'bam' 'sra',1
+SAMEA3367610,PRJEB9269,Equus caballus,Shetland,ERP010354,modern,,,,'bam' 'sra',1
+SAMEA3475186,PRJEB9799,Equus caballus,American Miniature Horse,ERP010944,modern,,,appears modern,'fastq' 'sra',1
+SAMEA3475276,PRJEB9799,Equus caballus,Percheron horse,ERP010944,modern,,,appears modern,'fastq' 'sra',1
+SAMEA3475296,PRJEB9799,Equus caballus,Arabian,ERP010944,modern,,,appears modern,'fastq' 'sra',1
+SAMEA3475316,PRJEB9799,Equus caballus,Tennessee Walking Horse,ERP010944,modern,,,appears modern,'fastq' 'sra',1
+SAMEA3498579,PRJEB10098,Equus ferus,,ERP011292,modern,,,TableS1.final holds some information,'bam' 'fastq' 'sra',38
+SAMEA3498580,PRJEB10098,Equus ferus,,ERP011292,modern,,,TableS1.final holds some information,'bam' 'fastq' 'sra',38
+SAMEA3498581,PRJEB10098,Equus ferus,,ERP011292,modern,,,TableS1.final holds some information,'bam' 'fastq' 'sra',37
+SAMEA3498582,PRJEB10098,Equus caballus,Mongolian,ERP011292,modern,,,TableS1.final holds some information,'bam' 'fastq' 'sra',38
+SAMEA3498583,PRJEB10098,Equus ferus,,ERP011292,modern,,,TableS1.final holds some information,'bam' 'fastq' 'sra',38
+SAMEA3498584,PRJEB10098,Equus ferus,Przewalski-hybrid,ERP011292,modern,,,TableS1.final holds some information,'bam' 'fastq' 'sra',28
+SAMEA3498585,PRJEB10098,Equus ferus,Przewalski,ERP011292,modern,,,TableS1.final holds some information,'bam' 'fastq' 'sra',38
+SAMEA3498586,PRJEB10098,Equus ferus,Przewalski,ERP011292,modern,,,TableS1.final holds some information,'bam' 'fastq' 'sra',38
+SAMEA3498587,PRJEB10098,Equus ferus,Przewalski,ERP011292,modern,,,TableS1.final holds some information,'bam' 'fastq' 'sra',38
+SAMEA3498588,PRJEB10098,Equus ferus,,ERP011292,modern,,,TableS1.final holds some information,'bam' 'fastq' 'sra',38
+SAMEA3498589,PRJEB10098,Equus ferus,Przewalski,ERP011292,modern,,,TableS1.final holds some information,'bam' 'fastq' 'sra',38
+SAMEA3498590,PRJEB10098,Equus ferus,Przewalski,ERP011292,modern,,,TableS1.final holds some information,'bam' 'fastq' 'sra',38
+SAMEA3498591,PRJEB10098,Equus ferus,,ERP011292,modern,,,TableS1.final holds some information,'bam' 'fastq' 'sra',38
+SAMEA3498592,PRJEB10098,Equus ferus,,ERP011292,modern,,,TableS1.final holds some information,'bam' 'fastq' 'sra',65
+SAMEA3498593,PRJEB10098,Equus ferus,,ERP011292,modern,,,TableS1.final holds some information,'bam' 'fastq' 'sra',20
+SAMEA3498594,PRJEB10098,Equus ferus,,ERP011292,modern,,,TableS1.final holds some information,'bam' 'fastq' 'sra',21
+SAMEA3498595,PRJEB10098,Equus ferus,,ERP011292,modern,,,TableS1.final holds some information,'bam' 'fastq' 'sra',21
+SAMEA3498596,PRJEB10098,Equus ferus,,ERP011292,modern,,,TableS1.final holds some information,'fastq' 'sra',1
+SAMEA3498597,PRJEB10098,Equus ferus,,ERP011292,modern,,,TableS1.final holds some information,'fastq' 'sra',1
+SAMEA3498598,PRJEB10098,Equus ferus,,ERP011292,modern,,,TableS1.final holds some information,'bam' 'fastq' 'sra',21
+SAMEA3498599,PRJEB10098,Equus ferus,,ERP011292,modern,,,TableS1.final holds some information,'fastq' 'sra',1
+SAMEA3498600,PRJEB10098,Equus ferus,,ERP011292,modern,,,TableS1.final holds some information,'fastq' 'sra',1
+SAMEA3498601,PRJEB10098,Equus caballus,,ERP011292,modern,,,TableS1.final holds some information,'fastq' 'sra',7
+SAMEA3498602,PRJEB10098,Equus caballus,,ERP011292,modern,,,TableS1.final holds some information,'fastq' 'sra',9
+SAMEA3498888,PRJEB10098,Equus caballus,Franches-Montagnes,ERP011292,modern,,,TableS1.final holds some information,'bam' 'fastq' 'sra',3
+SAMEA3498889,PRJEB10098,Equus caballus,Franches-Montagnes,ERP011292,modern,,,TableS1.final holds some information,'bam' 'fastq' 'sra',2
+SAMEA3498890,PRJEB10098,Equus caballus,Franches-Montagnes,ERP011292,modern,,,TableS1.final holds some information,'bam' 'fastq' 'sra',2
+SAMEA3498891,PRJEB10098,Equus caballus,,ERP011292,modern,,,TableS1.final holds some information,'bam' 'fastq' 'sra',2
+SAMEA3498892,PRJEB10098,Equus caballus,Franches-Montagnes,ERP011292,modern,,,TableS1.final holds some information,'bam' 'fastq' 'sra',2
+SAMEA3498893,PRJEB10098,Equus caballus,Franches-Montagnes,ERP011292,modern,,,TableS1.final holds some information,'bam' 'fastq' 'sra',2
+SAMEA3498894,PRJEB10098,Equus caballus,Franches-Montagnes,ERP011292,modern,,,TableS1.final holds some information,'bam' 'fastq' 'sra',2
+SAMEA3498895,PRJEB10098,Equus caballus,Franches-Montagnes,ERP011292,modern,,,TableS1.final holds some information,'bam' 'fastq' 'sra',2
+SAMEA3498896,PRJEB10098,Equus caballus,,ERP011292,modern,,,TableS1.final holds some information,'bam' 'fastq' 'sra',2
+SAMEA3498897,PRJEB10098,Equus caballus,Franches-Montagnes,ERP011292,modern,,,TableS1.final holds some information,'bam' 'fastq' 'sra',2
+SAMEA3498898,PRJEB10098,Equus caballus,Franches-Montagnes,ERP011292,modern,,,TableS1.final holds some information,'bam' 'fastq' 'sra',2
+SAMEA3498899,PRJEB10098,Equus caballus,Franches-Montagnes,ERP011292,modern,,,TableS1.final holds some information,'bam' 'fastq' 'sra',2
+SAMEA3499831,PRJEB10098,Equus caballus,,ERP011292,modern,,,TableS1.final holds some information,'bam' 'fastq' 'sra',9
+SAMEA3499832,PRJEB10098,Equus caballus,,ERP011292,modern,,,TableS1.final holds some information,'bam' 'fastq' 'sra',9
+SAMEA3499833,PRJEB10098,Equus caballus,,ERP011292,modern,,,TableS1.final holds some information,'bam' 'fastq' 'sra',9
+SAMEA3499834,PRJEB10098,Equus caballus,,ERP011292,modern,,,TableS1.final holds some information,'bam' 'fastq' 'sra',9
+SAMEA3499835,PRJEB10098,Equus caballus,,ERP011292,modern,,,TableS1.final holds some information,'bam' 'fastq' 'sra',9
+SAMEA3499836,PRJEB10098,Equus caballus,,ERP011292,modern,,,TableS1.final holds some information,'bam' 'fastq' 'sra',9
+SAMEA3499837,PRJEB10098,Equus caballus,,ERP011292,modern,,,TableS1.final holds some information,'bam' 'fastq' 'sra',9
+SAMEA3499838,PRJEB10098,Equus caballus,,ERP011292,modern,,,TableS1.final holds some information,'bam' 'fastq' 'sra',9
+SAMEA3504070,PRJEB9799,Equus caballus,Mongolian,ERP010944,modern,,,appears modern,'fastq' 'sra',1
+SAMEA3504078,PRJEB9799,Equus caballus,Mangalarga Marchador,ERP010944,modern,,,appears modern,'fastq' 'sra',1
+SAMEA3514283,PRJEB10532,Equus ferus,"CGG_1_011850 YT03 / 40 / ABC9779 Equus ferus Irish Gulch Central Alaska\, USA",ERP011795,ancient,,,ancient in paper,'fastq' 'sra',7
+SAMEA3514284,PRJEB10532,Equus ferus,"CGG_1_011849 YT03 / 185 / ABC9926 Equus ferus Irish Gulch Central Alaska\, USA",ERP011795,ancient,,,ancient in paper,'fastq' 'sra',7
+SAMEA3514285,PRJEB10532,Hippidion saldiasi,"CGG_1_017438 CDM4 Hippidion saldiasi Cueva del Milodón Magallanes\, Southern Chile",ERP011795,ancient,,,ancient in paper,'fastq' 'sra',15
+SAMEA3514286,PRJEB10532,Equus caballus,CGG_1_017010 715-660 Equus caballus Botay Northern Kazakhstan,ERP011795,ancient,,,ancient in paper,'fastq' 'sra',5
+SAMEA3514287,PRJEB10532,Equus caballus,"CGG_1_017038 838-64 Equus caballus Botay Chelyabinsk region\, Southwestern Russia",ERP011795,ancient,,,ancient in paper,'fastq' 'sra',7
+SAMEA3542237,PRJEB10854,Equus caballus,Yakutian horse,ERP012152,modern,,Age,Region of Origin for location,'bam' 'fastq' 'sra',18
+SAMEA3542238,PRJEB10854,Equus caballus,Yakutian horse,ERP012152,modern,,Age,Region of Origin for location,'bam' 'fastq' 'sra',18
+SAMEA3542239,PRJEB10854,Equus caballus,Yakutian horse,ERP012152,modern,,Age,Region of Origin for location,'bam' 'fastq' 'sra',18
+SAMEA3542240,PRJEB10854,Equus caballus,Yakutian horse,ERP012152,modern,,Age,Region of Origin for location,'bam' 'fastq' 'sra',18
+SAMEA3542241,PRJEB10854,Equus caballus,Yakutian horse,ERP012152,modern,,Age,Region of Origin for location,'bam' 'fastq' 'sra',18
+SAMEA3542242,PRJEB10854,Equus caballus,Yakutian horse,ERP012152,modern,,Age,Region of Origin for location,'bam' 'fastq' 'sra',18
+SAMEA3542243,PRJEB10854,Equus caballus,Yakutian horse,ERP012152,modern,,Age,Region of Origin for location,'bam' 'fastq' 'sra',18
+SAMEA3542244,PRJEB10854,Equus caballus,Yakutian horse,ERP012152,modern,,Age,Region of Origin for location,'bam' 'fastq' 'sra',18
+SAMEA3542245,PRJEB10854,Equus caballus,Yakutian horse,ERP012152,modern,,Age,Region of Origin for location,'bam' 'fastq' 'sra',18
+SAMEA3542247,PRJEB10854,Equus caballus,Ancient horse from Yakutia,ERP012152,ancient,,Age,Region of Origin for location,'bam' 'fastq' 'sra',18
+SAMEA3542248,PRJEB10854,Equus caballus,Ancient horse from Yakutia,ERP012152,ancient,,Age,Region of Origin for location,'bam' 'fastq' 'sra',49
+SAMEA3889830,PRJEB12979,Equus caballus,UK Warmblood (>50% Quarter),ERP014514,modern,,,,'bam' 'sra',1
+SAMEA3889831,PRJEB12979,Equus caballus,American Paint,ERP014514,modern,,,,'bam' 'sra',1
+SAMEA3889832,PRJEB12979,Equus caballus,American Paint,ERP014514,modern,,,,'bam' 'sra',1
+SAMEA3889833,PRJEB12979,Equus caballus,American Paint,ERP014514,modern,,,,'bam' 'sra',1
+SAMEA3951217,PRJEB13863,Equus caballus,Friesian dwarf,ERP015442,modern,,,,'bam' 'sra',1
+SAMEA3951218,PRJEB13863,Equus caballus,Friesian dwarf,ERP015442,modern,,,,'bam' 'sra',1
+SAMEA3951219,PRJEB13863,Equus caballus,Friesian dwarf,ERP015442,modern,,,,'bam' 'sra',1
+SAMEA3951220,PRJEB13863,Equus caballus,Friesian dwarf,ERP015442,modern,,,,'bam' 'sra' 'unknown_contigs',1
+SAMEA3951221,PRJEB13863,Equus caballus,Friesian dwarf,ERP015442,modern,,,,'bam' 'sra',1
+SAMEA3951222,PRJEB13863,Equus caballus,Friesian dwarf,ERP015442,modern,,,,'bam' 'sra',1
+SAMEA3951223,PRJEB13863,Equus caballus,Friesian dwarf,ERP015442,modern,,,,'bam' 'sra' 'unknown_contigs',1
+SAMEA4059124,PRJEB14651,Equus caballus,Standardbred,ERP016307,modern,,,,'bam' 'sra',1
+SAMEA4075241,PRJEB14779,Equus caballus,Akhal-Teke,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA4075242,PRJEB14779,Equus caballus,Akhal-Teke,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA4075243,PRJEB14779,Equus caballus,Akhal-Teke,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA4075244,PRJEB14779,Equus caballus,Akhal-Teke,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA4075245,PRJEB14779,Equus caballus,Arabian,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA4075246,PRJEB14779,Equus caballus,Franches-Montagnes,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA4075247,PRJEB14779,Equus caballus,Franches-Montagnes,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA4075248,PRJEB14779,Equus caballus,Franches-Montagnes,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA4075249,PRJEB14779,Equus caballus,Franches-Montagnes,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA4075250,PRJEB14779,Equus caballus,Franches-Montagnes,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA4075251,PRJEB14779,Equus caballus,Franches-Montagnes,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA4075252,PRJEB14779,Equus caballus,Franches-Montagnes,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA4075253,PRJEB14779,Equus caballus,Franches-Montagnes,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA4075254,PRJEB14779,Equus caballus,Franches-Montagnes,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA4075255,PRJEB14779,Equus caballus,Franches-Montagnes,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA4075256,PRJEB14779,Equus caballus,Franches-Montagnes,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA4075257,PRJEB14779,Equus caballus,Franches-Montagnes,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA4075258,PRJEB14779,Equus caballus,Franches-Montagnes,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA4075259,PRJEB14779,Equus caballus,Franches-Montagnes,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA4075260,PRJEB14779,Equus caballus,Haflinger,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA4075261,PRJEB14779,Equus caballus,Dutch Warmblood,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA4075262,PRJEB14779,Equus caballus,Quarter Horse,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA4075263,PRJEB14779,Equus caballus,Quarter Horse,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA4075264,PRJEB14779,Equus caballus,Quarter Horse,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA4075265,PRJEB14779,Equus caballus,Franches-Montagnes,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA4075266,PRJEB14779,Equus caballus,Swiss Warmblood,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA4351921,PRJEB14779,Equus caballus,German WarmBlood,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA4351922,PRJEB14779,Equus caballus,German WarmBlood,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA4351923,PRJEB14779,Equus caballus,German WarmBlood,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA4351924,PRJEB14779,Equus caballus,German WarmBlood,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA4351925,PRJEB14779,Equus caballus,German WarmBlood,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA4351926,PRJEB14779,Equus caballus,German WarmBlood,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA4351927,PRJEB14779,Equus caballus,German WarmBlood,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA4351928,PRJEB14779,Equus caballus,German WarmBlood,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA4351930,PRJEB14779,Equus caballus,German WarmBlood,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA4351931,PRJEB14779,Equus caballus,German WarmBlood,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA4351932,PRJEB14779,Equus caballus,German WarmBlood,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA4351933,PRJEB14779,Equus caballus,German WarmBlood,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA4351934,PRJEB14779,Equus caballus,German WarmBlood,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA4552432,PRJEB14779,Equus caballus,Thoroughbred,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA4822838,PRJEB14779,Equus caballus,American Paint,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA4822839,PRJEB14779,Equus caballus,Shetland,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA4822840,PRJEB14779,Equus caballus,Icelandic,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA4822841,PRJEB14779,Equus caballus,Holsteiner,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA4822842,PRJEB14779,Equus caballus,Holsteiner,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA4822843,PRJEB14779,Equus caballus,Holsteiner,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA4822844,PRJEB14779,Equus caballus,Holsteiner,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA4844373,PRJEB28294,Equus caballus,Iceland_HB_01,ERP110480,ancient,,,"alias holds some clues, check supplementary",'fastq' 'sra',1
+SAMEA4844374,PRJEB28294,Equus caballus,Iceland_HB_02,ERP110480,ancient,,,"alias holds some clues, check supplementary",'fastq' 'sra',1
+SAMEA4844375,PRJEB28294,Equus caballus,Iceland_HB_03,ERP110480,ancient,,,"alias holds some clues, check supplementary",'fastq' 'sra',1
+SAMEA4844376,PRJEB28294,Equus caballus,Iceland_HB_04,ERP110480,ancient,,,"alias holds some clues, check supplementary",'fastq' 'sra',1
+SAMEA4844377,PRJEB28294,Equus caballus,Iceland_HB_05,ERP110480,ancient,,,"alias holds some clues, check supplementary",'fastq' 'sra',1
+SAMEA4844378,PRJEB28294,Equus caballus,Iceland_HB_06,ERP110480,ancient,,,"alias holds some clues, check supplementary",'fastq' 'sra',1
+SAMEA4844379,PRJEB28294,Equus caballus,Iceland_HB_07,ERP110480,ancient,,,"alias holds some clues, check supplementary",'fastq' 'sra',1
+SAMEA4844380,PRJEB28294,Equus caballus,Iceland_HB_08,ERP110480,ancient,,,"alias holds some clues, check supplementary",'fastq' 'sra',1
+SAMEA4844381,PRJEB28294,Equus caballus,Iceland_HB_09,ERP110480,ancient,,,"alias holds some clues, check supplementary",'fastq' 'sra',1
+SAMEA4844382,PRJEB28294,Equus caballus,Iceland_HB_10,ERP110480,ancient,,,"alias holds some clues, check supplementary",'fastq' 'sra',1
+SAMEA4844383,PRJEB28294,Equus caballus,Iceland_HB_11,ERP110480,ancient,,,"alias holds some clues, check supplementary",'fastq' 'sra',1
+SAMEA4844384,PRJEB28294,Equus caballus,Iceland_HB_12,ERP110480,ancient,,,"alias holds some clues, check supplementary",'fastq' 'sra',1
+SAMEA4844385,PRJEB28294,Equus caballus,Iceland_HB_13,ERP110480,ancient,,,"alias holds some clues, check supplementary",'fastq' 'sra',1
+SAMEA4844386,PRJEB28294,Equus caballus,Iceland_HB_14,ERP110480,ancient,,,"alias holds some clues, check supplementary",'fastq' 'sra',1
+SAMEA4844387,PRJEB28294,Equus caballus,Iceland_HB_15,ERP110480,ancient,,,"alias holds some clues, check supplementary",'fastq' 'sra',1
+SAMEA4844388,PRJEB28294,Equus caballus,Iceland_HB_16,ERP110480,ancient,,,"alias holds some clues, check supplementary",'fastq' 'sra',1
+SAMEA4844389,PRJEB28294,Equus caballus,Iceland_HB_17,ERP110480,ancient,,,"alias holds some clues, check supplementary",'fastq' 'sra',1
+SAMEA4844390,PRJEB28294,Equus caballus,Iceland_HB_18,ERP110480,ancient,,,"alias holds some clues, check supplementary",'fastq' 'sra',1
+SAMEA4844391,PRJEB28294,Equus caballus,Iceland_HB_19,ERP110480,ancient,,,"alias holds some clues, check supplementary",'fastq' 'sra',1
+SAMEA4844392,PRJEB28294,Equus caballus,Iceland_HB_20,ERP110480,ancient,,,"alias holds some clues, check supplementary",'fastq' 'sra',1
+SAMEA4844393,PRJEB28294,Equus caballus,Iceland_HB_21,ERP110480,ancient,,,"alias holds some clues, check supplementary",'fastq' 'sra',1
+SAMEA4844394,PRJEB28294,Equus caballus,Iceland_HB_22,ERP110480,ancient,,,"alias holds some clues, check supplementary",'fastq' 'sra',1
+SAMEA5079157,PRJEB29661,Equus caballus,Iceland_NEG_01,ERP111980,ancient,,,"alias holds some clues, check supplementary",'fastq' 'sra',1
+SAMEA5079158,PRJEB29661,Equus caballus,Iceland_NEG_02,ERP111980,ancient,,,"alias holds some clues, check supplementary",'fastq' 'sra',1
+SAMEA5079159,PRJEB29661,Equus caballus,Iceland_NEG_03,ERP111980,ancient,,,"alias holds some clues, check supplementary",'fastq' 'sra',1
+SAMEA5408142,PRJEB31613,Equus caballus,Actiparc,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408143,PRJEB31613,Equus caballus,Actiparc,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408144,PRJEB31613,Equus caballus,Actiparc,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408145,PRJEB31613,Equus caballus,Actiparc,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408146,PRJEB31613,Equus caballus,Actiparc,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408147,PRJEB31613,Equus caballus,Altata,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408148,PRJEB31613,Equus caballus,Arzhan I,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408149,PRJEB31613,Equus caballus,Arzhan II,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408150,PRJEB31613,Equus caballus,Arzhan II,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408151,PRJEB31613,Equus caballus,Arzhan II,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408152,PRJEB31613,Equus caballus,Arzhan II,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408153,PRJEB31613,Equus caballus,Augusta Raurica - Insula 8,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408154,PRJEB31613,Equus caballus,Augusta Raurica - Schmidmatt,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408155,PRJEB31613,Equus caballus,Augusta Raurica - Schmidmatt,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408156,PRJEB31613,Equus caballus,Balagansk,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408157,PRJEB31613,Equus caballus,Bapska Gradac,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408158,PRJEB31613,Equus caballus,Bateni,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408159,PRJEB31613,Equus caballus,"Beauvais, la Maladrerie Saint-Lazare",ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408160,PRJEB31613,Equus caballus,"Beauvais, VIlliers-de-l'Isle Adam",ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408161,PRJEB31613,Equus caballus,Belgheis,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408162,PRJEB31613,Equus caballus,Belkaragay,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408163,PRJEB31613,Equus caballus,Belkaragay,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408164,PRJEB31613,Equus caballus,Berufjordur,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408165,PRJEB31613,Equus asinus,Boinville,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408166,PRJEB31613,Equus caballus,Botai,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408167,PRJEB31613,Equus caballus,Botai,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408168,PRJEB31613,Equus caballus,Botai,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408169,PRJEB31613,Equus caballus,Botai,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408170,PRJEB31613,Equus caballus,Botai,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408171,PRJEB31613,Equus caballus,Botai,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408172,PRJEB31613,Equus caballus,Botai,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408173,PRJEB31613,Equus caballus,Botai,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408174,PRJEB31613,Equus caballus,"Boves, chemin de Glisy",ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408175,PRJEB31613,Equus caballus,Boz-Adyr,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408176,PRJEB31613,Equus caballus,Boz-Adyr,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408177,PRJEB31613,Equus caballus,Brough Of Deerness,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408178,PRJEB31613,Equus caballus,Brough Of Deerness,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408179,PRJEB31613,Equus caballus,BroughOfDeerness,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408180,PRJEB31613,Equus caballus,BroughOfDeerness,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408181,PRJEB31613,Equus caballus,Bruszcewo,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408182,PRJEB31613,Equus caballus,"Camino de las Yeseras, Madrid",ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408183,PRJEB31613,Equus caballus,Cantorella,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408184,PRJEB31613,Equus caballus,Capesterre-Belle-Eau,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408185,PRJEB31613,Equus caballus,Capote,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408186,PRJEB31613,Equus caballus,Steim am Rhein Charregass,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408187,PRJEB31613,Equus caballus,"Chartres, boulevard de la Courtille",ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408188,PRJEB31613,Equus caballus,"Chartres, boulevard de la Courtille",ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408189,PRJEB31613,Equus caballus,"Chartres, boulevard de la Courtille",ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408190,PRJEB31613,Equus caballus,"Chartres, boulevard de la Courtille",ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408191,PRJEB31613,Equus asinus x caballus,"Chartres, boulevard de la Courtille",ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408192,PRJEB31613,Equus caballus,"Chartres, boulevard de la Courtille",ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408193,PRJEB31613,Equus caballus,"Chartres, boulevard de la Courtille",ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408194,PRJEB31613,Equus caballus,"Chartres, boulevard de la Courtille",ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408195,PRJEB31613,Equus asinus x caballus,"Chartres, boulevard de la Courtille",ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408196,PRJEB31613,Equus caballus,"Chartres, boulevard de la Courtille",ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408197,PRJEB31613,Equus caballus,"Chartres, boulevard de la Courtille",ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408198,PRJEB31613,Equus caballus,"Chartres, boulevard de la Courtille",ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408199,PRJEB31613,Equus caballus,"Chartres, boulevard de la Courtille",ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408200,PRJEB31613,Equus caballus,"Chartres, boulevard de la Courtille",ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408201,PRJEB31613,Equus caballus,"Chartres, boulevard de la Courtille",ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408202,PRJEB31613,Equus caballus,"Chartres, boulevard de la Courtille",ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408203,PRJEB31613,Equus asinus x caballus,"Chartres, boulevard de la Courtille",ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408204,PRJEB31613,Equus asinus x caballus,"Chartres, boulevard de la Courtille",ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408205,PRJEB31613,Equus asinus x caballus,"Chartres, boulevard de la Courtille",ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408206,PRJEB31613,Equus caballus,"Chartres, boulevard de la Courtille",ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408207,PRJEB31613,Equus asinus x caballus,"Chartres, boulevard de la Courtille",ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408208,PRJEB31613,Equus caballus,"Chartres, boulevard de la Courtille",ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408209,PRJEB31613,Equus caballus,"Chartres, boulevard de la Courtille",ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408210,PRJEB31613,Equus asinus x caballus,"Chartres, boulevard de la Courtille",ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408211,PRJEB31613,Equus caballus,"Dariali, Tamara Fort",ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408212,PRJEB31613,Equus caballus,Derkul,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408213,PRJEB31613,Equus caballus,Derkul,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408214,PRJEB31613,Equus caballus,El Acequión,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408215,PRJEB31613,Equus caballus,El Acequión,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408216,PRJEB31613,Equus caballus,Els Vilars,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408217,PRJEB31613,Equus asinus x caballus,"Evreux, Clos-au-Duc",ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408218,PRJEB31613,Equus asinus x caballus,"Evreux, Clos-au-Duc",ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408219,PRJEB31613,Equus caballus,"Evreux, Clos-au-Duc",ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408220,PRJEB31613,Equus caballus,"Evreux, Clos-au-Duc",ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408221,PRJEB31613,Equus caballus,"Evreux, Clos-au-Duc",ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408222,PRJEB31613,Equus caballus,Fengtai,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408223,PRJEB31613,Equus caballus,Frankfurt-Heddenheim,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408224,PRJEB31613,Equus caballus,Gol Mod II,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408225,PRJEB31613,Equus caballus,Gol Mod II,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408226,PRJEB31613,Equus caballus,Gol Mod II,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408227,PRJEB31613,Equus caballus,Gol Mod II,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408228,PRJEB31613,Equus caballus,Gol Mod II,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408229,PRJEB31613,Equus caballus,Goyet,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408230,PRJEB31613,Equus caballus,Goyet,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408231,PRJEB31613,Equus caballus,Goyet,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408232,PRJEB31613,Equus caballus,Goyet,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408233,PRJEB31613,Equus caballus,Granastaðir,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408234,PRJEB31613,Equus caballus,Halvai 5,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408235,PRJEB31613,Equus caballus,Halvai 3,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408236,PRJEB31613,Equus caballus,Khatuu 2,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408237,PRJEB31613,Equus caballus,Khotont,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408238,PRJEB31613,Equus caballus,Kokorevo,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408239,PRJEB31613,Equus caballus,Krasnaya Gorka,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408240,PRJEB31613,Equus caballus,Krasnokamenka,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408241,PRJEB31613,Equus caballus,Krasnokamenka,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408242,PRJEB31613,Equus caballus,Kulian Cave,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408243,PRJEB31613,Equus caballus,Lebyazhinka IV,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408244,PRJEB31613,Equus caballus,Longueil-Annel,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408245,PRJEB31613,Equus caballus,"Macon, rue Rambuteau",ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408246,PRJEB31613,Equus caballus,Mainz,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408247,PRJEB31613,Equus caballus,Marvelė cemetery,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408248,PRJEB31613,Equus caballus,Marvelė cemetery,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408249,PRJEB31613,Equus caballus,Marvelė cemetery,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408250,PRJEB31613,Equus caballus,Marvelė cemetery,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408251,PRJEB31613,Equus caballus,Marvelė cemetery,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408252,PRJEB31613,Equus caballus,Marvelė cemetery,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408253,PRJEB31613,Equus caballus,Marvelė cemetery,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408254,PRJEB31613,Equus caballus,Marvelė cemetery,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408255,PRJEB31613,Equus caballus,Marvelė cemetery,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408256,PRJEB31613,Equus caballus,Merzly Yar,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408257,PRJEB31613,Equus caballus,"Metz, Place de la République",ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408258,PRJEB31613,Equus caballus,Miciurin,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408259,PRJEB31613,Equus caballus,museum specimen,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408260,PRJEB31613,Equus caballus,museum specimen,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408261,PRJEB31613,Equus caballus,Noyon - Orroire,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408262,PRJEB31613,Equus caballus,Nuštar,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408263,PRJEB31613,Equus caballus,Nuštar,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408264,PRJEB31613,Equus caballus,Oktyabrsky,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408265,PRJEB31613,Equus caballus,Oktyabrsky,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408266,PRJEB31613,Equus caballus,Olon Kurin Gol,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408267,PRJEB31613,Equus caballus,Olon Kurin Gol,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408268,PRJEB31613,Equus caballus,Otepää,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408269,PRJEB31613,Equus caballus,Otok,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408270,PRJEB31613,Equus caballus,Potapovka I,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408271,PRJEB31613,Equus caballus,Quoygrew,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408272,PRJEB31613,Equus caballus,Ridala,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408273,PRJEB31613,Equus caballus,Saadjärve,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408274,PRJEB31613,Equus caballus,Sagzabad,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408275,PRJEB31613,Equus hemionus,Sagzabad,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408276,PRJEB31613,Equus asinus x caballus,Saint-Claude,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408277,PRJEB31613,Equus asinus x caballus,Saint-Just-en-Chaussée,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408278,PRJEB31613,Equus asinus x caballus,Saint-Just-en-Chaussée,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408279,PRJEB31613,Equus caballus,Saint-Just-en-Chaussée,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408280,PRJEB31613,Equus caballus,Saint-Quentin,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408281,PRJEB31613,Equus asinus x caballus,Saint-Quentin,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408282,PRJEB31613,Equus caballus,Alcáçova de Santarém,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408283,PRJEB31613,Equus caballus,Sayangorsk,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408284,PRJEB31613,Equus caballus,,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408285,PRJEB31613,Equus caballus,Šebastovce,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408286,PRJEB31613,Equus caballus,Shar-I-Qumis,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408287,PRJEB31613,Equus caballus,Sintashta,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408288,PRJEB31613,Equus caballus,Sintashta,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408289,PRJEB31613,Equus caballus,Solothurn-Vigier,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408290,PRJEB31613,Equus caballus,Solothurn-Vigier,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408291,PRJEB31613,Equus asinus,Solothurn-Vigier,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408292,PRJEB31613,Equus caballus,Syrgal 1,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408293,PRJEB31613,Equus caballus,Tavan Tolgoi,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408294,PRJEB31613,Equus caballus,Tavan Tolgoi,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408295,PRJEB31613,Equus caballus,Tavan Tolgoi,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408296,PRJEB31613,Equus caballus,Tepe Hasanlu,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408297,PRJEB31613,Equus caballus,Tepe Hasanlu,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408298,PRJEB31613,Equus caballus,Tepe Hasanlu,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408299,PRJEB31613,Equus caballus,Tepe Hasanlu,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408300,PRJEB31613,Equus caballus,Tepe Hasanlu,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408301,PRJEB31613,Equus caballus,Tepe Hasanlu,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408302,PRJEB31613,Equus hemionus,Tepe Hasanlu,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408303,PRJEB31613,Equus caballus,Tepe Hasanlu,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408304,PRJEB31613,Equus caballus,Tepe Hasanlu,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408305,PRJEB31613,Equus hemionus,Tepe Mehr Ali,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408306,PRJEB31613,Equus caballus,Uppsala,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408307,PRJEB31613,Equus caballus,Uushgiin Uvur,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408308,PRJEB31613,Equus caballus,Uushgiin Uvur,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408309,PRJEB31613,Equus caballus,Uushgiin Uvur,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408310,PRJEB31613,Equus caballus,Uushgiin Uvur,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408311,PRJEB31613,Equus caballus,Uushgiin Uvur,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408312,PRJEB31613,Equus caballus,Uushgiin Uvur,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408313,PRJEB31613,Equus caballus,Uushgiin Uvur,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408314,PRJEB31613,Equus caballus,Uushgiin Uvur,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408315,PRJEB31613,Equus caballus,Uushgiin Uvur,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408316,PRJEB31613,Equus caballus,Uushgiin Uvur,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408317,PRJEB31613,Equus caballus,Uushgiin Uvur,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408318,PRJEB31613,Equus caballus,"Vermand, rue De Gaulle",ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408319,PRJEB31613,Equus caballus,Vicerrectorado,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408320,PRJEB31613,Equus caballus,Whitehall Roman Villa,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408321,PRJEB31613,Equus caballus,Witter Place,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408322,PRJEB31613,Equus caballus,Witter Place,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408323,PRJEB31613,Equus caballus,Witter Place,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408324,PRJEB31613,Equus caballus,Witter Place,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408325,PRJEB31613,Equus caballus,Witter Place,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408326,PRJEB31613,Equus caballus,Witter Place,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408327,PRJEB31613,Equus asinus x caballus,Yenikapi,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408328,PRJEB31613,Equus caballus,Yenikapi,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408329,PRJEB31613,Equus caballus,Yenikapi,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408330,PRJEB31613,Equus caballus,Yenikapi,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408331,PRJEB31613,Equus asinus x caballus,Yenikapi,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408332,PRJEB31613,Equus caballus,Yenikapi,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408333,PRJEB31613,Equus caballus,Yenikapi,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408334,PRJEB31613,Equus asinus x caballus,Yenikapi,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408335,PRJEB31613,Equus asinus x caballus,Yenikapi,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408336,PRJEB31613,Equus caballus,Yenikapi,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408337,PRJEB31613,Equus asinus x caballus,Yenikapi,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408338,PRJEB31613,Equus asinus x caballus,Yenikapi,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408339,PRJEB31613,Equus caballus,Yenikapi,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408340,PRJEB31613,Equus caballus,Yenikapi,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408341,PRJEB31613,Equus caballus,Yenikapi,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408342,PRJEB31613,Equus caballus,Yenikapi,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408343,PRJEB31613,Equus caballus,Yenikapi,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408344,PRJEB31613,Equus caballus,Yenikapi,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408345,PRJEB31613,Equus asinus x caballus,Yenikapi,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408346,PRJEB31613,Equus asinus x caballus,Yenikapi,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408347,PRJEB31613,Equus caballus,Yenikapi,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408348,PRJEB31613,Equus caballus,Yenikapi,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408349,PRJEB31613,Equus asinus x caballus,,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408350,PRJEB31613,Equus caballus,,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408351,PRJEB31613,Equus caballus,,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408352,PRJEB31613,Equus asinus x caballus,,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408353,PRJEB31613,Equus asinus x caballus,Yenikapi,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam',2
+SAMEA5408354,PRJEB31613,Equus asinus x caballus,Yenikapi,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408355,PRJEB31613,Equus asinus x caballus,Yenikapi,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408356,PRJEB31613,Equus asinus x caballus,Yenikapi,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408357,PRJEB31613,Equus asinus,Yenikapi,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5408358,PRJEB31613,Equus caballus,Yerqorqan,ERP114186,ancient,,Age (years ago) ,supplementary holds lots of info – joined,'bam' 'sra',2
+SAMEA5600769,PRJEB14779,Equus caballus,German Riding Pony,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA6135894,PRJEB14779,Equus caballus,,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA6135895,PRJEB14779,Equus caballus,,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA6135896,PRJEB14779,Equus caballus,,ERP016448,modern,,,,'bam' 'sra',1
+SAMEA6135897,PRJEB14779,Equus caballus,,ERP016448,modern,,,,'bam' 'sra',1
+SAMN01047693,PRJNA168142,Equus caballus,Thoroughbred,SRP013636,modern,,,"Library Name some, but not much",'sra',1
+SAMN01047694,PRJNA168142,Equus caballus,Thoroughbred,SRP013636,modern,,,"Library Name some, but not much",'sra',1
+SAMN01047695,PRJNA168142,Equus caballus,Thoroughbred,SRP013636,modern,,,"Library Name some, but not much",'sra',1
+SAMN01047696,PRJNA168142,Equus caballus,Thoroughbred,SRP013636,modern,,,"Library Name some, but not much",'sra',1
+SAMN01047697,PRJNA168142,Equus caballus,Thoroughbred,SRP013636,modern,,,"Library Name some, but not much",'sra',1
+SAMN01047698,PRJNA168142,Equus caballus,Thoroughbred,SRP013636,modern,,,"Library Name some, but not much",'sra',1
+SAMN01047699,PRJNA168142,Equus caballus,Thoroughbred,SRP013636,modern,,,"Library Name some, but not much",'sra',1
+SAMN01047700,PRJNA168142,Equus caballus,Thoroughbred,SRP013636,modern,,,"Library Name some, but not much",'sra',1
+SAMN01047701,PRJNA168142,Equus caballus,Thoroughbred,SRP013636,modern,,,"Library Name some, but not much",'sra',1
+SAMN01047702,PRJNA168142,Equus caballus,Thoroughbred,SRP013636,modern,,,"Library Name some, but not much",'sra',1
+SAMN01047703,PRJNA168142,Equus caballus,Thoroughbred,SRP013636,modern,,,"Library Name some, but not much",'sra',1
+SAMN01047704,PRJNA168142,Equus caballus,Thoroughbred,SRP013636,modern,,,"Library Name some, but not much",'sra',1
+SAMN01047705,PRJNA168142,Equus caballus,Thoroughbred,SRP013636,modern,,,"Library Name some, but not much",'sra',1
+SAMN01047706,PRJNA168142,Equus caballus,Thoroughbred,SRP013636,modern,,,"Library Name some, but not much",'sra',1
+SAMN01047707,PRJNA168142,Equus caballus,Jeju horse,SRP013636,modern,,,"Library Name some, but not much",'sra',1
+SAMN01047708,PRJNA168142,Equus caballus,Jeju horse,SRP013636,modern,,,"Library Name some, but not much",'sra',1
+SAMN01057170,PRJNA169102,Equus caballus,Jeju horse,SRP013860,modern,,,,'sra',4
+SAMN01057171,PRJNA169102,Equus caballus,Jeju horse,SRP013860,modern,,,,'sra',6
+SAMN01057172,PRJNA169102,Equus caballus,Jeju horse,SRP013860,modern,,,,'sra',1
+SAMN01057173,PRJNA169102,Equus caballus,Jeju horse,SRP013860,modern,,,,'sra',10
+SAMN01880949,PRJNA184688,Equus caballus,Thoroughbred,SRP017702,modern,,,,'sra',1
+SAMN01880950,PRJNA184688,Equus caballus,Thoroughbred,SRP017702,modern,,,,'sra',1
+SAMN01880951,PRJNA184688,Equus caballus,Thoroughbred,SRP017702,modern,,,,'sra',1
+SAMN01880952,PRJNA184688,Equus caballus,Thoroughbred,SRP017702,modern,,,,'sra',1
+SAMN02422919,PRJNA230019,Equus caballus,Dulmen pony,SRP033361,modern,,,additional locations for one sample,'sra',1
+SAMN02439777,PRJNA230019,Equus caballus,Arabian,SRP033361,modern,,,additional locations for one sample,'sra',1
+SAMN02439778,PRJNA230019,Equus caballus,Sorraia,SRP033361,modern,,,additional locations for one sample,'sra',1
+SAMN02439779,PRJNA230019,Equus caballus,Hanoverian,SRP033361,modern,,,additional locations for one sample,'sra',1
+SAMN02439782,PRJNA230019,Equus caballus,Hanoverian,SRP033361,modern,,,additional locations for one sample,'sra',1
+SAMN02570035,PRJNA233529,Equus caballus,Mongolian,SRP035222,modern,,,requires join,'sra',5
+SAMN02570036,PRJNA233529,Equus caballus,Mongolian,SRP035222,modern,,,requires join,'sra',4
+SAMN02570037,PRJNA233533,Equus przewalskii,Przewalski,SRP035221,modern,,,,'sra',5
+SAMN02570038,PRJNA233533,Equus przewalskii,Przewalski,SRP035221,modern,,,,'sra',4
+SAMN02767683,PRJNA246445,Equus ferus,Marwari,SRP041785,modern,,,,'sra',1
+SAMN03009553,PRJNA233529,Equus caballus,Mongolian,SRP035222,modern,,,requires join,'sra',2
+SAMN03009554,PRJNA233529,Equus caballus,Mongolian,SRP035222,modern,,,requires join,'sra',2
+SAMN03009555,PRJNA233533,Equus przewalskii,Przewalski,SRP035221,modern,,,,'sra',2
+SAMN03009556,PRJNA233533,Equus przewalskii,Przewalski,SRP035221,modern,,,,'sra',2
+SAMN03291441,PRJNA273402,Equus caballus,Connemara Pony,SRP052751,modern,,,,'sra',1
+SAMN03291442,PRJNA273402,Equus caballus,Connemara Pony,SRP052751,modern,,,,'sra',1
+SAMN03291459,PRJNA273402,Equus caballus,Connemara Pony,SRP052751,modern,,,,'sra',1
+SAMN03291461,PRJNA273402,Equus caballus,Connemara Pony,SRP052751,modern,,,,'sra',1
+SAMN03952747,PRJNA291776,Equus caballus,Hanoverian,SRP061963,modern,,,,'sra',1
+SAMN03952758,PRJNA291776,Equus caballus,Hanoverian,SRP061963,modern,,,,'sra',1
+SAMN03955412,PRJNA291776,Equus caballus,Saxon-Thuringian Heavy Warmblood,SRP061963,modern,,,,'sra',1
+SAMN03955413,PRJNA291776,Equus caballus,Sorraia,SRP061963,modern,,,,'sra',1
+SAMN04359671,PRJNA306677,Equus caballus,Standardbred,SRP067684,modern,,,,'sra',1
+SAMN04359672,PRJNA306677,Equus caballus,Standardbred,SRP067684,modern,,,,'sra',1
+SAMN04359692,PRJNA306677,Equus caballus,Standardbred,SRP067684,modern,,,,'sra',1
+SAMN04359693,PRJNA306677,Equus caballus,Standardbred,SRP067684,modern,,,,'sra',1
+SAMN04359694,PRJNA306677,Equus caballus,Standardbred,SRP067684,modern,,,,'sra',1
+SAMN04359695,PRJNA306677,Equus caballus,Standardbred,SRP067684,modern,,,,'sra',1
+SAMN04359698,PRJNA306677,Equus caballus,Standardbred,SRP067684,modern,,,,'sra',1
+SAMN04359701,PRJNA306677,Equus caballus,Standardbred,SRP067684,modern,,,,'sra',1
+SAMN04359702,PRJNA306677,Equus caballus,Standardbred,SRP067684,modern,,,,'sra',1
+SAMN04359703,PRJNA306677,Equus caballus,Standardbred,SRP067684,modern,,,,'sra',1
+SAMN04359704,PRJNA306677,Equus caballus,Standardbred,SRP067684,modern,,,,'sra',1
+SAMN04359705,PRJNA306677,Equus caballus,Standardbred,SRP067684,modern,,,,'sra',1
+SAMN04359706,PRJNA306677,Equus caballus,Standardbred,SRP067684,modern,,,,'sra',1
+SAMN04359720,PRJNA306677,Equus caballus,Standardbred,SRP067684,modern,,,,'sra',1
+SAMN04359732,PRJNA306677,Equus caballus,Standardbred,SRP067684,modern,,,,'sra',1
+SAMN04359733,PRJNA306677,Equus caballus,Standardbred,SRP067684,modern,,,,'sra',1
+SAMN04359734,PRJNA306677,Equus caballus,Standardbred,SRP067684,modern,,,,'sra',1
+SAMN04359735,PRJNA306677,Equus caballus,Standardbred,SRP067684,modern,,,,'sra',1
+SAMN06017257,PRJNA357976,Equus caballus,Lipizzan,SRP095685,modern,,,,'sra',1
+SAMN06017258,PRJNA357976,Equus caballus,Lipizzan,SRP095685,modern,,,,'sra',1
+SAMN06017259,PRJNA357976,Equus caballus,Lipizzan,SRP095685,modern,,,,'sra',1
+SAMN06028168,PRJNA357976,Equus caballus,Lipizzan,SRP095685,modern,,,,'sra',1

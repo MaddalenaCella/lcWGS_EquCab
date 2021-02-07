@@ -1,0 +1,3 @@
+how should tableS1.final be used?
+
+to join the horse IDs id's must be stripped and joined to a column, which is not consistant. this file is used as a reference of which vars to join on

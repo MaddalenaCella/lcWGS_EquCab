@@ -1,0 +1,21 @@
+bio_project,era,protocol,ref_genome,paper_title,author,doi,supplementary_data_local,supplementary_data_online,comments
+,modern,PALEOMIX,EquCab2,Origin and Evolution of Deleterious Mutations in Horses.,Orlando,10.3390/genes10090649,/supplementary_data_from_studies/TableS1.final.csv,,"﻿175 modern horses, project codes noted in supplementary material"
+PRJEB31613,ancient,PALEOMIX,EquCab2,Origin and Evolution of Deleterious Mutations in Horses.,Orlando,10.3390/genes10090649,/supplementary_data_from_studies/TableS2.final.xlsx,,﻿153 ancient horses
+PRJEB14779,modern,PALEOMIX,EquCab2,Developing a 670k genotyping array to tag ~2M SNPs across 24 horse breeds,Schaefer,doi.org/10.1186/s12864-017-3943-8,,,153 Individuals representing 24 breeds (Twilight is included as 4 entries)
+PRJNA273402,modern,PALEOMIX,EquCab2,Developing a 670k genotyping array to tag ~2M SNPs across 24 horse breeds,Schaefer,doi.org/10.1186/s12864-017-3943-8,,,153 Individuals representing 24 breeds (Twilight is included as 4 entries)
+PRJEB10098,modern,PALEOMIX,EquCab2,Developing a 670k genotyping array to tag ~2M SNPs across 24 horse breeds,Schaefer,doi.org/10.1186/s12864-017-3943-8,,,153 Individuals representing 24 breeds (Twilight is included as 4 entries)
+PRJEB7537,ancient,PALEOMIX,EquCab2,Prehistoric genomes reveal the genetic foundation and cost of horse domestication,Orlando,doi.org/10.1073/pnas.1416991111,,,2 samples
+PRJEB10854,both,PALEOMIX,EquCab2,Tracking the origins of Yakutian horses and the genetic basis for their fast adaptation to subarctic environments,Orlando,doi.org/10.1073/pnas.1513696112,,https://www.pnas.org/content/pnas/suppl/2015/11/19/1513696112.DCSupplemental/pnas.1513696112.sapp.pdf,
+PRJEB19970,ancient,PALEOMIX,EquCab2,Ancient genomic changes associated with domestication of the horse,Orlando,10.1126/science.aam5298,,,"Shotgun sequence data are available for download at, The 14 horses, all methods are detailed in the supplementary materials"
+PRJEB20000,ancient,PALEOMIX,EquCab2,Ancient genomic changes associated with domestication of the horse,Orlando,10.1126/science.aam5298,,,Targeted-capture sequence data
+PRJEB13983,ancient,PALEOMIX,unk,Experimental conditions improving in‐solution target enrichment for ancient DNA,Orlando,doi.org/10.1111/1755-0998.12595,,,
+PRJEB22390,ancient,PALEOMIX,EquCab2,Ancient genomes revisit the ancestry of domestic and Przewalski’s horses,Orlando,10.1126/science.aao3297,,,
+PRJEB28294,ancient,PALEOMIX,EquCab2,Sexing Viking Age horses from burial and non-burial sites in Iceland using ancient DNA,Boessenkool,doi.org/10.1016/j.jas.2018.11.007,,,
+PRJEB29661,ancient,PALEOMIX,EquCab2,Sexing Viking Age horses from burial and non-burial sites in Iceland using ancient DNA,Boessenkool,doi.org/10.1016/j.jas.2018.11.007,,,
+PRJEB10532,ancient,PALEOMIX,EquCab2,Comparing the performance of three ancient DNA extraction methods for high‐throughput sequencing,Orlando,doi.org/10.1111/1755-0998.12470,,,
+PRJEB15516,ancient,PALEOMIX,EquCab2,Combining bleach and mild predigestion improves ancient DNA recovery from bones,Star,doi.org/10.1111/1755-0998.12623,,,"not all reads are horse, filter out those that aren’t"
+PRJEB10098,modern,PALEOMIX,EquCab2,Evolutionary Genomics and Conservation of the Endangered Przewalski’s Horse,Orlando,doi.org/10.1016/j.cub.2015.08.032Get,,,21 domesticated and 17 Przewalski’s horses
+PRJEB31613,ancient,PALEOMIX,EquCab2,Tracking Five Millennia of Horse Management with Extensive Ancient Genome Time Series,Orlando,doi.org/10.1016/j.cell.2019.03.049,,,likely paleomix
+SRA082086,both,,EquCab2,Recalibrating Equus evolution using the genome sequence of an early Middle Pleistocene horse,Orlando,doi.org/10.1038/nature12323,,,table pulled from NCBI not runselector
+PRJNA205517,both,CENSOR,EquCab2,"Genome sequence, comparative analysis, and population genetics of the domestic horse.",Lindblad-Toh K.,10.1126/science.1178158,,,
+PRJNA225855,ancient,adapterremoval,EquCab2,Shotgun microbial profiling of fossil remains,L. Orlando,doi.org/10.1111/mec.12690,,,

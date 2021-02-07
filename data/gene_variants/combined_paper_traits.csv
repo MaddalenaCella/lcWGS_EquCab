@@ -1,0 +1,93 @@
+Disease ,Gene,type of variant,Mode of Inheritance,ECA Number,Genomic Coordinate,coding position,protein position,Breed ,Year Published,Pubmed ID
+Chestnut,MC1R,e,missense,3,g.36259552C>T,c.248C>T,p.S83F,Many,1996,8995760
+Frame overo (Lethal White Foal Syndrome  LWFS),EDNRB,O,missense,17,g.50624658,c.353-354TC>AG,p. I118K,"American Paint Horse, Miniature Horse, Pinto Horse, Quarter Hors,e Thoroughbred, Appaloosa ",1998,9530628
+ Chestnut,MC1R,ea,missense,3,g.36259554G>A,c.250G>A,p.D84N,Black Forest ,2000,11086549
+ Recessive black,ASIP,a,11bp deletion ,,g.2174_2184del11,c.191_201del,,Many,2001,11353392
+ Cream dilution,SLC45A2,CCr,missense,21,"g.31,690,653G>A",c.457G>A,p.D153N,Many,2003,12605854
+Sabino 1,KIT,SB1,splicing,3,g.77735520A>T,,,"Appaloosa, Haflinger, Lipizzan, Noriker, Quarter Horse",2005,16284805
+"Silver (Multiple Congenital Ocular Anomalies, MCOA)",PMEL,Z,missense,,g.73665304C>T,,p.R625C,"American Miniature Horse, Icelandic Rocky Mountain, Kentucky Mountain Horse",2006,17029645
+Tobiano, KIT (proposed),To,~43 Mb inversion,3, ,,,Many,2007,18253033
+Dominant white,KIT,W1,nonsense (stop-gain),3,g.77737256C>G,c.2151C>G,p.Y717*,Franches-Montagnes,2007,17997609
+Dominant white,KIT,W2,missense,3,g.77740854G>A,c.1960G>A,p.G654R,Thoroughbred,2007,17997609
+Dominant white,KIT,W4,missense,3,g.77741094C>T,c.1805C>T,p.A602V,Camarillo White Horse,2007,17997609
+Dominant white,KIT,W3,nonsense (stop-gain),3,g.77769840A>T,c.706A>T,p.K236*,Arabian,2007,17997609
+Grey (melanoma susceptibility),STX17,G,4.6kb intronic duplication,25,,,,many,2008,18641652
+Champagne dilution,SLC36A1, Ch,missense,14,g.26701092C>G,c.188C>G,p.T63R,"Spanish Mustang, Tennessee Walking Horse, Quarter Horse, and pony breeds",2008,18802473
+Dominant white,KIT,W11,splicing,3,g.77731743G>A,c.2684+1G>A,,South German Draft,2009,19456317
+Dominant white,KIT,W8,splicing,3,g.77736688,c.2222-1,,Icelandic,2009,19456317
+Dominant white,KIT,W7,splicing,3,g.77771305G>C,c.338-1G>C,,Thoroughbred,2009,19456317
+Dominant white,KIT,W5,"1bp deletion, frameshift",3,g.77737214delG,c.2193delG,p.T732QfsX9,Thoroughbred,2009,19456317
+Dominant white,KIT,W9,missense,3,g.77741111G>A,c.1789G>A,p.G597R,Holstein,2009,19456317
+Dominant white,KIT,W10,"4 bp deletion, frameshift",3,g.77758240_77758243del,c.1126_1129delGAAC,p.E376FfsX3,Quarter Horse,2009,19456317
+Dominant white,KIT,W6,missense,3,g.77765059G>A,c.856G>A,p.G286R,Thoroughbred,2009,19456317
+Lavender foal syndrome,MYO5A,LFS,"1bp deletion, frameshift",,g.138235715delC,,,Arabian,2010,20419149
+Dominant white,KIT,W12,5 bp deletion,3,g.77771079_77771083delTCTGC,c.559_563delTCTGC,p.S187RfsX10,Thoroughbred,2010,doi:10.1111/j.1365-2052.2010.02135.x
+Dominant white,KIT,W13,splicing,3,g.77735380G>C,c.2472+5G>C,,"American Miniature Horse, Quarter Horse",2011,21554354
+Dominant white,KIT,W16,missense,3,g.77732055A>T,c.2489A>T,p.K830I,Oldenburg,2011,21554354
+Dominant white,KIT,W14,54 bp deletion,3,g.77735465_77735518del,c.2392_2445del,p.H798_N815del,Thoroughbred,2011,21554354
+Dominant white,KIT,W17b,missense,3,g.77739558T>C,c.2021T>C,p.L674P,Japanese Draft,2011,21554354
+Dominant white,KIT,w17a,missense,3,g.77739579A>T,c.2001A>T,p.E667D,Japanese Draft,2011,21554354
+Dominant white,KIT,W15,missense,3,g.77741665T>C,c.1597T>C,p.C533R,Arabian,2011,21554354
+Macchiato,MITF,macchiato,missense,16,g.20103081,c.629A>G,p.N210S,Franches-Montagnes,2012,22511888
+Splashed white,MITF,SW3,"5 bp deletion, frameshift",16,g.20105348,c.519_523delGTGTC,p.C174Sfs*20,Quarter Horse,2012,22511888
+Splashed white,MITF,SW1,"insertion 11 bp, regulatory",16,g.20117302Tdelins11,,,"American Miniature Horse, American Paint Horse, Appaloosa, Icelandic, Morgan, Old-Tori, Quarter Horse, Shetland Pony,Trakehner",2012,22511888
+Splashed white,PAX3,SW2,missense,6,g.11429753G>A,c.209G>A,p.C70Y,"Lipizzan, Noriker, Quarter Horse",2012,22511888
+Dominant white,KIT,W18,splicing,3,g.77745065G>A,c.1346 + 1G>A,,Swiss Warmblood,2013,23659293
+Dominant white,KIT,W20,missense,3,g.77739534G>A,c.2045G>A,p.R682H,"American Paint Horse, Appaloosa, German Riding Pony, Gipsy, Noriker, Old-Tori, Oldenberg, Quarter Horse, Thoroughbred, Warmblood, Welsh Pony",2013,23659293
+Dominant white,KIT,W19,missense,3,g.77745090A>G,c.1322A>G,p.Y441C,Arabian,2013,23659293
+Splashed white,PAX3,SW4,missense,6,g.11429867G>C,c.95C>G,p.P32R,Appaloosa,2013,23659293
+"Leopard Complex Spotting (Congenital Stationary Night Blindness, CSNB)",TRPM1,LP,insertion 1378 bp,1,g.108297929_108297930ins1378,,,"American Miniature Horse, Appaloosa, Australian Spotted Pony, British Spotted Pony, Knabstrupper, Noriker, Pony of the Americas, ",2013,24167615
+Brindle (Incontinentia pigmenti),IKBKG,,nonsense (stop-gain),X,g.122833887C>T,c.202C>T,p.R68*,Quarter Horse,2013,24324710
+Dominant white,KIT,W21,"1 bp deletion, frameshift ",3,g.77735488delG,c.2369delC,p.A790Efs*20,Icelandic,2015,26059442
+Non-dun with primative markings,TBX3,nd1,regulatory,8,g.18227267+1067G>T,,,Many,2016,26691985
+Non-dun,TBX3,nd2,"1,609-bp and 8-bp deletion, regulatory",8,g.18227267ins1617bp,,,Many,2016,26691985
+LP pattern modifier,RFWD3,PATN1,regulatory,3,g.23658447T>G,,,"American Miniature Horse, Appaloosa, Australian Spotted Pony, British Spotted Pony, Knabstrupper, Noriker, Pony of the Americas, ",2016,26568529
+Brindle 1,MBTPS2,Br1,splicing,,,c.1437+4T>C,,Quarter Horse,2016,27449517
+White,MITF,MITF244Glu,missense,16,g.20094630C>T,c.731G>A,p.G244E,American Standardbred,2017,27592871
+White leg markings,MITF,,regulatory,16,g.20147039C>T,,,Menorca Purebred,2017,28084638
+Dominant white,KIT,W23,splicing,3,g.77769789C>G,c.756+1G>C,,Arabian,2017,28378922
+Dominant white,KIT,W22,deletion 1898 bp,3,"g.77,740,239_77,742,136del1898",c.1529_1978del,p.E510_G659del,Thoroughbred,2017,28444912
+Tiger eye,SLC24A5,TE2,deletion 626bp,1,g.141660611_141661239del,c.875-340_1081+82del,,Paso Fino,2017,28655738
+Tiger eye,SLC24A5,TE1,missense,1,g.141677402A>T,c.272A>T,p.R91Y,Paso Fino,2017,28655738
+Dominant white,KIT,W24,splicing,3,g.77736559C>T,,,Italian Trotter,2017,28856698
+Dominant white,KIT,W27,missense,3,,c.1473T>G,p.C491W,Thoroughbred,2018,29333746
+Dominant white,KIT,W26,"1 bp deletion, frameshift",3,,c.2536delA,p.S846Vfs*15,Thoroughbred,2018,29333746
+Dominant white,KIT,W25,missense,3,g.77769878A>G,c.668T>C,p.L223P,Thoroughbred,2018,29333746
+Curly coat,KRT25,Crd,missense,11,g.21962991G>A,c.266G>A,p.R89H,Bashkir Curly Horse Curly,2018,29686323 29141579 
+"Splashed white, blue eyes and deafness",MITF,SW5,63 kb deletion,16,g.21503211-21566617del,c.555_1260del,,American Paint Horse,2019,30644113
+Pearl dilution,SLC45A2,Cprl,missense,21,"g.31,709,690G>A",c.985G>A,p.A329T,"American Paint Horse, Lusitano, Purebred Spanish horse, Quarter Horse",2019,"31006892, 30968968"
+Sunshine dilution,SLC45A2,Csun,missense,21,,c.568G>A,p.G190R,Standardbred × Tennessee Walking Horse cross,2019,31006892
+Hyperkalemic Periodic Paralysis  (HYPP),SCN4A,missense,dominant,11,g.15474228C>G,c.4248C>G,p.F1416L,American Quarter Horse and related breeds,1992,1338908
+Ovotesticular Disorder of Sexual Development (DSD),SRY,large deletion of the DNA-binding domain of the SRY gene,Y-linked,Y,,,,Standardbred,1995,7558880
+Severe combined immunodeficiency disease (SCID),PRKDC,deletion 5 bp,recessive,9,g.36395752_36395759del,c.9478_9482del,p.N3160fs*3,Arabian,1997,9103416
+Junctional Epidermolysis Bullosa (JEB1),LAMC2,insertion 1 bp,recessive,5,,c.1368insC,,Belgian and Italian draft horse,2002,12230513
+Malignant hyperthermia (MH),RYR1,missense,dominant,10,,c.7360C>G,p.R2454G,American Quarter Horse,2004,15318347
+Glycogen Branching Enzyme Deficiency (GBED),GBE1,nonsense (stop-gain),recessive,26,,c.102C>A,p.Y34*,American Quarter Horse and related breeds,2004,15366377
+Thrombasthenia,ITGA2B,missense,recessive,11,,,p.R41P,American Quarter Horse & Thoroughbred,2006,16407493
+Thrombasthenia,ITGA2B,deletion 10 bp,recessive,11,,,,American Quarter Horse,2007,17338169
+Hereditary Equine Regional Dermal Asthenia (HERDA),PPIB,missense,recessive,1,g.128056148G>A,c.115G>A,p.G39R,American Quarter Horse,2007,17498917
+Polysaccharide storage myopathy (PSSM1),GYS1,missense,incompletely dominant,10,g.18940324G>A,c.926G>A,p.R309H,"American Quarter Horse, American Paint Horse, Appaloosa, Draft,  Pony of the America,  and Warmblood",2008,18358695
+Junctional Epidermolysis Bullosa (JEB2) ,LAMA3,deletion 6589 bp,recessive,5,g.3724_10312del6589,,,American Saddlebred,2009,19016681
+Racing distance,MSTN,"insertion 227 bp, regulatory",,18,g.66495326_66495327ins227,,,Thoroughbred,2010,20098749  25160752 30379863
+Cerebellar abiotrophy (CA),MUTYH,regulatory,recessive,2,g.13122415G>A,,,"Arabian, Bashkir Curly Horse, Danish Sport Horse, Trakehner, and Welsh Pony",2011,21126570 and 29103988
+Foal immunodeficiency syndrome in the Fell and Dales Pony (FIS),SLC5A3,missense,recessive,26,g.30660224G>T,c.1337G>T,p.P446L,Dales Pony and Fell Pony,2011,21750681
+Androgen insensitivity syndrome (AIS),AR,regulatory,X linked,X,,c.1A>G,,American Quarter Horse,2012,22095250
+Myotonia,CLCN1,missense,recessive,4,,c.1775A>C,p.D592A,New Forest Pony,2012,22197188
+Permissive to gait,DMRT3,nonsense (stop-gain),dominant,23,g.22999655C>A,,p.S301*,Numerous breeds,2012,22932389
+"Warmblood Fragile Foal Syndrome (WFFS) or Ehlers-Danlos Syndrome, type VI",PLOD1,missense,recessive,2,g.39711930G>A,c.2032G>A,p.G678R,Warmblood,2015,25637337
+Hoof wall separation syndrome,SERPINB11,insertion 1 bp ,recessive,8,g.80111598_80111599insC,c.504_505insC,,Connemara pony,2015,25875171
+Hydrocephalus,B3GALNT2,nonsense (stop-gain),recessive,1,g.76887901C>T,c.1423C>T,p.Q475*,Friesian,2015,26452345
+Androgen insensitivity syndrome (AIS),AR,missense,X linked,X,,c.2042G>C,,Thoroughbred,2016,27073903
+Skeletal atavism,SHOX,2 over lapping deletions 160=180 kb and 60-80 kb,recessive,X and Y PAR,,,,Shetland Pony,2016,27207956
+"Dwarfism, Friesian",B4GALT7,missense,recessive,14,g.4535550C>T,c.50G>A,p.R17K,Friesian,2016,27793082
+"Dwarfism, ACAN-related D3",ACAN,missense,recessive,1,g.95282140C>G,,p.A505P,Miniature Shetland,2017,27942904
+Occipitoatlantoaxial malformation (OAAM),HOXD3,deletion 2.7 kb,recessive,18,,,,Arabian,2017,28111759
+Androgen insensitivity syndrome (AIS),AR,deletion 25 bp,X linked,X,,,,Warmblood,2017,28192783
+Naked foal syndrome,ST14,nonsense (stop-gain),recessive,7,,c.388G>T,p.E130*,Akhal-Teke,2017,28235824
+Ocular squamous cell carcinoma (ocular SCC),DDB2,missense,recessive,12,g.11608667C>T, c.1013C>T, p.T338M,"Belgian, Haflinger, Percheron, Rocky Mountain Horse",2017,28425625
+Immune-mediated myositis (IMM/MYH1),MYH1,missense,recessive,11,g.53345548T>C,,p.E321G,American Quarter Horse,2018,29510741
+Curly coat with hypotrichosis Crd,KRT25,missense,dominant,11,g.21962991G>A,c.266G>A,p.R89H,Bashkir Curly Horse ,2018,29686323 29141579 
+Curly coat without hypotrichosis,SP6,missense,dominant,11,g.24096309C>T,c.1090G>A,p.D364N,American Bashkir Curly horse and Missouri Foxtrotter,2018,29686323
+"Dwarfism, ACAN-related D4",ACAN,deletion 42 bp,recessive,1,g.95257458_95257500del,,p.F2017_D2023del,Miniature,2018,30058072
+"Dwarfism, ACAN-related D2",ACAN,missense,recessive,1,g.95284530C>T,,p.V424M,Miniature,2018,30058072
+"Dwarfism, ACAN-related D1",ACAN,deletion1bp,recessive,1,g.95291270del,c.245del,p.K82*,Miniature,2018,30058072

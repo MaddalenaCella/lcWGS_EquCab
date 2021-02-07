@@ -1,0 +1,3 @@
+Run,Assay Type,AvgSpotLen,Bases,BioSample,Bytes,Center Name,Consent,DATASTORE filetype,DATASTORE provider,DATASTORE region,Experiment,Instrument,Library Name,LibraryLayout,LibrarySelection,LibrarySource,Organism,Platform,ReleaseDate,Sample Name,SRA Study
+SRR488213,WGS,202,14122674,SAMN00857893,9006460,UPPSALA UNIVERSITY,public,sra,"ncbi,gs,s3","gs.US,s3.us-east-1,ncbi.public",SRX142889,Illumina HiSeq 2000,Sample1_lib1,PAIRED,unspecified,GENOMIC,Equus caballus,ILLUMINA,2012-07-31T00:00:00Z,FI-9,SRP012260
+SRR488214,WGS,193,15673239,SAMN00857894,10124620,UPPSALA UNIVERSITY,public,sra,"s3,gs,ncbi","ncbi.public,s3.us-east-1,gs.US",SRX142890,Illumina HiSeq 2000,Sample2_lib1,PAIRED,unspecified,GENOMIC,Equus caballus,ILLUMINA,2012-07-31T00:00:00Z,P5782,SRP012260
