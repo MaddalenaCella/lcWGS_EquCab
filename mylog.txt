@@ -1,0 +1,2 @@
+samtools merge --threads 31 job_submissions/wgs_data/merged/SAMEA3498898.bam job_submissions/wgs_data/sorted/ERR978599.sorted.bam job_submissions/wgs_data/sorted/ERR979787.sorted.bam
+samtools index job_submissions/wgs_data/merged/SAMEA3498898.bam job_submissions/wgs_data/merged/SAMEA3498898.bam.bai 

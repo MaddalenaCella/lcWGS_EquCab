@@ -1,0 +1,16 @@
+"","Disease","Gene","type.of.variant","Mode.of.Inheritance","ECA.Number","Genomic.Coordinate","coding.position","protein.position","Breed","Year.Published","Pubmed.ID","chromStart","chromeEnd","ID"
+"1","Hyperkalemic Periodic Paralysis  (HYPP)","SCN4A","missense","dominant","11","g.15474228C>G#","c.4248C>G","p.F1416L","American Quarter Horse and related breeds",1992,"1338908","15474228","15474228",21
+"9","Hereditary Equine Regional Dermal Asthenia (HERDA)","PPIB","missense","recessive","1","g.128056148G>A","c.115G>A","p.G39R","American Quarter Horse",2007,"17498917","128056148","128056148",22
+"10","Polysaccharide storage myopathy (PSSM1)","GYS1","missense","incompletely dominant","10","g.18940324G>A","c.926G>A","p.R309H","American Quarter Horse, American Paint Horse, Appaloosa, Draft,  Pony of the America,  and Warmblood",2008,"18358695","18940324","18940324",23
+"13","Cerebellar abiotrophy (CA)","MUTYH","regulatory","recessive","2","g.13122415G>A#",NA,NA,"Arabian, Bashkir Curly Horse, Danish Sport Horse, Trakehner, and Welsh Pony",2011,"21126570 and 29103988","13122415","13122415",24
+"14","Foal immunodeficiency syndrome in the Fell and Dales Pony (FIS)","SLC5A3","missense","recessive","26","g.30660224G>T","c.1337G>T","p.P446L","Dales Pony and Fell Pony",2011,"21750681","30660224","30660224",25
+"17","Permissive to gait","DMRT3","nonsense (stop-gain)","dominant","23","g.22999655C>A",NA,"p.S301*","Numerous breeds",2012,"22932389","22999655","22999655",26
+"18","Warmblood Fragile Foal Syndrome (WFFS) or Ehlers-Danlos Syndrome, type VI","PLOD1","missense","recessive","2","g.39711930G>A","c.2032G>A","p.G678R","Warmblood",2015,"25637337","39711930","39711930",27
+"20","Hydrocephalus","B3GALNT2","nonsense (stop-gain)","recessive","1","g.76887901C>T","c.1423C>T","p.Q475*","Friesian",2015,"26452345","76887901","76887901",28
+"23","Dwarfism, Friesian","B4GALT7","missense","recessive","14","g.4535550C>T","c.50G>A","p.R17K","Friesian",2016,"27793082","4535550","4535550",29
+"24","Dwarfism, ACAN-related D3*","ACAN","missense","recessive","1","g.95282140C>G#",NA,"p.A505P","Miniature Shetland",2017,"27942904","95282140","95282140",30
+"28","Ocular squamous cell carcinoma (ocular SCC)","DDB2","missense","recessive","12","g.11608667C>T"," c.1013C>T"," p.T338M","Belgian, Haflinger, Percheron, Rocky Mountain Horse",2017,"28425625","11608667","11608667",31
+"29","Immune-mediated myositis (IMM/MYH1)","MYH1","missense","recessive","11","g.53345548T>C#",NA,"p.E321G","American Quarter Horse",2018,"29510741","53345548","53345548",32
+"30","Curly coat with hypotrichosis Crd","KRT25","missense","dominant","11","g.21962991G>A#","c.266G>A","p.R89H","Bashkir Curly Horse ",2018,"29686323 29141579 ","21962991","21962991",33
+"31","Curly coat without hypotrichosis","SP6","missense","dominant","11","g.24096309C>T#","c.1090G>A","p.D364N","American Bashkir Curly horse and Missouri Foxtrotter",2018,"29686323","24096309","24096309",34
+"33","Dwarfism, ACAN-related D2","ACAN","missense","recessive","1","g.95284530C>T#",NA,"p.V424M","Miniature",2018,"30058072","95284530","95284530",35

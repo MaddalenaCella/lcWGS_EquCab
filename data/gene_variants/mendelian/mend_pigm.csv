@@ -1,0 +1,38 @@
+"","Phenotype","Gene","allele","type.of.variant","ECA.number","coordinate","coding.position","protein.position","Breed","Year.Published","Pubmed.ID","chromStart","chromeEnd","ID"
+"1","Chestnut","MC1R","e","missense","3","g.36259552C>T","c.248C>T","p.S83F","Many",1996,"8995760","36259552","36259552",1
+"2","Frame overo (Lethal White Foal Syndrome  LWFS)","EDNRB","O","missense","17","g.50624658","c.353-354TC>AG","p. I118K","American Paint Horse, Miniature Horse, Pinto Horse, Quarter Hors,e Thoroughbred, Appaloosa ",1998,"9530628","50624658","50624658",2
+"3"," Chestnut","MC1R","ea","missense","3","g.36259554G>A","c.250G>A","p.D84N","Black Forest ",2000,"11086549","36259554","36259554",3
+"5"," Cream dilution","SLC45A2","CCr","missense","21","g.31,690,653G>A#","c.457G>A","p.D153N","Many",2003,"12605854","31690653","31690653",4
+"6","Sabino 1","KIT","SB1","splicing","3","g.77735520A>T",NA,NA,"Appaloosa, Haflinger, Lipizzan, Noriker, Quarter Horse",2005,"16284805","77735520","77735520",5
+"9","Dominant white","KIT","W1","nonsense (stop-gain)","3","g.77737256C>G","c.2151C>G","p.Y717*","Franches-Montagnes",2007,"17997609","77737256","77737256",6
+"10","Dominant white","KIT","W2","missense","3","g.77740854G>A","c.1960G>A","p.G654R","Thoroughbred",2007,"17997609","77740854","77740854",7
+"11","Dominant white","KIT","W4","missense","3","g.77741094C>T","c.1805C>T","p.A602V","Camarillo White Horse",2007,"17997609","77741094","77741094",8
+"12","Dominant white","KIT","W3","nonsense (stop-gain)","3","g.77769840A>T","c.706A>T","p.K236*","Arabian",2007,"17997609","77769840","77769840",9
+"14","Champagne dilution","SLC36A1"," Ch","missense","14","g.26701092C>G","c.188C>G","p.T63R","Spanish Mustang, Tennessee Walking Horse, Quarter Horse, and pony breeds",2008,"18802473","26701092","26701092",10
+"15","Dominant white","KIT","W11","splicing","3","g.77731743G>A","c.2684+1G>A",NA,"South German Draft",2009,"19456317","77731743","77731743",11
+"16","Dominant white","KIT","W8","splicing","3","g.77736688","c.2222-1",NA,"Icelandic",2009,"19456317","77736688","77736688",12
+"17","Dominant white","KIT","W7","splicing","3","g.77771305G>C","c.338-1G>C",NA,"Thoroughbred",2009,"19456317","77771305","77771305",13
+"19","Dominant white","KIT","W9","missense","3","g.77741111G>A","c.1789G>A","p.G597R","Holstein",2009,"19456317","77741111","77741111",14
+"21","Dominant white","KIT","W6","missense","3","g.77765059G>A","c.856G>A","p.G286R","Thoroughbred",2009,"19456317","77765059","77765059",15
+"24","Dominant white","KIT","W13","splicing","3","g.77735380G>C","c.2472+5G>C",NA,"American Miniature Horse, Quarter Horse",2011,"21554354","77735380","77735380",16
+"25","Dominant white","KIT","W16","missense","3","g.77732055A>T","c.2489A>T","p.K830I","Oldenburg",2011,"21554354","77732055","77732055",17
+"27","Dominant white","KIT","W17b","missense","3","g.77739558T>C","c.2021T>C","p.L674P","Japanese Draft",2011,"21554354","77739558","77739558",18
+"28","Dominant white","KIT","w17a","missense","3","g.77739579A>T","c.2001A>T","p.E667D","Japanese Draft",2011,"21554354","77739579","77739579",19
+"29","Dominant white","KIT","W15","missense","3","g.77741665T>C","c.1597T>C","p.C533R","Arabian",2011,"21554354","77741665","77741665",20
+"30","Macchiato","MITF","macchiato","missense","16","g.20103081","c.629A>G","p.N210S","Franches-Montagnes",2012,"22511888","20103081","20103081",21
+"33","Splashed white","PAX3","SW2","missense","6","g.11429753G>A","c.209G>A","p.C70Y","Lipizzan, Noriker, Quarter Horse",2012,"22511888","11429753","11429753",22
+"34","Dominant white","KIT","W18","splicing","3","g.77745065G>A","c.1346 + 1G>A",NA,"Swiss Warmblood",2013,"23659293","77745065","77745065",23
+"35","Dominant white","KIT","W20","missense","3","g.77739534G>A","c.2045G>A","p.R682H","American Paint Horse, Appaloosa, German Riding Pony, Gipsy, Noriker, Old-Tori, Oldenberg, Quarter Horse, Thoroughbred, Warmblood, Welsh Pony",2013,"23659293","77739534","77739534",24
+"36","Dominant white","KIT","W19","missense","3","g.77745090A>G","c.1322A>G","p.Y441C","Arabian",2013,"23659293","77745090","77745090",25
+"37","Splashed white","PAX3","SW4","missense","6","g.11429867G>C","c.95C>G","p.P32R","Appaloosa",2013,"23659293","11429867","11429867",26
+"39","Brindle (Incontinentia pigmenti)","IKBKG",NA,"nonsense (stop-gain)","X","g.122833887C>T","c.202C>T","p.R68*","Quarter Horse",2013,"24324710","122833887","122833887",27
+"41","Non-dun with primative markings","TBX3","nd1","regulatory","8","g.18227267+1067G>T",NA,NA,"Many",2016,"26691985","18227267","18227267",28
+"43","LP pattern modifier","RFWD3","PATN1","regulatory","3","g.23658447T>G",NA,NA,"American Miniature Horse, Appaloosa, Australian Spotted Pony, British Spotted Pony, Knabstrupper, Noriker, Pony of the Americas, ",2016,"26568529","23658447","23658447",29
+"45","White","MITF","MITF244Glu","missense","16","g.20094630C>T","c.731G>A","p.G244E","American Standardbred",2017,"27592871","20094630","20094630",30
+"46","White leg markings","MITF",NA,"regulatory","16","g.20147039C>T",NA,NA,"Menorca Purebred",2017,"28084638","20147039","20147039",31
+"47","Dominant white","KIT","W23","splicing","3","g.77769789C>G","c.756+1G>C",NA,"Arabian",2017,"28378922","77769789","77769789",32
+"50","Tiger eye","SLC24A5","TE1","missense","1","g.141677402A>T","c.272A>T","p.R91Y","Paso Fino",2017,"28655738","141677402","141677402",33
+"51","Dominant white","KIT","W24","splicing","3","g.77736559C>T",NA,NA,"Italian Trotter",2017,"28856698","77736559","77736559",34
+"54","Dominant white","KIT","W25","missense","3","g.77769878A>G","c.668T>C","p.L223P","Thoroughbred",2018,"29333746","77769878","77769878",35
+"55","Curly coat","KRT25","Crd","missense","11","g.21962991G>A *","c.266G>A","p.R89H","Bashkir Curly Horse Curly",2018,"29686323 29141579 ","21962991","21962991",36
+"57","Pearl dilution","SLC45A2","Cprl","missense","21","g.31,709,690G>A *","c.985G>A","p.A329T","American Paint Horse, Lusitano, Purebred Spanish horse, Quarter Horse",2019,"31006892, 30968968","31709690","31709690",37

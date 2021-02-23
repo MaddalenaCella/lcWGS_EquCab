@@ -1,0 +1,310 @@
+QTL_ID	Symbol	Chromosome	Center_cM	Range_cM	Cood_A_bp	Coord_B_bp	Trait_Name	Significance	FlankMrkA2	FlankMrkA1	FlankMrkB1	FlankMrkB2
+172354	GAITED	1	96.47	96.47-96.47	18091557	18091597	Alternate gaits	Significant				
+172362	GAITED	1			155226134	155226174	Alternate gaits	Significant				
+172370	GAITED	1	294.66	294.66-294.66	55259268	55259308	Alternate gaits	Significant				
+172375	GAITED	1	373.85	373.85-373.85	70111111	70111151	Alternate gaits	Significant				
+172382	GAITED	1	233.83	233.83-233.83	43852352	43852392	Alternate gaits	Significant				
+172387	GAITED	1			155323227	155323267	Alternate gaits	Significant				
+172389	GAITED	1	203.96	203.96-203.96	38250727	38250767	Alternate gaits	Significant				
+172393	GAITED	1	209.73	209.73-209.73	39331317	39331357	Alternate gaits	Significant				
+172405	GAITED	1	96.47	96.47-96.47	18091689	18091729	Alternate gaits	Significant				
+172407	GAITED	1	30.12	30.12-30.12	5649280	5649320	Alternate gaits	Significant				
+172417	GAITED	1					Alternate gaits	Significant				
+172418	GAITED	1	190.53	190.53-190.53	35731829	35731869	Alternate gaits	Significant				
+172419	GAITED	1	190.53	190.53-190.53	35731263	35731303	Alternate gaits	Significant				
+172420	GAITED	1	190.50	190.50-190.50	35726325	35726365	Alternate gaits	Significant				
+172421	GAITED	1	190.47	190.47-190.47	35720230	35720270	Alternate gaits	Significant				
+172426	GAITED	1	95.69	95.69-95.69	17945245	17945285	Alternate gaits	Significant				
+172427	GAITED	1	190.48	190.48-190.48	35721306	35721346	Alternate gaits	Significant				
+172435	GAITED	1					Alternate gaits	Significant				
+172437	GAITED	1					Alternate gaits	Significant				
+172443	GAITED	1					Alternate gaits	Significant				
+172445	GAITED	1	205.79	205.79-205.79	38592522	38592562	Alternate gaits	Significant				
+172448	GAITED	1	204.26	204.26-204.26	38306796	38306836	Alternate gaits	Significant				
+172450	GAITED	1					Alternate gaits	Significant				
+172452	GAITED	1					Alternate gaits	Significant				
+172455	GAITED	1					Alternate gaits	Significant				
+172474	GAITED	1					Alternate gaits	Significant				
+172475	GAITED	1	96.33	96.33-96.33	18065578	18065618	Alternate gaits	Significant				
+172477	GAITED	1	206.07	206.07-206.07	38646271	38646311	Alternate gaits	Significant				
+172481	GAITED	1					Alternate gaits	Significant				
+172497	GAITED	1					Alternate gaits	Significant				
+172503	GAITED	1					Alternate gaits	Significant				
+172510	GAITED	1					Alternate gaits	Significant				
+172515	GAITED	1					Alternate gaits	Significant				
+172527	GAITED	1	211.10	211.10-211.10	39589042	39589082	Alternate gaits	Significant				
+172559	GAITED	1					Alternate gaits	Significant				
+172566	GAITED	1					Alternate gaits	Significant				
+172571	GAITED	1	28.38	28.38-28.38	5322222	5322262	Alternate gaits	Significant				
+172371	GAITED	2	97.08	97.08-97.08	19755715	19755755	Alternate gaits	Significant				
+172383	GAITED	2	86.15	86.15-86.15	17532799	17532839	Alternate gaits	Significant				
+172385	GAITED	2	8.22	8.22-8.22	1673059	1673099	Alternate gaits	Significant				
+172386	GAITED	2	8.23	8.23-8.23	1674593	1674633	Alternate gaits	Significant				
+172390	GAITED	2	9.43	9.43-9.43	1919006	1919046	Alternate gaits	Significant				
+172397	GAITED	2	10.57	10.57-10.57	2150529	2150569	Alternate gaits	Significant				
+172401	GAITED	2	7.58	7.58-7.58	1543236	1543276	Alternate gaits	Significant				
+172504	GAITED	2					Alternate gaits	Significant				
+172505	GAITED	2					Alternate gaits	Significant				
+172525	GAITED	2					Alternate gaits	Significant				
+172534	GAITED	2	93.30	93.30-93.30	18987507	18987547	Alternate gaits	Significant				
+172540	GAITED	2	90.24	90.24-90.24	18364812	18364852	Alternate gaits	Significant				
+172545	GAITED	2	97.17	97.17-97.17	19775153	19775193	Alternate gaits	Significant				
+172561	GAITED	2	91.10	91.10-91.10	18538556	18538596	Alternate gaits	Significant				
+172388	GAITED	3	186.65	186.65-186.65	105829484	105884170	Alternate gaits	Significant				
+172430	GAITED	3			105829484	105884170	Alternate gaits	Significant				
+172449	GAITED	3			105829484	105884170	Alternate gaits	Significant				
+172467	GAITED	3			105829484	105884170	Alternate gaits	Significant				
+172469	GAITED	3			105829484	105884170	Alternate gaits	Significant				
+172490	GAITED	3			105829484	105884170	Alternate gaits	Significant				
+172502	GAITED	3	10.08	10.08-10.08	105829484	105884170	Alternate gaits	Significant				
+172508	GAITED	3			105829484	105884170	Alternate gaits	Significant				
+172514	GAITED	3			105829484	105884170	Alternate gaits	Significant				
+172519	GAITED	3			105829484	105884170	Alternate gaits	Significant				
+172532	GAITED	3			105829484	105884170	Alternate gaits	Significant				
+172533	GAITED	3	200.30	200.30-200.30	105829484	105884170	Alternate gaits	Significant				
+172535	GAITED	3			105829484	105884170	Alternate gaits	Significant				
+172537	GAITED	3			105829484	105884170	Alternate gaits	Significant				
+172538	GAITED	3	200.47	200.47-200.47	105829484	105884170	Alternate gaits	Significant				
+172544	GAITED	3			105829484	105884170	Alternate gaits	Significant				
+172550	GAITED	3	229.71	229.71-229.71	105829484	105884170	Alternate gaits	Significant				
+172551	GAITED	3	211.75	211.75-211.75	105829484	105884170	Alternate gaits	Significant				
+172552	GAITED	3			105829484	105884170	Alternate gaits	Significant				
+172554	GAITED	3			105829484	105884170	Alternate gaits	Significant				
+172557	GAITED	3			105829484	105884170	Alternate gaits	Significant				
+172565	GAITED	3			105829484	105884170	Alternate gaits	Significant				
+172572	GAITED	3			105829484	105884170	Alternate gaits	Significant				
+172582	GAITED	3	201.50	201.50-201.50	105829484	105884170	Alternate gaits	Significant				
+161299	GAITED	4			76668012	76668052	Alternate gaits	Significant				
+161300	GAITED	4			76708978	76709018	Alternate gaits	Significant				
+161301	GAITED	4			76807179	76807219	Alternate gaits	Significant				
+161302	GAITED	4			76809952	76809992	Alternate gaits	Significant				
+161303	GAITED	4			76758570	76758610	Alternate gaits	Significant				
+161304	GAITED	4			72632038	72632078	Alternate gaits	Significant				
+124189	WALKS	5	754.77	754.77-754.77	78057148	78057188	Walk score	Significant				
+172394	GAITED	5			88412138	88412178	Alternate gaits	Significant				
+172530	GAITED	5					Alternate gaits	Significant				
+161305	GAITED	6	178.79	178.79-178.79	10515742	10515782	Alternate gaits	Significant				
+161306	GAITED	6	336.68	336.68-336.68	19802049	19802089	Alternate gaits	Significant				
+161307	GAITED	6	217.27	217.27-217.27	12778696	12778736	Alternate gaits	Significant				
+161308	GAITED	6	223.86	223.86-223.86	13166200	13166240	Alternate gaits	Significant				
+161309	GAITED	6	224.31	224.31-224.31	13192878	13192918	Alternate gaits	Significant				
+161310	GAITED	6	217.46	217.46-217.46	12790058	12790098	Alternate gaits	Significant				
+172355	GAITED	6	125.35	125.35-125.35	7372670	7372710	Alternate gaits	Significant				
+172357	GAITED	6	119.03	119.03-119.03	7000484	7000524	Alternate gaits	Significant				
+172487	GAITED	6			81651584	81651624	Alternate gaits	Significant				
+172488	GAITED	6					Alternate gaits	Significant				
+172495	GAITED	6			81668210	81668250	Alternate gaits	Significant				
+172581	GAITED	6	112.38	112.38-112.38	6609490	6609530	Alternate gaits	Significant				
+161311	GAITED	7	79.62	79.62-79.62	34291248	34291288	Alternate gaits	Significant				
+161312	GAITED	7	125.27	125.27-125.27	53950639	53950679	Alternate gaits	Significant				
+161313	GAITED	7					Alternate gaits	Significant				
+161314	GAITED	7	114.74	114.74-114.74	49414512	49414552	Alternate gaits	Significant				
+161315	GAITED	7	115.04	115.04-115.04	49544071	49544111	Alternate gaits	Significant				
+161316	GAITED	7	115.41	115.41-115.41	49701702	49701742	Alternate gaits	Significant				
+161317	GAITED	7	118.08	118.08-118.08	50851806	50851846	Alternate gaits	Significant				
+106355	GAITED	8	442.52	442.52-442.52	24686509	24686549	Alternate gaits	Significant				
+172368	GAITED	9	319.49	319.49-319.49	76324149	76324189	Alternate gaits	Significant				
+172402	GAITED	9	327.46	327.46-327.46	78229400	78229440	Alternate gaits	Significant				
+172494	GAITED	9					Alternate gaits	Significant				
+172521	GAITED	9	317.31	317.31-317.31	75803100	75803140	Alternate gaits	Significant				
+172579	GAITED	9					Alternate gaits	Significant				
+106359	GAITED	10	216.89	216.89-216.89	53570874	53570914	Alternate gaits	Significant				
+124196	CANT	10	465.50	465.50-465.50	80389078	80389118	Cantering ability	Significant				
+172379	GAITED	10	349.50	349.50-349.50	60356590	60356630	Alternate gaits	Significant				
+172395	GAITED	10	32.89	32.89-32.89	5679737	5679777	Alternate gaits	Significant				
+106353	GAITED	11		2131.41-2131.41	47974227	47974267	Alternate gaits	Significant				
+106364	GAITED	11		2725.38-2732.34	47893127	48015457	Alternate gaits	Significant		rs68852201	rs68853442	
+172536	GAITED	11					Alternate gaits	Significant				
+172470	GAITED	11					Alternate gaits	Significant				
+172471	GAITED	11			36714803	36714843	Alternate gaits	Significant				
+172473	GAITED	11			36608662	36608702	Alternate gaits	Significant				
+172491	GAITED	11			36669508	36669548	Alternate gaits	Significant				
+172507	GAITED	11			50634915	50634955	Alternate gaits	Significant				
+172522	GAITED	11					Alternate gaits	Significant				
+172528	GAITED	11					Alternate gaits	Significant				
+172542	GAITED	11			29564186	29564226	Alternate gaits	Significant				
+172547	GAITED	11			29532446	29532486	Alternate gaits	Significant				
+172577	GAITED	11					Alternate gaits	Significant				
+172578	GAITED	11					Alternate gaits	Significant				
+106351	GAITED	12		1424.53-1424.54	12173675	12173715	Alternate gaits	Significant				
+172404	GAITED	12	81.98	81.98-81.98	2155412	2155452	Alternate gaits	Significant				
+172558	GAITED	12					Alternate gaits	Significant				
+172568	GAITED	12					Alternate gaits	Significant				
+106357	GAITED	13	605.14	605.14-605.14	11381384	11381424	Alternate gaits	Significant				
+172496	GAITED	14					Alternate gaits	Significant				
+172501	GAITED	14					Alternate gaits	Significant				
+172513	GAITED	14	2.67	2.67-2.67	1570149	1570189	Alternate gaits	Significant				
+172518	GAITED	14					Alternate gaits	Significant				
+172484	GAITED	15					Alternate gaits	Significant				
+124193	WALKS	16	259.38	259.38-259.39	39953829	39953869	Walk score	Significant				
+172451	GAITED	16					Alternate gaits	Significant				
+172456	GAITED	16					Alternate gaits	Significant				
+172459	GAITED	16	385.52	385.52-385.52	59382104	59382144	Alternate gaits	Significant				
+172460	GAITED	16	385.32	385.32-385.32	59352666	59352706	Alternate gaits	Significant				
+172506	GAITED	16	167.00	167.00-167.00	25722805	25722845	Alternate gaits	Significant				
+172353	GAITED	17	396.76	396.76-396.76	60554438	60554478	Alternate gaits	Significant				
+172358	GAITED	17	396.42	396.42-396.42	60503118	60503158	Alternate gaits	Significant				
+172359	GAITED	17	396.56	396.56-396.56	60523862	60523902	Alternate gaits	Significant				
+172360	GAITED	17	268.63	268.63-268.63	40999924	40999964	Alternate gaits	Significant				
+172361	GAITED	17	274.57	274.57-274.57	41905482	41905522	Alternate gaits	Significant				
+172364	GAITED	17	186.48	186.48-186.48	28460831	28460871	Alternate gaits	Significant				
+172365	GAITED	17	237.79	237.79-237.79	36291953	36291993	Alternate gaits	Significant				
+172377	GAITED	17	170.12	170.12-170.12	25963815	25963855	Alternate gaits	Significant				
+172391	GAITED	17	396.19	396.19-396.19	60468115	60468155	Alternate gaits	Significant				
+172392	GAITED	17	396.19	396.19-396.19	60468712	60468752	Alternate gaits	Significant				
+172411	GAITED	17					Alternate gaits	Significant				
+172412	GAITED	17					Alternate gaits	Significant				
+172424	GAITED	17					Alternate gaits	Significant				
+172428	GAITED	17	186.46	186.46-186.46	28458412	28458452	Alternate gaits	Significant				
+172431	GAITED	17					Alternate gaits	Significant				
+172438	GAITED	17					Alternate gaits	Significant				
+172441	GAITED	17	187.77	187.77-187.77	28658830	28658870	Alternate gaits	Significant				
+172457	GAITED	17					Alternate gaits	Significant				
+172462	GAITED	17					Alternate gaits	Significant				
+172531	GAITED	17			61743996	61744036	Alternate gaits	Significant				
+172541	GAITED	17					Alternate gaits	Significant				
+172546	GAITED	17					Alternate gaits	Significant				
+172549	GAITED	17					Alternate gaits	Significant				
+172564	GAITED	17	186.64	186.64-186.64	28485776	28485816	Alternate gaits	Significant				
+106349	GAITED	19	65.82	65.82-65.82	37674787	37674827	Alternate gaits	Significant				
+106350	GAITED	19	65.82	65.82-65.82	37674737	37674777	Alternate gaits	Significant				
+106354	GAITED	19	65.82	65.82-65.82	30903464	30903504	Alternate gaits	Significant				
+106358	GAITED	19	65.82	65.82-65.82	11617813	11617853	Alternate gaits	Significant				
+106360	GAITED	19	65.82	65.82-65.82	13181164	13181204	Alternate gaits	Significant				
+106361	GAITED	19	65.82	65.82-65.82	16010921	16010961	Alternate gaits	Significant				
+106362	GAITED	19	65.82	65.82-65.82	16034904	16034944	Alternate gaits	Significant				
+106363	GAITED	19	66.25	66.21-66.29	37674757	37719196	Alternate gaits	Significant		rs69250631	rs69250662	
+172366	GAITED	19	43.31	43.31-43.31	24644790	24644830	Alternate gaits	Significant				
+172396	GAITED	19	53.85	53.85-53.85	30643297	30643337	Alternate gaits	Significant				
+172408	GAITED	19	49.91	49.91-49.91	28402175	28402215	Alternate gaits	Significant				
+172524	GAITED	19	55.17	55.17-55.17	31393812	31393852	Alternate gaits	Significant				
+172583	GAITED	19	37.69	37.69-37.69	21446198	21446238	Alternate gaits	Significant				
+172384	GAITED	20	92.89	92.89-92.90	43319144	43319184	Alternate gaits	Significant				
+172434	GAITED	20					Alternate gaits	Significant				
+172461	GAITED	20	59.42	59.42-59.42	27711091	27711131	Alternate gaits	Significant				
+172465	GAITED	20					Alternate gaits	Significant				
+172468	GAITED	20	59.30	59.29-59.30	27650679	27650719	Alternate gaits	Significant				
+172485	GAITED	20					Alternate gaits	Significant				
+172486	GAITED	20					Alternate gaits	Significant				
+172489	GAITED	20	59.55	59.55-59.55	27768879	27768919	Alternate gaits	Significant				
+172512	GAITED	20					Alternate gaits	Significant				
+172520	GAITED	20					Alternate gaits	Significant				
+161318	GAITED	21			41265611	41265651	Alternate gaits	Significant				
+161319	GAITED	22	97.80	97.80-97.80	47133873	47133913	Alternate gaits	Significant				
+37602	GAITED	23	25.06		0	100	Alternate gaits	Significant				
+37605	GAITED	23	25.06		0	100	Alternate gaits	Significant				
+37606	GAITED	23	25.06		0	100	Alternate gaits	Significant				
+37607	GAITED	23	25.06		0	100	Alternate gaits	Significant				
+161266	GAITED	23	37.09	37.09-37.09	26841770	26841810	Alternate gaits	Significant				
+161267	GAITED	23	31.74	31.74-31.74	22967636	22967676	Alternate gaits	Significant				
+161268	GAITED	23	36.97	36.97-36.97	26754893	26754933	Alternate gaits	Significant				
+161269	GAITED	23	39.44	39.44-39.44	28542948	28542988	Alternate gaits	Significant				
+161270	GAITED	23	36.39	36.39-36.39	26338156	26338196	Alternate gaits	Significant				
+161271	GAITED	23	36.39	36.39-36.39	26338412	26338452	Alternate gaits	Significant				
+161272	GAITED	23	29.73	29.73-29.73	21512696	21512736	Alternate gaits	Significant				
+161273	GAITED	23	29.40	29.40-29.40	21277367	21277407	Alternate gaits	Significant				
+161274	GAITED	23	37.97	37.97-37.97	27480306	27480346	Alternate gaits	Significant				
+161275	GAITED	23	39.12	39.12-39.12	28314372	28314412	Alternate gaits	Significant				
+161276	GAITED	23	39.28	39.28-39.28	28425187	28425227	Alternate gaits	Significant				
+161277	GAITED	23	52.30	52.30-52.30	37851821	37851861	Alternate gaits	Significant				
+161278	GAITED	23	33.07	33.07-33.07	23935957	23935997	Alternate gaits	Significant				
+161279	GAITED	23	37.97	37.97-37.97	27480357	27480397	Alternate gaits	Significant				
+161280	GAITED	23	38.66	38.66-38.66	27976493	27976533	Alternate gaits	Significant				
+161281	GAITED	23	38.93	38.93-38.93	28175552	28175592	Alternate gaits	Significant				
+161282	GAITED	23	32.32	32.32-32.32	23389673	23389713	Alternate gaits	Significant				
+161283	GAITED	23	31.67	31.67-31.67	22922039	22922079	Alternate gaits	Significant				
+161284	GAITED	23	31.22	31.22-31.22	22597000	22597040	Alternate gaits	Significant				
+161285	GAITED	23	35.42	35.42-35.42	25631941	25631981	Alternate gaits	Significant				
+161286	GAITED	23	37.31	37.31-37.31	27001608	27001648	Alternate gaits	Significant				
+161287	GAITED	23	35.36	35.36-35.36	25590913	25590953	Alternate gaits	Significant				
+161288	GAITED	23	30.60	30.60-30.60	22143396	22143436	Alternate gaits	Significant				
+161289	GAITED	23	37.73	37.73-37.73	27309409	27309449	Alternate gaits	Significant				
+161290	GAITED	23	39.41	39.41-39.41	28521823	28521863	Alternate gaits	Significant				
+161291	GAITED	23	41.71	41.71-41.71	30185785	30185825	Alternate gaits	Significant				
+161292	GAITED	23	45.41	45.41-45.41	32861074	32861114	Alternate gaits	Significant				
+161293	GAITED	23	31.60	31.60-31.60	22865997	22866037	Alternate gaits	Significant				
+161294	GAITED	23	45.45	45.45-45.45	32891940	32891980	Alternate gaits	Significant				
+161295	GAITED	23	31.86	31.86-31.86	23060958	23060998	Alternate gaits	Significant				
+161296	GAITED	23	32.06	32.06-32.06	23202401	23202441	Alternate gaits	Significant				
+161297	GAITED	23	35.52	35.52-35.52	25707501	25707541	Alternate gaits	Significant				
+161298	GAITED	23	45.50	45.50-45.50	32927189	32927229	Alternate gaits	Significant				
+172356	GAITED	23	20.24	20.24-20.24	14650355	14650395	Alternate gaits	Significant				
+172381	GAITED	23	36.08	36.08-36.08	26109598	26109638	Alternate gaits	Significant				
+172413	GAITED	23	20.23	20.23-20.23	14640792	14640832	Alternate gaits	Significant				
+172414	GAITED	23	20.24	20.24-20.24	14648570	14648610	Alternate gaits	Significant				
+172415	GAITED	23	20.24	20.24-20.24	14649844	14649884	Alternate gaits	Significant				
+172432	GAITED	23					Alternate gaits	Significant				
+172433	GAITED	23	28.55	28.55-28.55	20662300	20662340	Alternate gaits	Significant				
+172446	GAITED	23	20.24	20.24-20.24	14645057	14645097	Alternate gaits	Significant				
+172478	GAITED	23					Alternate gaits	Significant				
+172492	GAITED	23	28.55	28.55-28.55	20658769	20658809	Alternate gaits	Significant				
+172500	GAITED	23					Alternate gaits	Significant				
+172529	GAITED	23					Alternate gaits	Significant				
+172553	GAITED	23					Alternate gaits	Significant				
+161320	GAITED	24	69.67	69.67-69.67	37224465	37224505	Alternate gaits	Significant				
+161321	GAITED	24	69.67	69.67-69.67	37225090	37225130	Alternate gaits	Significant				
+172511	GAITED	24	19.27	19.27-19.27	10296148	10296188	Alternate gaits	Significant				
+172517	GAITED	24					Alternate gaits	Significant				
+172526	GAITED	24	19.25	19.25-19.25	10285886	10285926	Alternate gaits	Significant				
+172570	GAITED	24					Alternate gaits	Significant				
+106352	GAITED	25	49.64	49.64-49.64	12939275	12939315	Alternate gaits	Significant				
+106356	GAITED	25	49.64	49.64-49.64	10384999	10385039	Alternate gaits	Significant				
+172363	GAITED	25	2.68	2.68-2.68	2021024	2021064	Alternate gaits	Significant				
+172380	GAITED	25	22.12	22.12-22.12	16689673	16689713	Alternate gaits	Significant				
+172436	GAITED	25	15.65	15.65-15.65	11811809	11811849	Alternate gaits	Significant				
+172439	GAITED	25					Alternate gaits	Significant				
+172442	GAITED	25					Alternate gaits	Significant				
+172447	GAITED	25					Alternate gaits	Significant				
+172453	GAITED	25	19.94	19.94-19.94	15044533	15044573	Alternate gaits	Significant				
+172454	GAITED	25					Alternate gaits	Significant				
+172458	GAITED	25					Alternate gaits	Significant				
+172463	GAITED	25					Alternate gaits	Significant				
+172464	GAITED	25					Alternate gaits	Significant				
+172466	GAITED	25					Alternate gaits	Significant				
+172472	GAITED	25	19.11	19.11-19.11	14418153	14418193	Alternate gaits	Significant				
+172476	GAITED	25					Alternate gaits	Significant				
+172479	GAITED	25					Alternate gaits	Significant				
+172480	GAITED	25					Alternate gaits	Significant				
+172482	GAITED	25	4.94	4.94-4.94	3724530	3724570	Alternate gaits	Significant				
+172483	GAITED	25					Alternate gaits	Significant				
+172493	GAITED	25					Alternate gaits	Significant				
+172498	GAITED	25	4.86	4.86-4.86	3666036	3666076	Alternate gaits	Significant				
+172499	GAITED	25	5.12	5.12-5.12	3860458	3860498	Alternate gaits	Significant				
+172509	GAITED	25	19.92	19.92-19.92	15026741	15026781	Alternate gaits	Significant				
+172516	GAITED	25					Alternate gaits	Significant				
+172539	GAITED	25					Alternate gaits	Significant				
+172543	GAITED	25	19.53	19.53-19.53	14737324	14737364	Alternate gaits	Significant				
+172548	GAITED	25					Alternate gaits	Significant				
+172555	GAITED	25	19.56	19.56-19.56	14760147	14760187	Alternate gaits	Significant				
+172556	GAITED	25					Alternate gaits	Significant				
+172560	GAITED	25					Alternate gaits	Significant				
+172562	GAITED	25					Alternate gaits	Significant				
+172563	GAITED	25					Alternate gaits	Significant				
+172567	GAITED	25					Alternate gaits	Significant				
+172575	GAITED	25					Alternate gaits	Significant				
+172580	GAITED	25	20.70	20.70-20.70	15621743	15621783	Alternate gaits	Significant				
+172569	GAITED	26					Alternate gaits	Significant				
+172573	GAITED	26					Alternate gaits	Significant				
+172574	GAITED	26					Alternate gaits	Significant				
+172576	GAITED	26					Alternate gaits	Significant				
+172523	GAITED	29	11.21	11.21-11.21	3291477	3291517	Alternate gaits	Significant				
+172406	GAITED	30	80.38	80.38-80.38	15254084	15254124	Alternate gaits	Significant				
+172409	GAITED	30	74.13	74.13-74.13	14067964	14068004	Alternate gaits	Significant				
+172410	GAITED	30					Alternate gaits	Significant				
+172416	GAITED	30					Alternate gaits	Significant				
+172422	GAITED	30	79.33	79.33-79.33	15055773	15055813	Alternate gaits	Significant				
+172423	GAITED	30	79.40	79.40-79.40	15068762	15068802	Alternate gaits	Significant				
+172425	GAITED	30	78.70	78.70-78.70	14936119	14936159	Alternate gaits	Significant				
+172429	GAITED	30	79.69	79.69-79.70	15124727	15124767	Alternate gaits	Significant				
+172440	GAITED	30					Alternate gaits	Significant				
+172367	GAITED	31	89.97	89.97-89.97	18200317	18200357	Alternate gaits	Significant				
+172369	GAITED	31	89.94	89.94-89.94	18194066	18194106	Alternate gaits	Significant				
+172372	GAITED	31	89.79	89.79-89.79	18163566	18163606	Alternate gaits	Significant				
+172373	GAITED	31	90.00	90.00-90.00	18207358	18207398	Alternate gaits	Significant				
+172374	GAITED	31	90.28	90.28-90.28	18263770	18263810	Alternate gaits	Significant				
+172376	GAITED	31	89.39	89.39-89.39	18083816	18083856	Alternate gaits	Significant				
+172378	GAITED	31	25.51	25.51-25.51	5160183	5160223	Alternate gaits	Significant				
+172398	GAITED	31	87.79	87.79-87.79	17759782	17759822	Alternate gaits	Significant				
+172399	GAITED	31	91.76	91.76-91.76	18562326	18562366	Alternate gaits	Significant				
+172400	GAITED	31	25.51	25.51-25.51	5160112	5160152	Alternate gaits	Significant				
+172403	GAITED	31	90.29	90.29-90.29	18266145	18266185	Alternate gaits	Significant				
