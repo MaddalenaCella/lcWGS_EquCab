@@ -1,0 +1,91 @@
+QTL_ID	Symbol	Chromosome	Center_cM	Range_cM	Cood_A_bp	Coord_B_bp	Trait_Name	Significance	FlankMrkA2	FlankMrkA1	FlankMrkB1	FlankMrkB2
+138687	SPD	1	137.12	137.12-137.12	25715314	25715354	Racing speed	Significant				
+165332	RACPERM	1			94138617	94215030	racing performance	Significant				
+165335	RACPERM	1			94138617	94215030	racing performance	Significant				
+165343	RACPERM	1			94138617	94215030	racing performance	Significant				
+165350	RACPERM	2					racing performance	Significant				
+165351	RACPERM	2	104.72	104.72-104.72	21311660	21311700	racing performance	Significant				
+37918	RACPERM	4	216.47	216.47-216.47	38969287	38969327	racing performance	Significant				
+37919	RACPERM	4	216.49	216.49-216.49	38973211	38973251	racing performance	Significant				
+57423	RACPERM	5	394.00	394.00-394.00	40747198	40747238	racing performance	Suggestive				
+179350	RACPERM	5					racing performance	Significant				
+179351	RACPERM	5					racing performance	Significant				
+179352	RACPERM	5					racing performance	Significant				
+179353	NSTART	5					Number of starts	Significant				
+179354	RACPERM	5					racing performance	Significant				
+138680	RACDIST	6			79312750	79312790	racing distance	Significant				
+138681	RACPERM	6			79312750	79312790	racing performance	Significant				
+165326	LTEARN	6					Lifetime earnings	Significant				
+165327	LTEARN	6					Lifetime earnings	Significant				
+165328	LTEARN	6					Lifetime earnings	Significant				
+165329	LTEARN	6					Lifetime earnings	Significant				
+165330	LTEARN	6					Lifetime earnings	Significant				
+138684	RACPERM	7	14.59	14.59-14.59	6283246	6283286	racing performance	Significant				
+165347	RACPERM	7					racing performance	Significant				
+57424	RACPERM	8	69.79	69.79-69.79	5906884	5906924	racing performance	Suggestive				
+57425	RACPERM	8	72.39	72.39-72.39	6126813	6126853	racing performance	Suggestive				
+57426	RACPERM	8	136.93	136.93-136.94	11590280	11590320	racing performance	Suggestive				
+57427	RACPERM	16	92.09	92.09-92.09	14185441	14185481	racing performance	Suggestive				
+57428	RACPERM	16	100.95	100.95-100.95	15550355	15550395	racing performance	Suggestive				
+57429	RACPERM	16	105.75	105.75-105.75	16289346	16289386	racing performance	Suggestive				
+57430	RACPERM	16	106.05	106.05-106.05	16334643	16334683	racing performance	Suggestive				
+57431	RACPERM	16	110.03	110.03-110.03	16948635	16948675	racing performance	Suggestive				
+57432	RACPERM	16	110.33	110.33-110.33	16993967	16994007	racing performance	Suggestive				
+57433	RACPERM	16	110.36	110.36-110.36	16999200	16999240	racing performance	Suggestive				
+57434	RACPERM	16	110.38	110.38-110.38	17001977	17002017	racing performance	Suggestive				
+57435	RACPERM	16	113.10	113.10-113.10	17421491	17421531	racing performance	Suggestive				
+57436	RACPERM	16	113.91	113.91-113.91	17546569	17546609	racing performance	Suggestive				
+57437	RACPERM	16	115.33	115.33-115.33	17763923	17763963	racing performance	Suggestive				
+57438	RACPERM	16	115.50	115.50-115.50	17790320	17790360	racing performance	Suggestive				
+138682	RACPERM	16			79466416	79466456	racing performance	Significant				
+138683	RACDIST	16			79466416	79466456	racing distance	Significant				
+165325	LTEARN	16					Lifetime earnings	Significant				
+165337	RACPERM	17					racing performance	Significant				
+165340	RACPERM	17					racing performance	Significant				
+165344	RACPERM	17					racing performance	Significant				
+165353	RACPERM	17	136.37	136.37-136.37	20813144	20813184	racing performance	Significant				
+32133	RACDIST	18	72.5	90.08-90.28	0	100	racing distance	Significant				
+32134	RACDIST	18	115.99	115.86-116.12	62008083	62148769	racing distance	Significant				
+32135	RACDIST	18	115.99	115.86-116.12	62008083	62148769	racing distance	Significant				
+32136	RACDIST	18	115.99	115.86-116.12	62008083	62148769	racing distance	Significant				
+32137	RACDIST	18	115.99	115.86-116.12	62008083	62148769	racing distance	Significant				
+32138	RACDIST	18	115.99	115.86-116.12	62008083	62148769	racing distance	Significant				
+32139	RACDIST	18	115.99	115.86-116.12	62008083	62148769	racing distance	Significant				
+32140	RACDIST	18	115.99	115.86-116.12	62008083	62148769	racing distance	Significant				
+32148	RACDIST	18	115.99	115.86-116.12	62008083	62148769	racing distance	Significant				
+32149	RACDIST	18	115.99	115.86-116.12	62008083	62148769	racing distance	Significant				
+37920	LTEARN	18	122.96	122.96-122.96	65809462	65809502	Lifetime earnings	Significant				
+37921	LTEARN	18	123.07	123.07-123.07	65868584	65868624	Lifetime earnings	Significant				
+37922	LTEARN	18	124.33	124.33-124.33	66539947	66539987	Lifetime earnings	Significant				
+37923	LTEARN	18	123.65	122.96-124.33	65809482	66539967	Lifetime earnings	Significant		rs69125012	rs69126375	
+57439	RACPERM	20	64.11	64.11-64.11	29897378	29897418	racing performance	Suggestive				
+57440	RACPERM	20	64.60	64.60-64.60	30126559	30126599	racing performance	Suggestive				
+57441	RACPERM	20	68.90	68.90-68.90	32127849	32127889	racing performance	Suggestive				
+57442	RACPERM	20	68.90	68.90-68.90	32131051	32131091	racing performance	Suggestive				
+57443	RACPERM	21	339.09	339.09-339.09	18154956	18154996	racing performance	Suggestive				
+57444	RACPERM	21	342.71	342.71-342.71	18348582	18348622	racing performance	Suggestive				
+57445	RACPERM	21	887.24	887.24-887.24	47502568	47502608	racing performance	Suggestive				
+57446	RACPERM	21	914.59	914.59-914.59	48967326	48967366	racing performance	Suggestive				
+57447	RACPERM	21	922.38	922.38-922.38	49384214	49384254	racing performance	Suggestive				
+57448	RACPERM	21	931.90	931.90-931.91	49894171	49894211	racing performance	Suggestive				
+37603	RACPERM	23	25.06		0	100	racing performance	Significant				
+37604	LTEARN	23	25.06		0	100	Lifetime earnings	Significant				
+165331	RACPERM	23	32.24	32.24-32.24	23333481	23333521	racing performance	Significant				
+165334	RACPERM	23					racing performance	Significant				
+165336	RACPERM	23					racing performance	Significant				
+165338	RACPERM	23	30.20	30.20-30.20	21857296	21857336	racing performance	Significant				
+165339	RACPERM	23	29.11	29.11-29.11	21064551	21064591	racing performance	Significant				
+165341	RACPERM	23					racing performance	Significant				
+165342	RACPERM	23	31.04	31.04-31.04	22464584	22464624	racing performance	Significant				
+165345	RACPERM	23	29.97	29.97-29.97	21689589	21689629	racing performance	Significant				
+165346	RACPERM	23					racing performance	Significant				
+165349	RACPERM	23	31.09	31.09-31.09	22496767	22496807	racing performance	Significant				
+165352	RACPERM	25					racing performance	Significant				
+57449	RACPERM	28	32.83	32.83-32.83	17405057	17405097	racing performance	Suggestive				
+165322	LTEARN	28					Lifetime earnings	Significant				
+165323	LTEARN	28					Lifetime earnings	Significant				
+138685	RACPERM	29	59.88	59.88-59.88	17580577	17580617	racing performance	Significant				
+138686	RACPERM	29	59.89	59.89-59.89	17580972	17581012	racing performance	Significant				
+165333	RACPERM	29	83.56	83.56-83.56	24530417	24530457	racing performance	Significant				
+57450	RACPERM	30	20.39	20.39-20.39	3869316	3869356	racing performance	Suggestive				
+165348	RACPERM	31					racing performance	Significant				

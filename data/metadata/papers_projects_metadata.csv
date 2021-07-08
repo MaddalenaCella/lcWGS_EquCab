@@ -1,0 +1,11 @@
+name,description
+data_found,was the data found? (y/n)
+bio_project,bioproject number 
+era,modern or ancient sample
+protocol,pipeline/protocol used for the analysis
+ref_genome,reference genomemapped to
+paper_title,title of paper
+author,author
+doi,paper link
+supplementary_data_local,local storage of the supplementary information
+comments,comments

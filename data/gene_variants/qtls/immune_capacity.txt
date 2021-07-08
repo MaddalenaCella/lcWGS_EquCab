@@ -1,0 +1,20 @@
+QTL_ID	Symbol	Chromosome	Center_cM	Range_cM	Cood_A_bp	Coord_B_bp	Trait_Name	Significance	FlankMrkA2	FlankMrkA1	FlankMrkB1	FlankMrkB2
+28464	IGG	1	130.4		0	100	Immunoglobulin G level	Significant				
+28465	IGE	1	141.6		0	100	Immunoglobulin E level	Significant				
+28466	IGG	2	29.7		0	100	Immunoglobulin G level	Significant				
+28467	IGE	2	117.7		0	100	Immunoglobulin E level	Significant				
+28468	IGE	4	60		0	100	Immunoglobulin E level	Significant				
+28469	IGG	5	25.9		0	100	Immunoglobulin G level	Significant				
+28470	IGE	6	43.3		0	100	Immunoglobulin E level	Significant				
+28471	IGE	10	81.5		0	100	Immunoglobulin E level	Significant				
+28472	IGE	13	54.8		0	100	Immunoglobulin E level	Significant				
+28473	IGG	13	60.8		0	100	Immunoglobulin G level	Significant				
+28474	IGG	16	65.5		0	100	Immunoglobulin G level	Significant				
+28475	IGG	23	31.1		0	100	Immunoglobulin G level	Significant				
+28476	IGG	23	49.1		0	100	Immunoglobulin G level	Significant				
+28477	IGG	24	68.3		0	100	Immunoglobulin G level	Significant				
+28478	IGG	24	88.3		0	100	Immunoglobulin G level	Significant				
+28479	IGG	26	50.0		0	100	Immunoglobulin G level	Significant				
+28480	IGE	26	61.4		0	100	Immunoglobulin E level	Significant				
+28481	IGE	27	60.0		0	100	Immunoglobulin E level	Significant				
+28482	IGE	31	13.7		0	100	Immunoglobulin E level	Significant				

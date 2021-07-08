@@ -1,0 +1,11 @@
+field,description
+BioProject,NCBI bioproject code
+species,species of sample
+sub_group,"location, breed, etc"
+era,modern or ancient
+age,how old if ancient?
+data_type,"sam,bam, fasta, etc."
+,
+,
+,
+values correspond to the specific bioprojects field name. e.g. is sub_group in the title or description?,

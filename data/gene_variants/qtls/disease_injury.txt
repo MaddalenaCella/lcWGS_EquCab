@@ -1,0 +1,1030 @@
+QTL_ID	Symbol	Chromosome	Center_cM	Range_cM	Cood_A_bp	Coord_B_bp	Trait_Name	Significance	FlankMrkA2	FlankMrkA1	FlankMrkB1	FlankMrkB2
+29323	SUSBITE	X	93.75	93.01-94.49	59053351	59993833	Insect bite hypersensitivity	Significant		rs69521093	rs69526369	
+29324	SUSBITE	X	95.29	94.52-96.06	60009473	60987311	Insect bite hypersensitivity	Suggestive	rs69526373			rs69562802
+29385	OSTEO	X	95.29	94.52-96.06	60009473	60987311	Osteochondrosis	Significant				
+37901	SUSBITE	X	36.49	36.49-36.49	23168664	23168704	Insect bite hypersensitivity	Significant				
+56195	SUSBITE	X	115.80	115.12-116.48	73091622	73949513	Insect bite hypersensitivity	Significant		rs69471373	rs69479430	
+166789	SUSLAR	X	91.07	91.07-91.07	57820231	57820271	Recurrent laryngeal neuropathy	Significant				
+178632	SUSBITE	X	120.50	119.74-121.26	76024500	76988439	Insect bite hypersensitivity	Suggestive	rs69473937			rs69489516
+178631	SUSBITE	X	7.04	6.33-7.75	4018390	4923258	Insect bite hypersensitivity	Suggestive	rs69486527			rs69487943
+178634	SUSBITE	X	129.95	129.18-130.71	82014630	82987969	Insect bite hypersensitivity	Significant		rs69507256	rs69512897	
+178633	SUSBITE	X	128.66	128.20-129.12	81391335	81974630	Insect bite hypersensitivity	Suggestive	rs69545917			rs69507224
+27140	OSTD	1	156.5		0	100	Osteochondrosis dissecans	Significant				
+27141	OSTD	1	156.5		0	100	Osteochondrosis dissecans	Significant				
+27147	OSTEO	1	156.5		0	100	Osteochondrosis	Significant				
+27148	OSTEO	1	156.5		0	100	Osteochondrosis	Significant				
+27149	OSTEO	1	193.5		0	100	Osteochondrosis	Significant				
+27156	OSTEO	1	240.5		0	100	Osteochondrosis	Significant				
+27157	OSTEO	1	115.5		0	100	Osteochondrosis	Significant				
+27158	OSTEO	1	276.4		0	100	Osteochondrosis	Significant				
+27159	OSTEO	1	274.3		0	100	Osteochondrosis	Significant				
+27160	OSTEO	1	122.9		0	100	Osteochondrosis	Significant				
+27161	OSTEO	1	134.6		0	100	Osteochondrosis	Significant				
+27162	OSTEO	1	134.6		0	100	Osteochondrosis	Significant				
+27163	OSTEO	1	306.4		0	100	Osteochondrosis	Significant				
+27164	OSTEO	1	293.8		0	100	Osteochondrosis	Significant				
+27165	OSTEO	1	315.2		0	100	Osteochondrosis	Significant				
+28297	CHRLYMP	1	274.3		0	100	chronic progressive lymphedema	Significant				
+28298	CHRLYMP	1	276.4		0	100	chronic progressive lymphedema	Significant				
+28308	CHRLYMP	1	118.1		0	100	chronic progressive lymphedema	Significant				
+28309	CHRLYMP	1	42.2		0	100	chronic progressive lymphedema	Significant				
+28310	CHRLYMP	1	35.6		0	100	chronic progressive lymphedema	Significant				
+28311	CHRLYMP	1	63.7		0	100	chronic progressive lymphedema	Significant				
+28312	CHRLYMP	1	96.3		0	100	chronic progressive lymphedema	Significant				
+28313	CHRLYMP	1	263.1		0	100	chronic progressive lymphedema	Significant				
+28314	CHRLYMP	1	240.5		0	100	chronic progressive lymphedema	Significant				
+28315	CHRLYMP	1	115.5		0	100	chronic progressive lymphedema	Significant				
+28316	CHRLYMP	1	274.3		0	100	chronic progressive lymphedema	Significant				
+28317	CHRLYMP	1	276.4		0	100	chronic progressive lymphedema	Significant				
+28318	CHRLYMP	1	122.9		0	100	chronic progressive lymphedema	Significant				
+28319	CHRLYMP	1	125.2		0	100	chronic progressive lymphedema	Significant				
+28320	CHRLYMP	1	293.8		0	100	chronic progressive lymphedema	Significant				
+28321	CHRLYMP	1	134.6		0	100	chronic progressive lymphedema	Significant				
+28322	CHRLYMP	1	134.6		0	100	chronic progressive lymphedema	Significant				
+28792	ERU	1	115.4		0	100	Recurrent uveitis	Significant				
+29256	RHOD	1	471.87	471.87-471.87	35593038	35593078	Rhodococcus equi infection	Significant				
+29303	SUSBITE	1	40.05	37.57-42.54	7044939	7977385	Insect bite hypersensitivity	Suggestive	rs68541770			rs68546437
+29367	OSTEO	1	855.72	855.72-855.72	160479697	160479737	Osteochondrosis	Significant				
+29368	OSTEO	1	855.72	855.72-855.72	160479697	160479737	Osteochondrosis	Significant				
+29510	BFSUS	1	943.64	943.64-943.64	176967384	176967424	Bone fracture	Significant				
+29509	BFSUS	1	267.01	267.01-267.01	50074720	50074760	Bone fracture	Significant				
+29505	BFSUS	1	75.54	75.54-75.54	14167259	14167299	Bone fracture	Significant				
+37878	SUSBITE	1	618.66	618.66-618.66	116022301	116022341	Insect bite hypersensitivity	Significant				
+37879	SUSBITE	1	618.74	618.74-618.74	116037175	116037215	Insect bite hypersensitivity	Significant				
+37880	SUSBITE	1	912.31	912.31-912.31	171091092	171091132	Insect bite hypersensitivity	Significant				
+56196	OSTD	1	683.86	683.86-683.86	128248792	128248832	Osteochondrosis dissecans	-				
+56197	OSTD	1	765.84	765.84-765.84	143624226	143624266	Osteochondrosis dissecans	-				
+70916	OSTEO	1	630.75	630.75-630.75	118288461	118288501	Osteochondrosis	Significant				
+160824	DWARF	1			94215010	94215050	Dwarfism	Significant				
+160825	DWARF	1			94138617	94215030	Dwarfism	Significant		rs68487996	rs68444275	
+160826	DWARF	1			94138617	94215030	Dwarfism	Significant				
+160827	DWARF	1			94138617	94215030	Dwarfism	Significant				
+160828	DWARF	1			94138617	94215030	Dwarfism	Significant				
+181831	ERU	1			158120530	158120570	Recurrent uveitis	Significant				
+181830	ERU	1			158120037	158120077	Recurrent uveitis	Significant				
+178607	SUSBITE	1			153033730	153971271	Insect bite hypersensitivity	Significant		rs68495816	rs68503304	
+178605	SUSBITE	1	40.05	37.57-42.54	7044939	7977385	Insect bite hypersensitivity	Suggestive	rs68541770			rs68546437
+178636	SUSBITE	1	40.05	37.57-42.54	7044939	7977385	Insect bite hypersensitivity	Significant				
+178635	SUSBITE	1	40.05	37.57-42.54	7044939	7977385	Insect bite hypersensitivity	Significant				
+178606	SUSBITE	1			152048245	152995346	Insect bite hypersensitivity	Suggestive	rs68491748			rs68494590
+179365	SUSBITE	1			152048245	152995346	Insect bite hypersensitivity	Significant				
+179370	SUSBITE	1			152048245	152995346	Insect bite hypersensitivity	Significant				
+179371	SUSBITE	1			152048245	152995346	Insect bite hypersensitivity	Significant				
+179374	SUSBITE	1			152048245	152995346	Insect bite hypersensitivity	Significant				
+179375	SUSBITE	1			152048245	152995346	Insect bite hypersensitivity	Significant				
+179382	SUSBITE	1			152048245	152995346	Insect bite hypersensitivity	Significant				
+179383	SUSBITE	1			152048245	152995346	Insect bite hypersensitivity	Significant				
+179389	SUSBITE	1			152048245	152995346	Insect bite hypersensitivity	Significant				
+179390	SUSBITE	1			152048245	152995346	Insect bite hypersensitivity	Significant				
+181832	ERU	1			152048245	152995346	Recurrent uveitis	Significant				
+181837	ERU	1			152048245	152995346	Recurrent uveitis	Significant				
+181838	ERU	1			152048245	152995346	Recurrent uveitis	Significant				
+181839	ERU	1			152048245	152995346	Recurrent uveitis	Significant				
+181840	ERU	1			152048245	152995346	Recurrent uveitis	Significant				
+181843	ERU	1			152048245	152995346	Recurrent uveitis	Significant				
+27179	OSTEO	2	26.9		0	100	Osteochondrosis	Significant				
+27180	OSTEO	2	26.9		0	100	Osteochondrosis	Significant				
+27181	OSTEO	2	26.9		0	100	Osteochondrosis	Significant				
+27182	OSTEO	2	41.7		0	100	Osteochondrosis	Significant				
+27183	OSTD	2	41.7		0	100	Osteochondrosis dissecans	Significant				
+27194	OSTEO	2	26.9		0	100	Osteochondrosis	Significant				
+27195	OSTD	2	26.9		0	100	Osteochondrosis dissecans	Significant				
+27196	OSTEO	2	31.4		0	100	Osteochondrosis	Significant				
+27197	OSTD	2	31.4		0	100	Osteochondrosis dissecans	Significant				
+27198	OSTEO	2	41.7		0	100	Osteochondrosis	Significant				
+27199	OSTD	2	41.7		0	100	Osteochondrosis dissecans	Significant				
+27200	OSTEO	2	43.4		0	100	Osteochondrosis	Significant				
+27201	OSTD	2	43.4		0	100	Osteochondrosis dissecans	Significant				
+27202	OSTEO	2	69.8		0	100	Osteochondrosis	Significant				
+27212	OSTEO	2	41.7		0	100	Osteochondrosis	Significant				
+27213	OSTEO	2	69.8		0	100	Osteochondrosis	Significant				
+28251	GPT	2	32.6		0	100	Guttural pouch tympany	Significant				
+28252	GPT	2	32.8		0	100	Guttural pouch tympany	Significant				
+28253	GPT	2	43.4		0	100	Guttural pouch tympany	Significant				
+28254	GPT	2	33.7		0	100	Guttural pouch tympany	Significant				
+28255	GPT	2	43.4		0	100	Guttural pouch tympany	Significant				
+28262	GPT	2	28.6		0	100	Guttural pouch tympany	Significant				
+28263	GPT	2	41.7		0	100	Guttural pouch tympany	Significant				
+28264	GPT	2	31.1		0	100	Guttural pouch tympany	Significant				
+28265	GPT	2	56.3		0	100	Guttural pouch tympany	Significant				
+28266	GPT	2	32.6		0	100	Guttural pouch tympany	Significant				
+28267	GPT	2	32.8		0	100	Guttural pouch tympany	Significant				
+28268	GPT	2	43.4		0	100	Guttural pouch tympany	Significant				
+28269	GPT	2	33.7		0	100	Guttural pouch tympany	Significant				
+28270	GPT	2	43.4		0	100	Guttural pouch tympany	Significant				
+29249	RHOD	2	434.84	434.84-434.84	80197339	80197379	Rhodococcus equi infection	Significant				
+29369	OSTEO	2	251.68	251.68-251.68	51217553	51217593	Osteochondrosis	Significant				
+29370	OSTEO	2	251.68	251.68-251.68	51218388	51218428	Osteochondrosis	Significant				
+32142	OSTEO	2	84.28	21.75 - 32.61	0	100	Osteochondrosis	Significant				
+32143	OSTD	2	94.30	28.56 - 31.14	0	100	Osteochondrosis dissecans	Significant				
+32144	OSTEO	2	81.59	17.32 - 32.61	0	100	Osteochondrosis	Significant				
+32145	OSTD	2	87.29	22.82 - 33.58	0	100	Osteochondrosis dissecans	Significant				
+32146	OSTEO	2	25.47	21.75 - 32.61	0	100	Osteochondrosis	Significant				
+32147	OSTEO	2	102.95	28.56 - 34.72	0	100	Osteochondrosis	Significant				
+119851	OSTEO	2	42.60	42.60-42.60	8669881	8669921	Osteochondrosis	Significant				
+163995	OSTEO	2	126.61	126.61-126.61	25766159	25766199	Osteochondrosis	Significant				
+178608	SUSBITE	2	385.47	383.41-387.54	78026093	78865929	Insect bite hypersensitivity	Suggestive	rs68511003			rs68539356
+179368	SUSBITE	2	383.62	383.62-383.62	78068407	78068447	Insect bite hypersensitivity	Significant				
+179369	SUSBITE	2	309.74	309.74-309.74	63034781	63034821	Insect bite hypersensitivity	Significant				
+179372	SUSBITE	2	81.13	81.13-81.13	16510373	16510413	Insect bite hypersensitivity	Significant				
+179373	SUSBITE	2	81.13	81.13-81.13	16510373	16510413	Insect bite hypersensitivity	Significant				
+179376	SUSBITE	2	315.91	315.91-315.91	64289952	64289992	Insect bite hypersensitivity	Significant				
+179377	SUSBITE	2			89890299	89890339	Insect bite hypersensitivity	Significant				
+179378	SUSBITE	2			91300116	91300156	Insect bite hypersensitivity	Significant				
+179384	SUSBITE	2	255.95	255.95-255.95	52087353	52087393	Insect bite hypersensitivity	Significant				
+179385	SUSBITE	2	256.14	256.14-256.14	52126011	52126051	Insect bite hypersensitivity	Significant				
+179386	SUSBITE	2	256.91	256.91-256.91	52282429	52282469	Insect bite hypersensitivity	Significant				
+179387	SUSBITE	2	323.58	323.58-323.58	65851385	65851425	Insect bite hypersensitivity	Significant				
+179397	SUSBITE	2	270.74	270.74-270.74	55097830	55097870	Insect bite hypersensitivity	Significant				
+179398	SUSBITE	2	270.76	270.76-270.76	55101919	55101959	Insect bite hypersensitivity	Significant				
+179400	SUSBITE	2	262.24	262.24-262.24	53366567	53366607	Insect bite hypersensitivity	Significant				
+27184	OSTD	3	20.7		0	100	Osteochondrosis dissecans	Significant				
+27185	OSTD	3	24.4		0	100	Osteochondrosis dissecans	Significant				
+27186	OSTD	3	30.2		0	100	Osteochondrosis dissecans	Significant				
+28483	OSTD	3	358.17	358.17-358.17	88493397	88493437	Osteochondrosis dissecans	Significant				
+28484	OSTEO	3	131.4	130.4 - 135.6	0	100	Osteochondrosis	Significant				
+28485	OSTEO	3	130.5	125.9 - 133.4	0	100	Osteochondrosis	Significant				
+29075	GPT	3	358.17	358.17-358.17	33216183	33216223	Guttural pouch tympany	Significant				
+29076	GPT	3	358.17	358.17-358.17	33386091	33386131	Guttural pouch tympany	Significant				
+29077	GPT	3	358.17	358.17-358.17	33512989	33513029	Guttural pouch tympany	Significant				
+29078	GPT	3	358.17	358.17-358.17	33695078	33695118	Guttural pouch tympany	Significant				
+29079	GPT	3	358.17	358.17-358.17	33788830	33788870	Guttural pouch tympany	Significant				
+29080	GPT	3	358.17	358.17-358.17	33889006	33889046	Guttural pouch tympany	Significant				
+29081	GPT	3	358.17	358.17-358.17	34005735	34005775	Guttural pouch tympany	Significant				
+29082	GPT	3	358.17	358.17-358.17	34234872	34234912	Guttural pouch tympany	Significant				
+29083	GPT	3	358.17	358.17-358.17	52577092	52577132	Guttural pouch tympany	Significant				
+29084	GPT	3	358.17	358.17-358.17	52638486	52638526	Guttural pouch tympany	Significant				
+29085	GPT	3	358.17	358.17-358.17	52818206	52818246	Guttural pouch tympany	Significant				
+29086	GPT	3	358.17	358.17-358.17	53026038	53026078	Guttural pouch tympany	Significant				
+29087	GPT	3	358.17	358.17-358.17	53312973	53313013	Guttural pouch tympany	Significant				
+29088	GPT	3	358.17	358.17-358.17	53396576	53396616	Guttural pouch tympany	Significant				
+29089	GPT	3	358.17	358.17-358.17	53842960	53843000	Guttural pouch tympany	Significant				
+29090	GPT	3	358.17	358.17-358.17	56044320	56044360	Guttural pouch tympany	Significant				
+29091	GPT	3	358.17	358.17-358.17	56208301	56208341	Guttural pouch tympany	Significant				
+29092	GPT	3	358.17	358.17-358.17	56270751	56270791	Guttural pouch tympany	Significant				
+29093	GPT	3	358.17	358.17-358.17	56380843	56380883	Guttural pouch tympany	Significant				
+29094	GPT	3	358.17	358.17-358.17	56626743	56626783	Guttural pouch tympany	Significant				
+29095	GPT	3	358.17	358.17-358.17	56781569	56781609	Guttural pouch tympany	Significant				
+29096	GPT	3	358.17	358.17-358.17	57035707	57035747	Guttural pouch tympany	Significant				
+29097	GPT	3	358.17	358.17-358.17	57149794	57149834	Guttural pouch tympany	Significant				
+29098	GPT	3	358.17	358.17-358.17	57373457	57373497	Guttural pouch tympany	Significant				
+29099	GPT	3	358.17	358.17-358.17	57557234	57557274	Guttural pouch tympany	Significant				
+29100	GPT	3	358.17	358.17-358.17	57658606	57658646	Guttural pouch tympany	Significant				
+29101	GPT	3	358.17	358.17-358.17	57876794	57876834	Guttural pouch tympany	Significant				
+29102	GPT	3	358.17	358.17-358.17	58026730	58026770	Guttural pouch tympany	Significant				
+29103	GPT	3	358.17	358.17-358.17	58136011	58136051	Guttural pouch tympany	Significant				
+29104	GPT	3	358.17	358.17-358.17	58250675	58250715	Guttural pouch tympany	Significant				
+29105	GPT	3	358.17	358.17-358.17	58378566	58378606	Guttural pouch tympany	Significant				
+29106	GPT	3	358.17	358.17-358.17	58669110	58669150	Guttural pouch tympany	Significant				
+29107	GPT	3	358.17	358.17-358.17	58832090	58832130	Guttural pouch tympany	Significant				
+29108	GPT	3	358.17	358.17-358.17	58894581	58894621	Guttural pouch tympany	Significant				
+29113	GPT	3	358.17	358.17-358.17	34443376	34443416	Guttural pouch tympany	Significant				
+29114	GPT	3	358.17	358.17-358.17	34502108	34502148	Guttural pouch tympany	Significant				
+29115	GPT	3	358.17	358.17-358.17	34673385	34673425	Guttural pouch tympany	Significant				
+29116	GPT	3	358.17	358.17-358.17	34786550	34786590	Guttural pouch tympany	Significant				
+29117	GPT	3	358.17	358.17-358.17	35140310	35140350	Guttural pouch tympany	Significant				
+29118	GPT	3	358.17	358.17-358.17	35279201	35279241	Guttural pouch tympany	Significant				
+29119	GPT	3	358.17	358.17-358.17	35408412	35408452	Guttural pouch tympany	Significant				
+29120	GPT	3	358.17	358.17-358.17	35502766	35502806	Guttural pouch tympany	Significant				
+29121	GPT	3	358.17	358.17-358.17	35639894	35639934	Guttural pouch tympany	Significant				
+29122	GPT	3	358.17	358.17-358.17	36461572	36461612	Guttural pouch tympany	Significant				
+29123	GPT	3	358.17	358.17-358.17	36840245	36840285	Guttural pouch tympany	Significant				
+29124	GPT	3	358.17	358.17-358.17	36977319	36977359	Guttural pouch tympany	Significant				
+29125	GPT	3	358.17	358.17-358.17	37121834	37121874	Guttural pouch tympany	Significant				
+29126	GPT	3	358.17	358.17-358.17	37148427	37148467	Guttural pouch tympany	Significant				
+29127	GPT	3	358.17	358.17-358.17	37398487	37398527	Guttural pouch tympany	Significant				
+29128	GPT	3	358.17	358.17-358.17	37540071	37540111	Guttural pouch tympany	Significant				
+29129	GPT	3	358.17	358.17-358.17	37635849	37635889	Guttural pouch tympany	Significant				
+29130	GPT	3	358.17	358.17-358.17	37789680	37789720	Guttural pouch tympany	Significant				
+29131	GPT	3	358.17	358.17-358.17	37957558	37957598	Guttural pouch tympany	Significant				
+29132	GPT	3	358.17	358.17-358.17	38123474	38123514	Guttural pouch tympany	Significant				
+29133	GPT	3	358.17	358.17-358.17	38157782	38157822	Guttural pouch tympany	Significant				
+29134	GPT	3	358.17	358.17-358.17	38344331	38344371	Guttural pouch tympany	Significant				
+29135	GPT	3	358.17	358.17-358.17	38417941	38417981	Guttural pouch tympany	Significant				
+29136	GPT	3	358.17	358.17-358.17	38502744	38502784	Guttural pouch tympany	Significant				
+29137	GPT	3	358.17	358.17-358.17	38637563	38637603	Guttural pouch tympany	Significant				
+29138	GPT	3	358.17	358.17-358.17	38767593	38767633	Guttural pouch tympany	Significant				
+29139	GPT	3	358.17	358.17-358.17	38930275	38930315	Guttural pouch tympany	Significant				
+29140	GPT	3	358.17	358.17-358.17	39054257	39054297	Guttural pouch tympany	Significant				
+29141	GPT	3	358.17	358.17-358.17	39250059	39250099	Guttural pouch tympany	Significant				
+29142	GPT	3	358.17	358.17-358.17	39375889	39375929	Guttural pouch tympany	Significant				
+29143	GPT	3	358.17	358.17-358.17	39547611	39547651	Guttural pouch tympany	Significant				
+29144	GPT	3	358.17	358.17-358.17	39642385	39642425	Guttural pouch tympany	Significant				
+29145	GPT	3	358.17	358.17-358.17	39861516	39861556	Guttural pouch tympany	Significant				
+29146	GPT	3	358.17	358.17-358.17	40179288	40179328	Guttural pouch tympany	Significant				
+29147	GPT	3	358.17	358.17-358.17	40523750	40523790	Guttural pouch tympany	Significant				
+29148	GPT	3	358.17	358.17-358.17	40650233	40650273	Guttural pouch tympany	Significant				
+29149	GPT	3	358.17	358.17-358.17	40781743	40781783	Guttural pouch tympany	Significant				
+29150	GPT	3	358.17	358.17-358.17	41027593	41027633	Guttural pouch tympany	Significant				
+29151	GPT	3	358.17	358.17-358.17	41230979	41231019	Guttural pouch tympany	Significant				
+29152	GPT	3	358.17	358.17-358.17	41368781	41368821	Guttural pouch tympany	Significant				
+29153	GPT	3	358.17	358.17-358.17	41368781	41368821	Guttural pouch tympany	Significant				
+29154	GPT	3	358.17	358.17-358.17	41567800	41567840	Guttural pouch tympany	Significant				
+29155	GPT	3	358.17	358.17-358.17	41631032	41631072	Guttural pouch tympany	Significant				
+29156	GPT	3	358.17	358.17-358.17	41842682	41842722	Guttural pouch tympany	Significant				
+29157	GPT	3	358.17	358.17-358.17	41928356	41928396	Guttural pouch tympany	Significant				
+29158	GPT	3	358.17	358.17-358.17	42002956	42002996	Guttural pouch tympany	Significant				
+29159	GPT	3	358.17	358.17-358.17	42181016	42181056	Guttural pouch tympany	Significant				
+29160	GPT	3	358.17	358.17-358.17	42286697	42286737	Guttural pouch tympany	Significant				
+29161	GPT	3	358.17	358.17-358.17	42411335	42411375	Guttural pouch tympany	Significant				
+29162	GPT	3	358.17	358.17-358.17	42654379	42654419	Guttural pouch tympany	Significant				
+29163	GPT	3	358.17	358.17-358.17	42765678	42765718	Guttural pouch tympany	Significant				
+29164	GPT	3	358.17	358.17-358.17	42946542	42946582	Guttural pouch tympany	Significant				
+29165	GPT	3	358.17	358.17-358.17	43022477	43022517	Guttural pouch tympany	Significant				
+29166	GPT	3	358.17	358.17-358.17	43140925	43140965	Guttural pouch tympany	Significant				
+29167	GPT	3	358.17	358.17-358.17	43265798	43265838	Guttural pouch tympany	Significant				
+29168	GPT	3	358.17	358.17-358.17	43419179	43419219	Guttural pouch tympany	Significant				
+29169	GPT	3	358.17	358.17-358.17	43519185	43519225	Guttural pouch tympany	Significant				
+29170	GPT	3	358.17	358.17-358.17	43772892	43772932	Guttural pouch tympany	Significant				
+29171	GPT	3	358.17	358.17-358.17	43927531	43927571	Guttural pouch tympany	Significant				
+29172	GPT	3	358.17	358.17-358.17	44037097	44037137	Guttural pouch tympany	Significant				
+29173	GPT	3	358.17	358.17-358.17	44250884	44250924	Guttural pouch tympany	Significant				
+29174	GPT	3	358.17	358.17-358.17	44525919	44525959	Guttural pouch tympany	Significant				
+29175	GPT	3	358.17	358.17-358.17	44630413	44630453	Guttural pouch tympany	Significant				
+29176	GPT	3	358.17	358.17-358.17	44944857	44944897	Guttural pouch tympany	Significant				
+29177	GPT	3	358.17	358.17-358.17	45003677	45003717	Guttural pouch tympany	Significant				
+29178	GPT	3	358.17	358.17-358.17	45228397	45228437	Guttural pouch tympany	Significant				
+29179	GPT	3	358.17	358.17-358.17	45259270	45259310	Guttural pouch tympany	Significant				
+29180	GPT	3	358.17	358.17-358.17	45449443	45449483	Guttural pouch tympany	Significant				
+29181	GPT	3	358.17	358.17-358.17	45688019	45688059	Guttural pouch tympany	Significant				
+29182	GPT	3	358.17	358.17-358.17	45882522	45882562	Guttural pouch tympany	Significant				
+29183	GPT	3	358.17	358.17-358.17	46087904	46087944	Guttural pouch tympany	Significant				
+29184	GPT	3	358.17	358.17-358.17	46381785	46381825	Guttural pouch tympany	Significant				
+29185	GPT	3	358.17	358.17-358.17	46513158	46513198	Guttural pouch tympany	Significant				
+29186	GPT	3	358.17	358.17-358.17	46668071	46668111	Guttural pouch tympany	Significant				
+29187	GPT	3	358.17	358.17-358.17	46754846	46754886	Guttural pouch tympany	Significant				
+29188	GPT	3	358.17	358.17-358.17	46875627	46875667	Guttural pouch tympany	Significant				
+29189	GPT	3	358.17	358.17-358.17	47006508	47006548	Guttural pouch tympany	Significant				
+29190	GPT	3	358.17	358.17-358.17	47219886	47219926	Guttural pouch tympany	Significant				
+29191	GPT	3	358.17	358.17-358.17	47267039	47267079	Guttural pouch tympany	Significant				
+29192	GPT	3	358.17	358.17-358.17	47452803	47452843	Guttural pouch tympany	Significant				
+29193	GPT	3	358.17	358.17-358.17	47573451	47573491	Guttural pouch tympany	Significant				
+29194	GPT	3	358.17	358.17-358.17	47684840	47684880	Guttural pouch tympany	Significant				
+29195	GPT	3	358.17	358.17-358.17	47766109	47766149	Guttural pouch tympany	Significant				
+29196	GPT	3	358.17	358.17-358.17	47766109	47766149	Guttural pouch tympany	Significant				
+29197	GPT	3	358.17	358.17-358.17	48071986	48072026	Guttural pouch tympany	Significant				
+29198	GPT	3	358.17	358.17-358.17	48307243	48307283	Guttural pouch tympany	Significant				
+29199	GPT	3	358.17	358.17-358.17	48375418	48375458	Guttural pouch tympany	Significant				
+29200	GPT	3	358.17	358.17-358.17	48519406	48519446	Guttural pouch tympany	Significant				
+29201	GPT	3	358.17	358.17-358.17	48726595	48726635	Guttural pouch tympany	Significant				
+29202	GPT	3	358.17	358.17-358.17	48955047	48955087	Guttural pouch tympany	Significant				
+29203	GPT	3	358.17	358.17-358.17	49031614	49031654	Guttural pouch tympany	Significant				
+29204	GPT	3	358.17	358.17-358.17	49169349	49169389	Guttural pouch tympany	Significant				
+29205	GPT	3	358.17	358.17-358.17	49476426	49476466	Guttural pouch tympany	Significant				
+29206	GPT	3	358.17	358.17-358.17	49604471	49604511	Guttural pouch tympany	Significant				
+29207	GPT	3	358.17	358.17-358.17	49680438	49680478	Guttural pouch tympany	Significant				
+29208	GPT	3	358.17	358.17-358.17	49923078	49923118	Guttural pouch tympany	Significant				
+29209	GPT	3	358.17	358.17-358.17	50059950	50059990	Guttural pouch tympany	Significant				
+29210	GPT	3	358.17	358.17-358.17	50135275	50135315	Guttural pouch tympany	Significant				
+29211	GPT	3	358.17	358.17-358.17	50328520	50328560	Guttural pouch tympany	Significant				
+29212	GPT	3	358.17	358.17-358.17	50444816	50444856	Guttural pouch tympany	Significant				
+29213	GPT	3	358.17	358.17-358.17	50561870	50561910	Guttural pouch tympany	Significant				
+29214	GPT	3	358.17	358.17-358.17	50687461	50687501	Guttural pouch tympany	Significant				
+29215	GPT	3	358.17	358.17-358.17	50757867	50757907	Guttural pouch tympany	Significant				
+29216	GPT	3	358.17	358.17-358.17	50953466	50953506	Guttural pouch tympany	Significant				
+29217	GPT	3	358.17	358.17-358.17	51128497	51128537	Guttural pouch tympany	Significant				
+29218	GPT	3	358.17	358.17-358.17	51261799	51261839	Guttural pouch tympany	Significant				
+29219	GPT	3	358.17	358.17-358.17	51525164	51525204	Guttural pouch tympany	Significant				
+29220	GPT	3	358.17	358.17-358.17	51729558	51729598	Guttural pouch tympany	Significant				
+29221	GPT	3	358.17	358.17-358.17	51782266	51782306	Guttural pouch tympany	Significant				
+29222	GPT	3	358.17	358.17-358.17	51894520	51894560	Guttural pouch tympany	Significant				
+29223	GPT	3	358.17	358.17-358.17	52033002	52033042	Guttural pouch tympany	Significant				
+29224	GPT	3	358.17	358.17-358.17	52129800	52129840	Guttural pouch tympany	Significant				
+29225	GPT	3	358.17	358.17-358.17	52272354	52272394	Guttural pouch tympany	Significant				
+29226	GPT	3	358.17	358.17-358.17	52442692	52442732	Guttural pouch tympany	Significant				
+29227	GPT	3	358.17	358.17-358.17	53943507	53943547	Guttural pouch tympany	Significant				
+29228	GPT	3	358.17	358.17-358.17	54082247	54082287	Guttural pouch tympany	Significant				
+29229	GPT	3	358.17	358.17-358.17	54170668	54170708	Guttural pouch tympany	Significant				
+29230	GPT	3	358.17	358.17-358.17	54268473	54268513	Guttural pouch tympany	Significant				
+29231	GPT	3	358.17	358.17-358.17	54400623	54400663	Guttural pouch tympany	Significant				
+29232	GPT	3	358.17	358.17-358.17	54588796	54588836	Guttural pouch tympany	Significant				
+29233	GPT	3	358.17	358.17-358.17	54796384	54796424	Guttural pouch tympany	Significant				
+29234	GPT	3	358.17	358.17-358.17	54993345	54993385	Guttural pouch tympany	Significant				
+29235	GPT	3	358.17	358.17-358.17	55007696	55007736	Guttural pouch tympany	Significant				
+29236	GPT	3	358.17	358.17-358.17	55141215	55141255	Guttural pouch tympany	Significant				
+29237	GPT	3	358.17	358.17-358.17	55323016	55323056	Guttural pouch tympany	Significant				
+29238	GPT	3	358.17	358.17-358.17	55395206	55395246	Guttural pouch tympany	Significant				
+29239	GPT	3	358.17	358.17-358.17	55713970	55714010	Guttural pouch tympany	Significant				
+29240	GPT	3	358.17	358.17-358.17	55940147	55940187	Guttural pouch tympany	Significant				
+29267	RHOD	3	358.17	358.17-358.17	59782861	59782901	Rhodococcus equi infection	Significant				
+29272	RHOD	3	358.17	358.17-358.17	59874418	59874458	Rhodococcus equi infection	Significant				
+29273	RHOD	3	358.17	358.17-358.17	59874475	59874515	Rhodococcus equi infection	Significant				
+29280	SUSBITE	3	34.44	32.68-36.21	8074967	8945516	Insect bite hypersensitivity	Suggestive	rs68488638			rs68556576
+29281	SUSBITE	3	70.85	68.95-72.75	17036655	17973786	Insect bite hypersensitivity	Suggestive	rs68625213			rs68595804
+29282	SUSBITE	3	204.39	202.54-206.25	50041835	50957472	Insect bite hypersensitivity	Suggestive	rs68559765			rs68523440
+29283	SUSBITE	3	208.47	206.48-210.46	51015363	51998291	Insect bite hypersensitivity	Suggestive	rs68524803			rs68592768
+29304	SUSBITE	3	143.76	142.00-145.52	35084304	35953765	Insect bite hypersensitivity	Suggestive	rs68458751			rs68458854
+29325	OSTEO	3	425.64	425.64-425.64	105163057	105163097	Osteochondrosis	Significant				
+29326	OSTEO	3	427.19	427.19-427.19	105546982	105547022	Osteochondrosis	Significant				
+29327	OSTEO	3	428.34	428.34-428.34	105830605	105830645	Osteochondrosis	Significant				
+29512	BFSUS	3	309.97	309.97-309.97	76584405	76584445	Bone fracture	Significant				
+29511	BFSUS	3	298.13	298.13-298.13	73658226	73658266	Bone fracture	Significant				
+37881	SUSBITE	3	33.88	33.88-33.88	8370875	8370915	Insect bite hypersensitivity	Significant				
+37882	SUSBITE	3	33.97	33.97-33.97	8392669	8392709	Insect bite hypersensitivity	Significant				
+37883	SUSBITE	3	261.60	261.60-261.60	64632314	64632354	Insect bite hypersensitivity	Significant				
+166271	OSTD	3			105546982	105547022	Osteochondrosis dissecans	Significant				
+166272	OSTD	3			105546982	105547022	Osteochondrosis dissecans	Significant				
+166273	OSTD	3			105546982	105547022	Osteochondrosis dissecans	Significant				
+166785	SUSLAR	3			105546982	105547022	Recurrent laryngeal neuropathy	Significant				
+166791	SUSLAR	3			105829484	105884170	Recurrent laryngeal neuropathy	Significant		rs68533899	rs68454104	
+178610	SUSBITE	3	342.23	340.45-344.00	84116142	84991051	Insect bite hypersensitivity	Suggestive	rs68598689			rs68558999
+178609	SUSBITE	3	143.76	142.00-145.52	35084304	35953765	Insect bite hypersensitivity	Significant		rs68458751	rs68458854	
+179366	SUSBITE	3	290.62	290.62-290.62	71803890	71803930	Insect bite hypersensitivity	Significant				
+179367	SUSBITE	3	290.62	290.62-290.62	71803890	71803930	Insect bite hypersensitivity	Significant				
+179379	SUSBITE	3	71.85	71.85-71.85	17751650	17751690	Insect bite hypersensitivity	Significant				
+179380	SUSBITE	3	69.68	69.68-69.68	17214965	17215005	Insect bite hypersensitivity	Significant				
+179381	SUSBITE	3	221.95	221.95-221.95	54836559	54836599	Insect bite hypersensitivity	Significant				
+179402	SUSBITE	3	317.33	317.33-317.33	78402153	78402193	Insect bite hypersensitivity	Significant				
+179403	SUSBITE	3	317.33	317.33-317.33	78402153	78402193	Insect bite hypersensitivity	Significant				
+179404	SUSBITE	3	317.33	317.33-317.33	78402229	78402269	Insect bite hypersensitivity	Significant				
+179405	SUSBITE	3	317.33	317.33-317.33	78402229	78402269	Insect bite hypersensitivity	Significant				
+27166	OSTEO	4	7.8		0	100	Osteochondrosis	Significant				
+27167	OSTEO	4	10.1		0	100	Osteochondrosis	Significant				
+27168	OSTEO	4	57.8		0	100	Osteochondrosis	Significant				
+27169	OSTEO	4	80.3		0	100	Osteochondrosis	Significant				
+27170	OSTEO	4	81.5		0	100	Osteochondrosis	Significant				
+27171	OSTEO	4	82.8		0	100	Osteochondrosis	Significant				
+27172	OSTEO	4	71.3		0	100	Osteochondrosis	Significant				
+27173	OSTEO	4	73.3		0	100	Osteochondrosis	Significant				
+27187	OSTEO	4	17.2		0	100	Osteochondrosis	Significant				
+27188	OSTEO	4	24.3		0	100	Osteochondrosis	Significant				
+27189	OSTEO	4	142.8		0	100	Osteochondrosis	Significant				
+27203	OSTEO	4	81.5		0	100	Osteochondrosis	Significant				
+27204	OSTEO	4	82.8		0	100	Osteochondrosis	Significant				
+27205	OSTEO	4	80.3		0	100	Osteochondrosis	Significant				
+28237	OSTD	4	69.0		0	100	Osteochondrosis dissecans	Significant				
+28238	OSTD	4	69.0		0	100	Osteochondrosis dissecans	Significant				
+28239	OSTD	4	69.0		0	100	Osteochondrosis dissecans	Significant				
+28331	CHRLYMP	4	117.7		0	100	chronic progressive lymphedema	Significant				
+28339	CHRLYMP	4	117.7		0	100	chronic progressive lymphedema	Significant				
+29274	RHOD	4	491.56	491.56-491.56	72076223	72076263	Rhodococcus equi infection	Significant				
+29305	SUSBITE	4	135.76	133.38-138.14	24010915	24868953	Insect bite hypersensitivity	Suggestive	rs69570530			rs69609922
+29306	SUSBITE	4	241.48	238.86-244.11	43000811	43945687	Insect bite hypersensitivity	Significant	rs69587273			rs69585851
+37884	SUSBITE	4	551.00	551.00-551.00	99194106	99194146	Insect bite hypersensitivity	Significant				
+119852	OSTEO	4	211.10	211.10-211.10	38004060	38004100	Osteochondrosis	Significant				
+160690	SUSBITE	4	130.23	129.89-130.57	23383774	23505444	Insect bite hypersensitivity	Significant				
+160691	SUSBITE	4			79687222	79957793	Insect bite hypersensitivity	Significant				
+163996	OSTEO	4	332.70	332.70-332.70	59894742	59894782	Osteochondrosis	Significant				
+163997	OSTEO	4	332.70	332.70-332.70	59894742	59894782	Osteochondrosis	Significant				
+163998	OSTEO	4	332.70	332.70-332.70	59894742	59894782	Osteochondrosis	Significant				
+178611	SUSBITE	4			80026563	80961523	Insect bite hypersensitivity	Suggestive	rs69535637			rs69493829
+178612	SUSBITE	4			100077028	100917948	Insect bite hypersensitivity	Suggestive	rs69500307			rs69561207
+179463	SUSBITE	4	25.22	25.22-25.22	4540708	4540748	Insect bite hypersensitivity	Significant				
+179464	SUSBITE	4	25.22	25.22-25.22	4540708	4540748	Insect bite hypersensitivity	Significant				
+179465	SUSBITE	4	25.50	25.50-25.50	4590789	4590829	Insect bite hypersensitivity	Significant				
+179466	SUSBITE	4	249.57	249.57-249.57	44929029	44929069	Insect bite hypersensitivity	Significant				
+179467	SUSBITE	4	249.57	249.57-249.57	44929029	44929069	Insect bite hypersensitivity	Significant				
+179468	SUSBITE	4	249.57	249.57-249.57	44929029	44929069	Insect bite hypersensitivity	Significant				
+27206	OSTD	5	65.5		0	100	Osteochondrosis dissecans	Significant				
+27207	OSTEO	5	108.2		0	100	Osteochondrosis	Significant				
+27208	OSTD	5	108.2		0	100	Osteochondrosis dissecans	Significant				
+27209	OSTEO	5	79.3		0	100	Osteochondrosis	Significant				
+27210	OSTD	5	79.3		0	100	Osteochondrosis dissecans	Significant				
+27211	OSTEO	5	100.1		0	100	Osteochondrosis	Significant				
+28235	OSTD	5		64.03 - 76.90	0	100	Osteochondrosis dissecans	Significant				
+28236	OSTEO	5		66.40 - 74.13	0	100	Osteochondrosis	Significant				
+29242	RHOD	5	855.68	855.68-855.68	79290149	79290189	Rhodococcus equi infection	Significant				
+29244	RHOD	5	855.68	855.68-855.68	91479619	91479659	Rhodococcus equi infection	Significant				
+29257	RHOD	5	855.68	855.68-855.68	88617348	88617388	Rhodococcus equi infection	Significant				
+29266	RHOD	5	855.68	855.68-855.68	79290149	79290189	Rhodococcus equi infection	Significant				
+29269	RHOD	5	855.68	855.68-855.68	90703075	90703115	Rhodococcus equi infection	Significant				
+29270	RHOD	5	855.68	855.68-855.68	90706651	90706691	Rhodococcus equi infection	Significant				
+29307	SUSBITE	5	256.29	251.52-261.05	26011955	26997808	Insect bite hypersensitivity	Suggestive	rs69481446			rs69484761
+37902	OSTD	5	748.65	748.65-748.65	77424966	77425006	Osteochondrosis dissecans	Significant				
+106322	heaves	5	54.52	54.29-54.74	5615076	5661460	Recurrent airway obstruction	Suggestive				
+179360	SUSBITE	5			78269919	78269959	Insect bite hypersensitivity	Significant				
+179364	SUSBITE	5			74013882	74013922	Insect bite hypersensitivity	Significant				
+179458	SUSBITE	5	250.87	250.87-250.87	25944940	25944980	Insect bite hypersensitivity	Significant				
+179459	SUSBITE	5	253.49	253.49-253.49	26215244	26215284	Insect bite hypersensitivity	Significant				
+179460	SUSBITE	5			74007485	74007525	Insect bite hypersensitivity	Significant				
+179461	SUSBITE	5			74007622	74007662	Insect bite hypersensitivity	Significant				
+179462	SUSBITE	5			98392315	98392355	Insect bite hypersensitivity	Significant				
+213525	EMSYND	5					Equine metabolic syndrome	Significant		rs1146804635	rs395683503	
+213526	EMSYND	5			41701370	42144464	Equine metabolic syndrome	Significant		rs396994299	rs396519338	
+213527	EMSYND	5					Equine metabolic syndrome	Significant		rs1142676323	rs1144669284	
+28349	heaves	6		96.7-105.1	0	100	Recurrent airway obstruction	Significant		COR070	TKY323	
+28350	heaves	6		96.7-113.9	0	100	Recurrent airway obstruction	Significant		COR070	TKY284	
+29309	SUSBITE	6	110.72	102.49-118.95	6027980	6996215	Insect bite hypersensitivity	Suggestive	rs68658125			rs68635506
+37885	SUSBITE	6	803.51	803.51-803.51	47258552	47258592	Insect bite hypersensitivity	Significant				
+106323	heaves	6		1269.27-1269.40	74651871	74659625	Recurrent airway obstruction	Significant				
+178613	SUSBITE	6			24181261	24962534	Insect bite hypersensitivity	Suggestive	rs68709969			rs68699018
+178614	SUSBITE	6			43005654	43956194	Insect bite hypersensitivity	Suggestive	rs68650648			rs68650164
+179359	SUSBITE	6			59819549	59819589	Insect bite hypersensitivity	Significant				
+179388	SUSBITE	6	223.79	223.79-223.79	13162010	13162050	Insect bite hypersensitivity	Significant				
+179391	SUSBITE	6	116.20	116.20-116.20	6834286	6834326	Insect bite hypersensitivity	Significant				
+179410	SUSBITE	6	268.04	268.04-268.04	15764990	15765030	Insect bite hypersensitivity	Significant				
+179411	SUSBITE	6	268.04	268.04-268.04	15764990	15765030	Insect bite hypersensitivity	Significant				
+179413	SUSBITE	6	20.61	20.61-20.61	1212163	1212203	Insect bite hypersensitivity	Significant				
+179414	SUSBITE	6	22.59	22.59-22.59	1328804	1328844	Insect bite hypersensitivity	Significant				
+179416	SUSBITE	6			73076276	73076316	Insect bite hypersensitivity	Significant				
+28323	CHRLYMP	7	45		0	100	chronic progressive lymphedema	Significant				
+28324	CHRLYMP	7	46.1		0	100	chronic progressive lymphedema	Significant				
+28351	heaves	7	69.5	63.2-78.3	0	100	Recurrent airway obstruction	Significant		TKY005	TKY282	
+29284	SUSBITE	7	156.74	155.61-157.88	67014399	67994237	Insect bite hypersensitivity	Suggestive	rs68858629			rs68861649
+29285	SUSBITE	7	198.51	197.43-199.59	85027904	85958467	Insect bite hypersensitivity	Suggestive	rs68682550			rs68690358
+29310	SUSBITE	7	129.82	129.77-129.87	55888522	55929293	Insect bite hypersensitivity	Suggestive	rs68908063			rs68774494
+29371	OSTEO	7	161.67	161.67-161.67	69623898	69623938	Osteochondrosis	Significant				
+29372	OSTEO	7	161.67	161.67-161.67	69623898	69623938	Osteochondrosis	Significant				
+29373	OSTEO	7	187.01	187.01-187.01	80536884	80536924	Osteochondrosis	Significant				
+37886	SUSBITE	7	31.54	31.54-31.54	13582144	13582184	Insect bite hypersensitivity	Significant				
+37887	SUSBITE	7	142.52	142.52-142.52	61379674	61379714	Insect bite hypersensitivity	Significant				
+56198	OSTD	7	163.19	163.19-163.19	70280074	70280114	Osteochondrosis dissecans	-				
+178615	SUSBITE	7	128.86	127.85-129.87	55062443	55929293	Insect bite hypersensitivity	Suggestive	rs68670527			rs68774494
+179392	SUSBITE	7	44.39	44.39-44.39	19118856	19118896	Insect bite hypersensitivity	Significant				
+179393	SUSBITE	7	44.39	44.39-44.39	19118977	19119017	Insect bite hypersensitivity	Significant				
+179394	SUSBITE	7	199.03	199.03-199.03	85717460	85717500	Insect bite hypersensitivity	Significant				
+179395	SUSBITE	7	199.03	199.03-199.03	85717479	85717519	Insect bite hypersensitivity	Significant				
+179396	SUSBITE	7	199.03	199.03-199.03	85717586	85717626	Insect bite hypersensitivity	Significant				
+179399	SUSBITE	7	191.41	191.41-191.41	82435471	82435511	Insect bite hypersensitivity	Significant				
+179412	SUSBITE	7	131.80	131.80-131.80	56761577	56761617	Insect bite hypersensitivity	Significant				
+193145	NAD	7	3.98	3.98-3.98	1712588	1712628	neuroaxonal dystrophy	Suggestive				
+193146	NAD	7					neuroaxonal dystrophy	Suggestive				
+193147	NAD	7					neuroaxonal dystrophy	Suggestive				
+193148	NAD	7					neuroaxonal dystrophy	Suggestive				
+193149	NAD	7					neuroaxonal dystrophy	Suggestive				
+193150	NAD	7	9.41	9.41-9.41	4051136	4051176	neuroaxonal dystrophy	Suggestive				
+193151	NAD	7	9.41	9.41-9.41	4053941	4053981	neuroaxonal dystrophy	Suggestive				
+193160	NAD	7	9.41	9.41-9.41	4053941	4053981	neuroaxonal dystrophy	Suggestive				
+193152	NAD	7					neuroaxonal dystrophy	Suggestive				
+193153	NAD	7					neuroaxonal dystrophy	Suggestive				
+193154	NAD	7					neuroaxonal dystrophy	Suggestive				
+193155	NAD	7					neuroaxonal dystrophy	Suggestive				
+193156	NAD	7					neuroaxonal dystrophy	Suggestive				
+193157	NAD	7					neuroaxonal dystrophy	Suggestive				
+193158	NAD	7					neuroaxonal dystrophy	Suggestive				
+193159	NAD	7					neuroaxonal dystrophy	Suggestive				
+193161	NAD	7	9.43	9.43-9.43	4060578	4060618	neuroaxonal dystrophy	Suggestive				
+193162	NAD	7					neuroaxonal dystrophy	Suggestive				
+27174	OSTEO	8	79.3		0	100	Osteochondrosis	Significant				
+27175	OSTEO	8	108.8		0	100	Osteochondrosis	Significant				
+29286	SUSBITE	8	750.23	744.37-756.09	63004267	63996074	Insect bite hypersensitivity	Suggestive	rs68755051			rs68701439
+29513	BFSUS	8	872.21	872.21-872.21	73825093	73825133	Bone fracture	Significant				
+37888	SUSBITE	8	96.15	96.15-96.15	8138610	8138650	Insect bite hypersensitivity	Significant				
+37889	SUSBITE	8	828.59	828.59-828.59	70132275	70132315	Insect bite hypersensitivity	Significant				
+37890	SUSBITE	8	828.59	828.59-828.59	70132786	70132826	Insect bite hypersensitivity	Significant				
+160692	SUSBITE	8	43.84	42.98-44.70	3638239	3783874	Insect bite hypersensitivity	Significant				
+178616	SUSBITE	8			39079035	39990997	Insect bite hypersensitivity	Suggestive	rs68820417			rs68809554
+179401	SUSBITE	8			64784768	64784808	Insect bite hypersensitivity	Significant				
+179406	SUSBITE	8			92699616	92699656	Insect bite hypersensitivity	Significant				
+179407	SUSBITE	8	327.20	327.20-327.20	27694432	27694472	Insect bite hypersensitivity	Significant				
+179408	SUSBITE	8			82054264	82054304	Insect bite hypersensitivity	Significant				
+179409	SUSBITE	8			79554451	79554491	Insect bite hypersensitivity	Significant				
+28299	CHRLYMP	9	63		0	100	chronic progressive lymphedema	Significant				
+28300	CHRLYMP	9	60.6		0	100	chronic progressive lymphedema	Significant				
+28325	CHRLYMP	9	29.5		0	100	chronic progressive lymphedema	Significant				
+28326	CHRLYMP	9	59.2		0	100	chronic progressive lymphedema	Significant				
+29243	RHOD	9	370.43	370.43-370.43	19578653	19578693	Rhodococcus equi infection	Significant				
+29262	RHOD	9	370.43	370.43-370.43	19582519	19582559	Rhodococcus equi infection	Significant				
+29276	RHOD	9	370.43	370.43-370.43	19578653	19578693	Rhodococcus equi infection	Significant				
+29311	SUSBITE	9	328.64	326.67-330.61	78039929	78981692	Insect bite hypersensitivity	Suggestive	rs68783130			rs68786167
+29374	OSTEO	9	94.13	94.13-94.13	22487076	22487116	Osteochondrosis	Significant				
+29377	OSTEO	9	112.49	112.49-112.49	26874113	26874153	Osteochondrosis	Significant				
+29378	OSTEO	9	112.49	112.49-112.49	26874113	26874153	Osteochondrosis	Significant				
+29379	OSTEO	9	112.49	112.49-112.49	26874273	26874313	Osteochondrosis	Significant				
+29380	OSTEO	9	112.49	112.49-112.49	26874273	26874313	Osteochondrosis	Significant				
+29514	BFSUS	9	222.82	222.82-222.82	53231470	53231510	Bone fracture	Significant				
+37891	SUSBITE	9	276.92	276.92-276.92	66153805	66153845	Insect bite hypersensitivity	Significant				
+178618	SUSBITE	9	211.24	209.35-213.12	50013570	50912923	Insect bite hypersensitivity	Suggestive	rs68729334			rs68829107
+178617	SUSBITE	9	60.73	58.99-62.47	14092246	14924288	Insect bite hypersensitivity	Suggestive	rs68729493			rs68736146
+179418	SUSBITE	9	113.59	113.59-113.59	27136188	27136228	Insect bite hypersensitivity	Significant				
+28333	CHRLYMP	10	32.1		0	100	chronic progressive lymphedema	Significant				
+28332	CHRLYMP	10	49		0	100	chronic progressive lymphedema	Significant				
+28334	CHRLYMP	10	51.3		0	100	chronic progressive lymphedema	Significant				
+28335	CHRLYMP	10	52.3		0	100	chronic progressive lymphedema	Significant				
+28336	CHRLYMP	10	69.8		0	100	chronic progressive lymphedema	Significant				
+28337	CHRLYMP	10	38.7		0	100	chronic progressive lymphedema	Significant				
+28338	CHRLYMP	10	46.9		0	100	chronic progressive lymphedema	Significant				
+28340	CHRLYMP	10	49		0	100	chronic progressive lymphedema	Significant				
+28341	CHRLYMP	10	49.8		0	100	chronic progressive lymphedema	Significant				
+28342	CHRLYMP	10	32.1		0	100	chronic progressive lymphedema	Significant				
+28343	CHRLYMP	10	51.3		0	100	chronic progressive lymphedema	Significant				
+28344	CHRLYMP	10	52.3		0	100	chronic progressive lymphedema	Significant				
+28345	CHRLYMP	10	69.8		0	100	chronic progressive lymphedema	Significant				
+28346	CHRLYMP	10	38.7		0	100	chronic progressive lymphedema	Significant				
+28347	CHRLYMP	10	46.9		0	100	chronic progressive lymphedema	Significant				
+28348	CHRLYMP	10	55.9		0	100	chronic progressive lymphedema	Significant				
+29328	OSTEO	10	279.41	279.41-279.41	48252478	48252518	Osteochondrosis	Significant				
+29329	OSTEO	10	279.45	279.45-279.45	48258404	48258444	Osteochondrosis	Significant				
+29330	OSTEO	10	279.60	279.60-279.60	48285478	48285518	Osteochondrosis	Significant				
+29331	OSTEO	10	279.85	279.85-279.85	48328665	48328705	Osteochondrosis	Significant				
+37903	OSTD	10	465.41	465.41-465.41	80373113	80373153	Osteochondrosis dissecans	Significant				
+37904	OSTD	10	465.50	465.50-465.50	80389078	80389118	Osteochondrosis dissecans	Significant				
+70911	OSTEO	10	327.51	327.51-327.51	56558890	56558930	Osteochondrosis	Significant				
+160693	SUSBITE	10	75.35	74.98-75.72	12948489	13075518	Insect bite hypersensitivity	Significant				
+178619	SUSBITE	10	165.01	162.19-167.84	28009495	28983946	Insect bite hypersensitivity	Suggestive	rs69000457			rs69001775
+178621	SUSBITE	10	211.31	208.47-214.15	36000768	36981521	Insect bite hypersensitivity	Suggestive	rs68906822			rs68901126
+178620	SUSBITE	10	171.12	168.54-173.71	29104821	29997876	Insect bite hypersensitivity	Suggestive	rs69001788			rs68974499
+179415	SUSBITE	10	295.90	295.90-295.90	51100157	51100197	Insect bite hypersensitivity	Significant				
+179417	SUSBITE	10	123.35	123.35-123.35	21301418	21301458	Insect bite hypersensitivity	Significant				
+179420	SUSBITE	10	371.78	371.78-371.78	64203866	64203906	Insect bite hypersensitivity	Significant				
+179421	SUSBITE	10	373.68	373.68-373.68	64532306	64532346	Insect bite hypersensitivity	Significant				
+179422	SUSBITE	10			76735187	76735227	Insect bite hypersensitivity	Significant				
+181841	ERU	10	260.23	260.23-260.23	44940500	44940540	Recurrent uveitis	Significant				
+29287	SUSBITE	11			22016942	22985500	Insect bite hypersensitivity	Suggestive	rs68807502			rs68874910
+29288	SUSBITE	11		1309.60-1365.29	23013547	23992162	Insect bite hypersensitivity	Suggestive	rs68874916			rs68866196
+29289	SUSBITE	11		1481.25-1536.43	26030083	26999652	Insect bite hypersensitivity	Suggestive	rs68845666			rs68840832
+29290	SUSBITE	11		1821.59-1875.60	32010755	32959976	Insect bite hypersensitivity	Suggestive	rs68944739			rs68950841
+29312	SUSBITE	11		2278.09-2332.75	40032951	40993432	Insect bite hypersensitivity	Suggestive	rs68849552			rs68853389
+29381	OSTEO	11	619.86	619.86-619.86	10892765	10892805	Osteochondrosis	Significant				
+32155	EAVRESI	11		2812.54-2812.55	49424819	49424859	Equine arteritis virus	Significant				
+32156	EAVRESI	11		2828.63-2828.64	49707587	49707627	Equine arteritis virus	Significant				
+32157	EAVRESI	11		2825.01-2825.01	49643912	49643952	Equine arteritis virus	Significant				
+32158	EAVRESI	11		2821.94-2821.94	49589932	49589972	Equine arteritis virus	Significant				
+32159	EAVRESI	11		2818.70-2818.71	49533065	49533105	Equine arteritis virus	Significant				
+32160	EAVRESI	11		2829.91-2829.91	49729938	49729978	Equine arteritis virus	Significant				
+32161	EAVRESI	11		2823.30-2823.31	49613934	49613974	Equine arteritis virus	Significant				
+32162	EAVRESI	11		2824.66-2824.66	49637752	49637792	Equine arteritis virus	Significant				
+32163	EAVRESI	11		2821.63-2821.63	49584493	49584533	Equine arteritis virus	Significant				
+32164	EAVRESI	11		2828.01-2828.01	49696659	49696699	Equine arteritis virus	Significant				
+32165	EAVRESI	11		2824.07-2824.08	49627451	49627491	Equine arteritis virus	Significant				
+32166	EAVRESI	11		2817.36-2817.36	49509484	49509524	Equine arteritis virus	Significant				
+32167	EAVRESI	11		2820.48-2820.48	49564246	49564286	Equine arteritis virus	Significant				
+32168	EAVRESI	11		2812.54-2812.55	49424819	49424859	Equine arteritis virus	Significant				
+32169	EAVRESI	11		2810.53-2810.53	49389473	49389513	Equine arteritis virus	Significant				
+32170	EAVRESI	11		2820.15-2820.15	49558513	49558553	Equine arteritis virus	Significant				
+32171	EAVRESI	11		2819.41-2819.42	49545564	49545604	Equine arteritis virus	Significant				
+32172	EAVRESI	11		2829.13-2829.13	49716320	49716360	Equine arteritis virus	Significant				
+32173	EAVRESI	11		2820.96-2825.01	49572804	49643932	Equine arteritis virus	Significant		rs68888908	rs68888930	
+37892	SUSBITE	11		1821.59-1821.59	32010735	32010775	Insect bite hypersensitivity	Significant				
+37893	SUSBITE	11		1863.83-1863.83	32753102	32753142	Insect bite hypersensitivity	Significant				
+37894	SUSBITE	11		1880.17-1880.17	33040144	33040184	Insect bite hypersensitivity	Significant				
+160694	SUSBITE	11			41743465	41832225	Insect bite hypersensitivity	Significant				
+178622	SUSBITE	11	22.79	1.17-44.40	20571	780294	Insect bite hypersensitivity	Suggestive	rs68850863			rs68853607
+179419	SUSBITE	11			40721385	40721425	Insect bite hypersensitivity	Significant				
+181833	ERU	11			7568993	7569033	Recurrent uveitis	Significant				
+27176	OSTEO	12	361.42	361.42-361.42	0	100	Osteochondrosis	Significant				
+28352	heaves	12	8.9		0	100	Recurrent airway obstruction	Significant				
+32141	RER	12	66.40	25.6 - 34.6	0	100	Recurrent exertional rhabdomyolysis	Significant		UCDEQ411		
+160695	SUSBITE	12			19366263	19527441	Insect bite hypersensitivity	Significant				
+181835	ERU	12	114.64	114.64-114.64	3014132	3014172	Recurrent uveitis	Significant				
+181842	ERU	12			11873550	11873590	Recurrent uveitis	Significant				
+28353	heaves	13	54.8	0-64.2	0	100	Recurrent airway obstruction	Significant		COR069	TKY421	
+28486	OSTEO	13	19.6	3.1 - 25.5	0	100	Osteochondrosis	Significant				
+28487	OSTEO	13	22.6	21.6 - 25.9	0	100	Osteochondrosis	Significant				
+29009	heaves	13	44.4	108.90-108.90	0	100	Recurrent airway obstruction	Significant				
+29015	heaves	13	44.4	108.90-108.90	0	100	Recurrent airway obstruction	Significant				
+29013	heaves	13	44.4	108.90-108.90	0	100	Recurrent airway obstruction	Significant				
+29014	heaves	13	44.4	108.90-108.90	0	100	Recurrent airway obstruction	Significant				
+29011	heaves	13	44.4	108.90-108.90	0	100	Recurrent airway obstruction	Significant				
+29012	heaves	13	44.4	108.90-108.90	0	100	Recurrent airway obstruction	Significant				
+29010	heaves	13	44.4	108.90-108.90	0	100	Recurrent airway obstruction	Significant				
+29008	heaves	13	44.0	108.90-108.90	0	100	Recurrent airway obstruction	Significant				
+29241	heaves	13	392.75	1429.73-1429.73	24309385	24309425	Recurrent airway obstruction	Significant				
+29250	RHOD	13		1429.73-1429.73	31572912	31572952	Rhodococcus equi infection	Significant				
+29260	RHOD	13		1429.73-1429.73	31572912	31572952	Rhodococcus equi infection	Significant				
+137133	heaves	13			32843259	32843359	Recurrent airway obstruction	Significant				
+178623	SUSBITE	13	330.70	324.63-336.78	20092697	20845017	Insect bite hypersensitivity	Suggestive	rs69017589			rs69026165
+179361	SUSBITE	13	35.78	35.78-35.78	2214842	2214882	Insect bite hypersensitivity	Significant				
+179436	SUSBITE	13	287.61	287.61-287.61	17801664	17801704	Insect bite hypersensitivity	Significant				
+179437	SUSBITE	13	287.61	287.61-287.61	17801664	17801704	Insect bite hypersensitivity	Significant				
+28354	heaves	14	63		0	100	Recurrent airway obstruction	Significant				
+28488	OSTEO	14	158.7	148.3 - 169.4	0	100	Osteochondrosis	Significant				
+28489	OSTEO	14	158.0	146.4 - 162.5	0	100	Osteochondrosis	Significant				
+29268	RHOD	14	150.31	150.31-150.31	3055253	3055293	Rhodococcus equi infection	Significant				
+37924	DWARF	14	6.39	6.39-6.39	3761335	3761375	Dwarfism	Significant				
+37925	DWARF	14	9.20	9.20-9.20	5418599	5418639	Dwarfism	Significant				
+70906	OSTEO	14	27.86	27.86-27.86	16401758	16401798	Osteochondrosis	Significant				
+70907	OSTEO	14	58.23	58.23-58.23	34284093	34284133	Osteochondrosis	Significant				
+70908	OSTEO	14	30.33	30.33-30.33	17858956	17858996	Osteochondrosis	Significant				
+70909	OSTEO	14	30.35	30.35-30.35	17866774	17866814	Osteochondrosis	Significant				
+70910	OSTEO	14	29.94	29.94-29.94	17626639	17626679	Osteochondrosis	Significant				
+70912	OSTEO	14	57.12	57.12-57.12	33629991	33630031	Osteochondrosis	Significant				
+70914	OSTEO	14	58.37	58.37-58.37	34366568	34366608	Osteochondrosis	Significant				
+70915	OSTEO	14	29.78	29.78-29.78	17534533	17534573	Osteochondrosis	Significant				
+70917	OSTEO	14	61.51	61.51-61.51	36214343	36214383	Osteochondrosis	Significant				
+135440	LAMIN	14	117.67	117.67-117.67	69276794	69276834	Laminitis	Significant				
+160696	SUSBITE	14	109.46	109.34-109.58	64375388	64516633	Insect bite hypersensitivity	Significant				
+166274	OSTD	14	27.86	27.86-27.86	16401758	16401798	Osteochondrosis dissecans	Significant				
+166275	OSTD	14					Osteochondrosis dissecans	Significant				
+166276	OSTD	14	30.91	30.91-30.91	18198800	18198840	Osteochondrosis dissecans	Significant				
+166277	OSTD	14	30.91	30.91-30.91	18198800	18198840	Osteochondrosis dissecans	Significant				
+166278	OSTD	14	58.23	58.23-58.23	34284093	34284133	Osteochondrosis dissecans	Significant				
+166279	OSTD	14					Osteochondrosis dissecans	Significant				
+166280	OSTD	14	59.12	59.12-59.12	34803941	34803981	Osteochondrosis dissecans	Significant				
+166281	OSTD	14	125.46	125.46-125.46	73865928	73865968	Osteochondrosis dissecans	Significant				
+166283	OSTD	14	125.46	125.46-125.46	73865928	73865968	Osteochondrosis dissecans	Significant				
+166282	OSTD	14	125.46	125.46-125.46	73865928	73865968	Osteochondrosis dissecans	Significant				
+179423	SUSBITE	14	23.07	23.07-23.07	13580532	13580572	Insect bite hypersensitivity	Significant				
+179424	SUSBITE	14	7.26	7.26-7.26	4274240	4274280	Insect bite hypersensitivity	Significant				
+179425	SUSBITE	14	115.50	115.50-115.50	67999623	67999663	Insect bite hypersensitivity	Significant				
+179426	SUSBITE	14	115.62	115.62-115.62	68068535	68068575	Insect bite hypersensitivity	Significant				
+179433	SUSBITE	14	92.40	92.39-92.40	54397093	54397133	Insect bite hypersensitivity	Significant				
+27150	OSTEO	15	75.5		0	100	Osteochondrosis	Significant				
+27214	OSTEO	15	51		0	100	Osteochondrosis	Significant				
+28256	GPT	15	81.8		0	100	Guttural pouch tympany	Significant				
+28257	GPT	15	90.3		0	100	Guttural pouch tympany	Significant				
+28258	GPT	15	50.6		0	100	Guttural pouch tympany	Significant				
+28259	GPT	15	50.9		0	100	Guttural pouch tympany	Significant				
+28260	GPT	15	51.4		0	100	Guttural pouch tympany	Significant				
+28261	GPT	15	51.8		0	100	Guttural pouch tympany	Significant				
+28271	GPT	15	59.4		0	100	Guttural pouch tympany	Significant				
+28272	GPT	15	63.2		0	100	Guttural pouch tympany	Significant				
+28273	GPT	15	48.3		0	100	Guttural pouch tympany	Significant				
+28274	GPT	15	48.9		0	100	Guttural pouch tympany	Significant				
+28275	GPT	15	49.3		0	100	Guttural pouch tympany	Significant				
+28276	GPT	15	81.8		0	100	Guttural pouch tympany	Significant				
+28277	GPT	15	50.6		0	100	Guttural pouch tympany	Significant				
+28278	GPT	15	50.9		0	100	Guttural pouch tympany	Significant				
+28279	GPT	15	51.4		0	100	Guttural pouch tympany	Significant				
+28280	GPT	15	51.8		0	100	Guttural pouch tympany	Significant				
+28281	GPT	15	90.3		0	100	Guttural pouch tympany	Significant				
+28282	GPT	15	147.6		0	100	Guttural pouch tympany	Significant				
+28283	GPT	15	52.4		0	100	Guttural pouch tympany	Significant				
+28284	GPT	15	59.4		0	100	Guttural pouch tympany	Significant				
+28285	GPT	15	63.2		0	100	Guttural pouch tympany	Significant				
+28286	GPT	15	48.3		0	100	Guttural pouch tympany	Significant				
+28287	GPT	15	48.9		0	100	Guttural pouch tympany	Significant				
+28288	GPT	15	49.3		0	100	Guttural pouch tympany	Significant				
+28289	GPT	15	81.8		0	100	Guttural pouch tympany	Significant				
+28290	GPT	15	50.6		0	100	Guttural pouch tympany	Significant				
+28291	GPT	15	50.9		0	100	Guttural pouch tympany	Significant				
+28292	GPT	15	51.4		0	100	Guttural pouch tympany	Significant				
+28293	GPT	15	51.8		0	100	Guttural pouch tympany	Significant				
+28294	GPT	15	90.3		0	100	Guttural pouch tympany	Significant				
+28295	GPT	15	147.6		0	100	Guttural pouch tympany	Significant				
+28296	GPT	15	52.4		0	100	Guttural pouch tympany	Significant				
+28355	heaves	15	37.5		0	100	Recurrent airway obstruction	Significant		UMNe219		
+28356	heaves	15	38.8		0	100	Recurrent airway obstruction	Significant		UMNe219		
+28490	OSTEO	15	53.2	51.7 - 53.3	0	100	Osteochondrosis	Significant				
+28491	OSTEO	15	52.5	52.4 - 52.9	0	100	Osteochondrosis	Significant				
+29024	GPT	15		4170.68-4170.68	47572942	47572982	Guttural pouch tympany	Significant				
+29025	GPT	15		4170.68-4170.68	48050167	48050207	Guttural pouch tympany	Significant				
+29026	GPT	15		4170.68-4170.68	48501868	48501908	Guttural pouch tympany	Significant				
+29027	GPT	15		4170.68-4170.68	49189415	49189455	Guttural pouch tympany	Significant				
+29028	GPT	15		4170.68-4170.68	49690581	49690621	Guttural pouch tympany	Significant				
+29029	GPT	15		4170.68-4170.68	50057991	50058031	Guttural pouch tympany	Significant				
+29030	GPT	15		4170.68-4170.68	50570248	50570288	Guttural pouch tympany	Significant				
+29031	GPT	15		4170.68-4170.68	51041488	51041528	Guttural pouch tympany	Significant				
+29032	GPT	15		4170.68-4170.68	51596742	51596782	Guttural pouch tympany	Significant				
+29033	GPT	15		4170.68-4170.68	52085252	52085292	Guttural pouch tympany	Significant				
+29034	GPT	15		4170.68-4170.68	52520430	52520470	Guttural pouch tympany	Significant				
+29035	GPT	15		4170.68-4170.68	53093059	53093099	Guttural pouch tympany	Significant				
+29036	GPT	15		4170.68-4170.68	53530188	53530228	Guttural pouch tympany	Significant				
+29037	GPT	15		4170.68-4170.68	54014448	54014488	Guttural pouch tympany	Significant				
+29038	GPT	15		4170.68-4170.68	55230313	55230353	Guttural pouch tympany	Significant				
+29039	GPT	15		4170.68-4170.68	57014222	57014262	Guttural pouch tympany	Significant				
+29040	GPT	15		4170.68-4170.68	59435307	59435347	Guttural pouch tympany	Significant				
+29041	GPT	15		4170.68-4170.68	60007457	60007497	Guttural pouch tympany	Significant				
+29042	GPT	15		4170.68-4170.68	60823205	60823245	Guttural pouch tympany	Significant				
+29043	GPT	15		4170.68-4170.68	61044034	61044074	Guttural pouch tympany	Significant				
+29044	GPT	15		4170.68-4170.68	61576918	61576958	Guttural pouch tympany	Significant				
+29045	GPT	15		4170.68-4170.68	62041628	62041668	Guttural pouch tympany	Significant				
+29046	GPT	15		4170.68-4170.68	62526667	62526707	Guttural pouch tympany	Significant				
+29047	GPT	15		4170.68-4170.68	63007310	63007350	Guttural pouch tympany	Significant				
+29048	GPT	15		4170.68-4170.68	63535639	63535679	Guttural pouch tympany	Significant				
+29049	GPT	15		4170.68-4170.68	66019450	66019490	Guttural pouch tympany	Significant				
+29050	GPT	15		4170.68-4170.68	66547015	66547055	Guttural pouch tympany	Significant				
+29051	GPT	15		4170.68-4170.68	67012835	67012875	Guttural pouch tympany	Significant				
+29052	GPT	15		4170.68-4170.68	69087971	69088011	Guttural pouch tympany	Significant				
+29053	GPT	15		4170.68-4170.68	71041520	71041560	Guttural pouch tympany	Significant				
+29054	GPT	15		4170.68-4170.68	71588337	71588377	Guttural pouch tympany	Significant				
+29055	GPT	15		4170.68-4170.68	72204265	72204305	Guttural pouch tympany	Significant				
+29056	GPT	15		4170.68-4170.68	72505377	72505417	Guttural pouch tympany	Significant				
+29057	GPT	15		4170.68-4170.68	73009700	73009740	Guttural pouch tympany	Significant				
+29058	GPT	15		4170.68-4170.68	73565711	73565751	Guttural pouch tympany	Significant				
+29059	GPT	15		4170.68-4170.68	74039680	74039720	Guttural pouch tympany	Significant				
+29060	GPT	15		4170.68-4170.68	74510947	74510987	Guttural pouch tympany	Significant				
+29061	GPT	15		4170.68-4170.68	75204626	75204666	Guttural pouch tympany	Significant				
+29062	GPT	15		4170.68-4170.68	75603960	75604000	Guttural pouch tympany	Significant				
+29063	GPT	15		4170.68-4170.68	76004145	76004185	Guttural pouch tympany	Significant				
+29064	GPT	15		4170.68-4170.68	76500607	76500647	Guttural pouch tympany	Significant				
+29065	GPT	15		4170.68-4170.68	77114760	77114800	Guttural pouch tympany	Significant				
+29066	GPT	15		4170.68-4170.68	77523679	77523719	Guttural pouch tympany	Significant				
+29067	GPT	15		4170.68-4170.68	78013499	78013539	Guttural pouch tympany	Significant				
+29068	GPT	15		4170.68-4170.68	78542150	78542190	Guttural pouch tympany	Significant				
+29069	GPT	15		4170.68-4170.68	79016708	79016748	Guttural pouch tympany	Significant				
+29070	GPT	15		4170.68-4170.68	79538899	79538939	Guttural pouch tympany	Significant				
+29071	GPT	15		4170.68-4170.68	80085628	80085668	Guttural pouch tympany	Significant				
+29072	GPT	15		4170.68-4170.68	80654777	80654817	Guttural pouch tympany	Significant				
+29073	GPT	15		4170.68-4170.68	81143338	81143378	Guttural pouch tympany	Significant				
+29074	GPT	15		4170.68-4170.68	81524241	81524281	Guttural pouch tympany	Significant				
+29109	GPT	15		4170.68-4170.68	64087604	64087644	Guttural pouch tympany	Significant				
+29110	GPT	15		4170.68-4170.68	64551613	64551653	Guttural pouch tympany	Significant				
+29111	GPT	15		4170.68-4170.68	65298904	65298944	Guttural pouch tympany	Significant				
+29112	GPT	15		4170.68-4170.68	65519162	65519202	Guttural pouch tympany	Significant				
+29258	RHOD	15		4170.68-4170.68	54419893	54419933	Rhodococcus equi infection	Significant				
+29259	RHOD	15	348.48	4170.68-4170.68	7394024	7394064	Rhodococcus equi infection	Significant				
+29263	RHOD	15		4170.68-4170.68	51485683	51485723	Rhodococcus equi infection	Significant				
+29264	RHOD	15		4170.68-4170.68	51596742	51596782	Rhodococcus equi infection	Significant				
+29265	RHOD	15		4170.68-4170.68	51634387	51634427	Rhodococcus equi infection	Significant				
+29313	SUSBITE	15	918.29	896.42-940.15	19020308	19948137	Insect bite hypersensitivity	Suggestive	rs69060277			rs69010604
+29315	SUSBITE	15	966.32	943.18-989.47	20012397	20994475	Insect bite hypersensitivity	Suggestive	rs69010645			rs69001431
+29316	SUSBITE	15		1508.17-1554.67	32000266	32987009	Insect bite hypersensitivity	Suggestive	rs69060897			rs69063343
+29317	SUSBITE	15		1558.50-1598.98	33068161	33927064	Insect bite hypersensitivity	Suggestive	rs69063356			rs69067522
+29515	BFSUS	15		3226.06-3226.06	68450474	68450514	Bone fracture	Significant				
+166348	SUSLAR	15			30758500	30758540	Recurrent laryngeal neuropathy	Significant				
+178625	SUSBITE	15			90076417	90960627	Insect bite hypersensitivity	Suggestive	rs69019387			rs69025225
+178624	SUSBITE	15			19020308	19948137	Insect bite hypersensitivity	Suggestive	rs69060277			rs69010604
+179363	SUSBITE	15			31741581	31741621	Insect bite hypersensitivity	Significant				
+179427	SUSBITE	15			14642870	14642910	Insect bite hypersensitivity	Significant				
+179428	SUSBITE	15			14642870	14642910	Insect bite hypersensitivity	Significant				
+179429	SUSBITE	15			14647211	14647251	Insect bite hypersensitivity	Significant				
+179430	SUSBITE	15			14647211	14647251	Insect bite hypersensitivity	Significant				
+179431	SUSBITE	15			21210190	21210230	Insect bite hypersensitivity	Significant				
+179432	SUSBITE	15			54538271	54538311	Insect bite hypersensitivity	Significant				
+28922	OSTD	16	8.4	8.44-34.99	0	100	Osteochondrosis dissecans	Significant				
+27151	OSTEO	16	30.6		0	100	Osteochondrosis	Significant				
+27152	OSTEO	16	41.4		0	100	Osteochondrosis	Significant				
+27190	OSTEO	16	30.6		0	100	Osteochondrosis	Significant				
+27191	OSTD	16	30.6		0	100	Osteochondrosis dissecans	Significant				
+27215	OSTD	16	0	0-1	0	100	Osteochondrosis dissecans	Significant				
+27216	OSTD	16	7.7		0	100	Osteochondrosis dissecans	Significant				
+27217	OSTD	16	30.6		0	100	Osteochondrosis dissecans	Significant				
+27218	OSTEO	16	42.5		0	100	Osteochondrosis	Significant				
+27219	OSTD	16			0	100	Osteochondrosis dissecans	Significant				
+27220	OSTEO	16	44.6		0	100	Osteochondrosis	Significant				
+27221	OSTD	16	44.6		0	100	Osteochondrosis dissecans	Significant				
+27222	OSTEO	16	45.6		0	100	Osteochondrosis	Significant				
+27223	OSTD	16	45.6		0	100	Osteochondrosis dissecans	Significant				
+27224	OSTEO	16	126.5		0	100	Osteochondrosis	Significant				
+28301	CHRLYMP	16	59.4		0	100	chronic progressive lymphedema	Significant				
+28302	CHRLYMP	16	5.7		0	100	chronic progressive lymphedema	Significant				
+28303	CHRLYMP	16	65.4		0	100	chronic progressive lymphedema	Significant				
+28304	CHRLYMP	16	30.6		0	100	chronic progressive lymphedema	Significant				
+28327	CHRLYMP	16	65.4		0	100	chronic progressive lymphedema	Significant				
+28328	CHRLYMP	16	30.6		0	100	chronic progressive lymphedema	Significant				
+28357	heaves	16	135.8		0	100	Recurrent airway obstruction	Significant				
+28358	heaves	16	75.1		0	100	Recurrent airway obstruction	Significant		TKY349		
+28935	OSTD	16	65.4	151.50-151.50	0	100	Osteochondrosis dissecans	Significant				
+28944	OSTD	16	69.0	151.50-151.50	0	100	Osteochondrosis dissecans	Significant				
+28930	OSTD	16	151.50	151.50-151.50	0	100	Osteochondrosis dissecans	Significant				
+29007	OSTEO	16	68.0	151.50-151.50	0	100	Osteochondrosis	Significant				
+28996	OSTD	16	75.7	151.50-151.50	0	100	Osteochondrosis dissecans	Significant				
+29003	OSTEO	16	64.1	151.50-151.50	0	100	Osteochondrosis	Significant				
+29001	OSTEO	16	5.7	29.40-30.10	0	100	Osteochondrosis	Significant				
+28999	OSTEO	16	7.7	33.95-35.69	0	100	Osteochondrosis	Significant				
+28960	OSTEO	16	44.6	151.50-151.50	0	100	Osteochondrosis	Significant				
+28959	OSTD	16	71.7	151.50-151.50	0	100	Osteochondrosis dissecans	Significant				
+28995	OSTEO	16	75.7	151.50-151.50	0	100	Osteochondrosis	Significant				
+28994	OSTD	16	75.3	151.50-151.50	0	100	Osteochondrosis dissecans	Significant				
+28958	OSTEO	16	71.7	151.50-151.50	0	100	Osteochondrosis	Significant				
+28992	OSTD	16	74.8	151.50-151.50	0	100	Osteochondrosis dissecans	Significant				
+28967	OSTD	16	71.9	151.50-151.50	0	100	Osteochondrosis dissecans	Significant				
+28945	OSTD	16	69.2	151.50-151.50	0	100	Osteochondrosis dissecans	Significant				
+28931	OSTD	16	60.3	151.50-151.50	0	100	Osteochondrosis dissecans	Significant				
+28951	OSTEO	16	42.5	151.50-151.50	0	100	Osteochondrosis	Significant				
+28974	OSTEO	16	72.7	151.50-151.50	0	100	Osteochondrosis	Significant				
+28976	OSTEO	16	72.8	151.50-151.50	0	100	Osteochondrosis	Significant				
+28986	OSTD	16	74.3	151.50-151.50	0	100	Osteochondrosis dissecans	Significant				
+28983	OSTEO	16	74.1	151.50-151.50	0	100	Osteochondrosis	Significant				
+28971	OSTD	16	72.3	151.50-151.50	0	100	Osteochondrosis dissecans	Significant				
+28928	OSTD	16	68.0	151.50-151.50	0	100	Osteochondrosis dissecans	Significant				
+28942	OSTD	16	68.7	151.50-151.50	0	100	Osteochondrosis dissecans	Significant				
+28940	OSTD	16	68.4	151.50-151.50	0	100	Osteochondrosis dissecans	Significant				
+28932	OSTD	16	60.9	151.50-151.50	0	100	Osteochondrosis dissecans	Significant				
+28991	OSTEO	16	74.8	151.50-151.50	0	100	Osteochondrosis	Significant				
+28990	OSTD	16	74.6	151.50-151.50	0	100	Osteochondrosis dissecans	Significant				
+28989	OSTEO	16	74.6	151.50-151.50	0	100	Osteochondrosis	Significant				
+28936	OSTD	16	66.6	151.50-151.50	0	100	Osteochondrosis dissecans	Significant				
+28938	OSTD	16	68.0	151.50-151.50	0	100	Osteochondrosis dissecans	Significant				
+28927	OSTD	16	30.6	144.62-147.39	0	100	Osteochondrosis dissecans	Significant				
+28939	OSTD	16	68.3	151.50-151.50	0	100	Osteochondrosis dissecans	Significant				
+28941	OSTD	16	68.6	151.50-151.50	0	100	Osteochondrosis dissecans	Significant				
+28943	OSTD	16	68.9	151.50-151.50	0	100	Osteochondrosis dissecans	Significant				
+28934	OSTEO	16	65.4	151.50-151.50	0	100	Osteochondrosis	Significant				
+28929	OSTD	16	59.7	151.50-151.50	0	100	Osteochondrosis dissecans	Significant				
+28984	OSTD	16	74.1	151.50-151.50	0	100	Osteochondrosis dissecans	Significant				
+28946	OSTD	16	69.4	151.50-151.50	0	100	Osteochondrosis dissecans	Significant				
+28988	OSTD	16	74.3	151.50-151.50	0	100	Osteochondrosis dissecans	Significant				
+28957	OSTD	16	71.5	151.50-151.50	0	100	Osteochondrosis dissecans	Significant				
+29005	OSTEO	16	66.6	151.50-151.50	0	100	Osteochondrosis	Significant				
+28964	OSTEO	16	45.6	151.50-151.50	0	100	Osteochondrosis	Significant				
+29004	OSTEO	16	65.4	151.50-151.50	0	100	Osteochondrosis	Significant				
+28953	OSTD	16	70.5	151.50-151.50	0	100	Osteochondrosis dissecans	Significant				
+28950	OSTD	16	70.1	151.50-151.50	0	100	Osteochondrosis dissecans	Significant				
+28998	OSTEO	16	60.9	151.50-151.50	0	100	Osteochondrosis	Significant				
+29002	OSTEO	16	8.4	8.44-34.99	0	100	Osteochondrosis	Significant				
+29000	OSTEO	16	61.5	151.50-151.50	0	100	Osteochondrosis	Significant				
+28997	OSTD	16	76.4	151.50-151.50	0	100	Osteochondrosis dissecans	Significant				
+28970	OSTEO	16	72.3	151.50-151.50	0	100	Osteochondrosis	Significant				
+28981	OSTEO	16	73.7	151.50-151.50	0	100	Osteochondrosis	Significant				
+28965	OSTD	16	45.6	151.50-151.50	0	100	Osteochondrosis dissecans	Significant				
+28956	OSTD	16	71.4	151.50-151.50	0	100	Osteochondrosis dissecans	Significant				
+28948	OSTD	16	41.4	151.50-151.50	0	100	Osteochondrosis dissecans	Significant				
+28973	OSTD	16	72.4	151.50-151.50	0	100	Osteochondrosis dissecans	Significant				
+28933	OSTD	16	7.7	33.95-35.69	0	100	Osteochondrosis dissecans	Significant				
+28924	OSTEO	16	64.1	151.50-151.50	0	100	Osteochondrosis	Significant				
+28975	OSTD	16	72.7	151.50-151.50	0	100	Osteochondrosis dissecans	Significant				
+28978	OSTEO	16	73.0	151.50-151.50	0	100	Osteochondrosis	Significant				
+28979	OSTD	16	73.0	151.50-151.50	0	100	Osteochondrosis dissecans	Significant				
+28980	OSTD	16	73.2	151.50-151.50	0	100	Osteochondrosis dissecans	Significant				
+28977	OSTD	16	72.8	151.50-151.50	0	100	Osteochondrosis dissecans	Significant				
+29006	OSTEO	16	30.6	144.62-147.39	0	100	Osteochondrosis	Significant				
+28966	OSTEO	16	71.9	151.50-151.50	0	100	Osteochondrosis	Significant				
+28993	OSTEO	16	75.3	151.50-151.50	0	100	Osteochondrosis	Significant				
+28947	OSTD	16	69.5	151.50-151.50	0	100	Osteochondrosis dissecans	Significant				
+28949	OSTD	16	69.7	151.50-151.50	0	100	Osteochondrosis dissecans	Significant				
+28961	OSTD	16	44.6	151.50-151.50	0	100	Osteochondrosis dissecans	Significant				
+28962	OSTEO	16	71.8	151.50-151.50	0	100	Osteochondrosis	Significant				
+28987	OSTEO	16	74.3	151.50-151.50	0	100	Osteochondrosis	Significant				
+28982	OSTD	16	73.7	151.50-151.50	0	100	Osteochondrosis dissecans	Significant				
+28952	OSTD	16	42.5	151.50-151.50	0	100	Osteochondrosis dissecans	Significant				
+28972	OSTEO	16	72.4	151.50-151.50	0	100	Osteochondrosis	Significant				
+28968	OSTEO	16	72.2	151.50-151.50	0	100	Osteochondrosis	Significant				
+28954	OSTD	16	70.9	151.50-151.50	0	100	Osteochondrosis dissecans	Significant				
+28955	OSTD	16	71.0	151.50-151.50	0	100	Osteochondrosis dissecans	Significant				
+28923	OSTD	16	64.1	151.50-151.50	0	100	Osteochondrosis dissecans	Significant				
+28925	OSTD	16	65.4	151.50-151.50	0	100	Osteochondrosis dissecans	Significant				
+28937	OSTD	16	30.6	144.62-147.39	0	100	Osteochondrosis dissecans	Significant				
+28969	OSTD	16	72.2	151.50-151.50	0	100	Osteochondrosis dissecans	Significant				
+28926	OSTD	16	66.6	151.50-151.50	0	100	Osteochondrosis dissecans	Significant				
+28963	OSTD	16	71.8	151.50-151.50	0	100	Osteochondrosis dissecans	Significant				
+28985	OSTEO	16	74.3	151.50-151.50	0	100	Osteochondrosis	Significant				
+29277	RER	16	574.51	574.51-574.51	29349222	29349262	Recurrent exertional rhabdomyolysis	Significant				
+29278	RER	16	574.51	574.51-574.51	31837467	31837507	Recurrent exertional rhabdomyolysis	Significant				
+29279	RER	16	574.51	574.51-574.51	32365462	32365502	Recurrent exertional rhabdomyolysis	Significant				
+29332	OSTEO	16	309.12	309.12-309.12	47614641	47614681	Osteochondrosis	Significant				
+29336	RER	16	272.65	272.65-272.65	41996567	41996607	Recurrent exertional rhabdomyolysis	Significant				
+29337	RER	16	190.54	190.54-190.54	29349222	29349262	Recurrent exertional rhabdomyolysis	Significant				
+29338	RER	16	190.31	190.31-190.31	29314251	29314291	Recurrent exertional rhabdomyolysis	Significant				
+29339	RER	16	187.02	187.01-187.02	28806480	28806520	Recurrent exertional rhabdomyolysis	Significant				
+29340	RER	16	188.02	188.02-188.02	28961358	28961398	Recurrent exertional rhabdomyolysis	Significant				
+29341	RER	16	193.98	193.98-193.98	29879280	29879320	Recurrent exertional rhabdomyolysis	Significant				
+29342	RER	16	194.36	194.36-194.36	29937733	29937773	Recurrent exertional rhabdomyolysis	Significant				
+29343	RER	16	198.33	198.33-198.33	30549567	30549607	Recurrent exertional rhabdomyolysis	Significant				
+29344	RER	16	205.91	205.91-205.91	31717493	31717533	Recurrent exertional rhabdomyolysis	Significant				
+29345	RER	16	206.69	206.69-206.69	31837330	31837370	Recurrent exertional rhabdomyolysis	Significant				
+29346	RER	16	207.38	207.38-207.38	31943538	31943578	Recurrent exertional rhabdomyolysis	Significant				
+29347	RER	16	207.82	207.82-207.82	32011106	32011146	Recurrent exertional rhabdomyolysis	Significant				
+29348	RER	16	209.96	209.96-209.96	32340306	32340346	Recurrent exertional rhabdomyolysis	Significant				
+29349	RER	16	210.53	210.53-210.53	32428416	32428456	Recurrent exertional rhabdomyolysis	Significant				
+29350	RER	16	214.63	214.63-214.63	33060440	33060480	Recurrent exertional rhabdomyolysis	Significant				
+29351	RER	16	214.74	214.74-214.74	33077016	33077056	Recurrent exertional rhabdomyolysis	Significant				
+29352	RER	16	214.79	214.79-214.79	33085338	33085378	Recurrent exertional rhabdomyolysis	Significant				
+29353	RER	16	214.85	214.85-214.85	33093993	33094033	Recurrent exertional rhabdomyolysis	Significant				
+29354	RER	16	215.10	215.10-215.10	33132104	33132144	Recurrent exertional rhabdomyolysis	Significant				
+29355	RER	16	234.78	234.78-234.78	36163316	36163356	Recurrent exertional rhabdomyolysis	Significant				
+29356	RER	16	271.20	271.20-271.20	41773261	41773301	Recurrent exertional rhabdomyolysis	Significant				
+29357	RER	16	271.49	271.49-271.49	41818070	41818110	Recurrent exertional rhabdomyolysis	Significant				
+29358	RER	16	272.65	272.65-272.65	41997203	41997243	Recurrent exertional rhabdomyolysis	Significant				
+163999	OSTEO	16	239.88	239.88-239.88	36949813	36949853	Osteochondrosis	Significant				
+178626	SUSBITE	16	334.45	331.36-337.54	51040831	51992543	Insect bite hypersensitivity	Suggestive	rs69165618			rs69160389
+179434	SUSBITE	16			62046367	62046407	Insect bite hypersensitivity	Significant				
+179435	SUSBITE	16			62046367	62046407	Insect bite hypersensitivity	Significant				
+27142	OSTEO	17	46.6		0	100	Osteochondrosis	Significant				
+28305	CHRLYMP	17	4.4		0	100	chronic progressive lymphedema	Significant				
+28306	CHRLYMP	17	12.2		0	100	chronic progressive lymphedema	Significant				
+28307	CHRLYMP	17	27.1		0	100	chronic progressive lymphedema	Significant				
+28329	CHRLYMP	17	4.4		0	100	chronic progressive lymphedema	Significant				
+28330	CHRLYMP	17	12.2		0	100	chronic progressive lymphedema	Significant				
+28359	heaves	17	61.7		0	100	Recurrent airway obstruction	Significant		LEX067		
+29292	SUSBITE	17	9.90	6.71-13.09	1024001	1997957	Insect bite hypersensitivity	Suggestive	rs69203025			rs69205524
+29293	SUSBITE	17	42.98	40.11-45.84	6121534	6997027	Insect bite hypersensitivity	Suggestive	rs69113800			rs69118311
+29294	SUSBITE	17	494.69	491.46-497.92	75008411	75994345	Insect bite hypersensitivity	Suggestive	rs69082671			rs69081378
+29295	SUSBITE	17	501.27	498.17-504.36	76033248	76977013	Insect bite hypersensitivity	Suggestive	rs69081398			rs69082365
+179438	SUSBITE	17	299.06	299.06-299.06	45644274	45644314	Insect bite hypersensitivity	Significant				
+179439	SUSBITE	17	129.01	129.01-129.01	19689845	19689885	Insect bite hypersensitivity	Significant				
+27143	OSTD	18	45.9		0	100	Osteochondrosis dissecans	Significant				
+27144	OSTD	18	60.8		0	100	Osteochondrosis dissecans	Significant				
+27153	OSTEO	18	78.2		0	100	Osteochondrosis	Significant				
+27177	OSTEO	18	78.2		0	100	Osteochondrosis	Significant				
+28240	OSTEO	18	53.0		0	100	Osteochondrosis	Significant				
+28241	OSTEO	18	53.0		0	100	Osteochondrosis	Significant				
+28242	OSTD	18	53.0		0	100	Osteochondrosis dissecans	Significant				
+28243	OSTD	18	53.0		0	100	Osteochondrosis dissecans	Significant				
+28244	OSTEO	18	53.0		0	100	Osteochondrosis	Significant				
+28245	OSTEO	18	53.0		0	100	Osteochondrosis	Significant				
+28246	OSTEO	18	154.2		0	100	Osteochondrosis	Significant				
+28247	OSTEO	18	87.6		0	100	Osteochondrosis	Significant				
+28248	OSTEO	18		84.9 - 88.3	0	100	Osteochondrosis	Significant				
+28249	OSTD	18	154.2		0	100	Osteochondrosis dissecans	Significant				
+28250	OSTD	18	87.6		0	100	Osteochondrosis dissecans	Significant				
+29318	SUSBITE	18	60.69	59.84-61.55	32028224	32939315	Insect bite hypersensitivity	Suggestive	rs69124103			rs69125446
+29386	ERU	18	152.95	152.95-152.95	81856354	81856394	Recurrent uveitis	Significant				
+29530	BFSUS	18	115.99	115.86-116.12	62008083	62148769	Bone fracture	Significant		rs69192312	rs69192341	
+29523	BFSUS	18	115.99	115.86-116.12	62008083	62148769	Bone fracture	Significant				
+29522	BFSUS	18	115.99	115.86-116.12	62008083	62148769	Bone fracture	Significant				
+29521	BFSUS	18	115.99	115.86-116.12	62008083	62148769	Bone fracture	Significant				
+29520	BFSUS	18	115.99	115.86-116.12	62008083	62148769	Bone fracture	Significant				
+29519	BFSUS	18	115.99	115.86-116.12	62008083	62148769	Bone fracture	Significant				
+29518	BFSUS	18	115.99	115.86-116.12	62008083	62148769	Bone fracture	Significant				
+29517	BFSUS	18	115.99	115.86-116.12	62008083	62148769	Bone fracture	Significant				
+29516	BFSUS	18	115.99	115.86-116.12	62008083	62148769	Bone fracture	Significant				
+29508	BFSUS	18	115.99	115.86-116.12	62008083	62148769	Bone fracture	Significant				
+29507	BFSUS	18	115.99	115.86-116.12	62008083	62148769	Bone fracture	Significant				
+29506	BFSUS	18	115.99	115.86-116.12	62008083	62148769	Bone fracture	Significant				
+164000	OSTEO	18	112.87	112.87-112.87	60407709	60407749	Osteochondrosis	Significant				
+164001	OSTEO	18	122.49	122.49-122.49	65557739	65557779	Osteochondrosis	Significant				
+164002	OSTEO	18	122.49	122.49-122.49	65557739	65557779	Osteochondrosis	Significant				
+166787	SUSLAR	18	122.96	122.96-122.96	65809462	65809502	Recurrent laryngeal neuropathy	Significant				
+178628	SUSBITE	18	60.85	60.16-61.55	32195404	32939315	Insect bite hypersensitivity	Significant		rs69124125	rs69125446	
+178627	SUSBITE	18	49.51	48.63-50.39	26027413	26969787	Insect bite hypersensitivity	Suggestive	rs69184939			rs69186047
+180499	BFSUS	18	122.96	122.96-122.96	65809462	65809502	Bone fracture	Significant				
+180500	BFSUS	18	123.07	123.07-123.07	65868584	65868624	Bone fracture	Significant				
+180501	BFSUS	18	124.24	124.24-124.24	66493717	66493757	Bone fracture	Significant				
+180502	BFSUS	18	124.33	124.33-124.33	66539947	66539987	Bone fracture	Significant				
+27192	OSTD	19	0	0-1	0	100	Osteochondrosis dissecans	Significant				
+27193	OSTD	19	2		0	100	Osteochondrosis dissecans	Significant				
+29275	RHOD	19	155.52	155.52-155.52	33380634	33380674	Rhodococcus equi infection	Significant				
+29319	SUSBITE	19	27.17	26.40-27.94	15023681	15897393	Insect bite hypersensitivity	Suggestive	rs69197840			rs69186684
+29320	SUSBITE	19	37.80	36.97-38.62	21037979	21977304	Insect bite hypersensitivity	Suggestive	rs69214210			rs69201383
+178629	SUSBITE	19	97.25	96.66-97.83	55004566	55668411	Insect bite hypersensitivity	Suggestive	rs69182740			rs69186293
+179443	SUSBITE	19	69.04	69.04-69.04	39283620	39283660	Insect bite hypersensitivity	Significant				
+213524	EMSYND	19	44.22	43.71-44.72	24871458	25447414	Equine metabolic syndrome	Significant		rs69210235	rs69121656	
+28793	ERU	20	39.1		0	100	Recurrent uveitis	Significant				
+28794	ERU	20	39.2		0	100	Recurrent uveitis	Significant				
+28919	SARRESI	20	50.6	50.87-51.07	0	100	Equine sarcoids	Significant				
+29296	SUSBITE	20	76.12	75.09-77.14	35018055	35971807	Insect bite hypersensitivity	Significant		rs69235571	rs69237176	
+29298	SUSBITE	20	89.01	87.99-90.03	41031989	41982509	Insect bite hypersensitivity	Suggestive	rs69176260			rs69177496
+29321	SUSBITE	20	65.40	64.37-66.44	30016829	30980829	Insect bite hypersensitivity	Suggestive	rs69300005			rs69286455
+29387	ERU	20	105.83	105.83-105.83	49349036	49349076	Recurrent uveitis	Significant				
+37895	SUSBITE	20	90.21	89.06-91.36	41530793	42603867	Insect bite hypersensitivity	Significant				
+37896	SUSBITE	20	90.21	89.06-91.36	41530793	42603867	Insect bite hypersensitivity	Significant				
+160697	SUSBITE	20	0.56	0.04-1.08	20271	503862	Insect bite hypersensitivity	Significant				
+160699	SUSBITE	20	52.03	51.96-52.10	24230088	24296409	Insect bite hypersensitivity	Significant				
+160700	SUSBITE	20	56.75	56.60-56.89	26392472	26531248	Insect bite hypersensitivity	Significant				
+160702	SUSBITE	20	63.93	63.92-63.95	29805544	29821078	Insect bite hypersensitivity	Significant				
+160703	SUSBITE	20	65.42	65.39-65.46	30493889	30523455	Insect bite hypersensitivity	Significant				
+160704	SUSBITE	20	65.74	65.67-65.81	30624048	30689273	Insect bite hypersensitivity	Significant				
+160705	SUSBITE	20	65.96	65.93-66.00	30743179	30775429	Insect bite hypersensitivity	Significant				
+160706	SUSBITE	20	69.75	69.63-69.87	32467872	32582288	Insect bite hypersensitivity	Significant				
+179440	SUSBITE	20	92.18	92.18-92.18	42983698	42983738	Insect bite hypersensitivity	Significant				
+179441	SUSBITE	20	110.46	110.46-110.46	51509411	51509451	Insect bite hypersensitivity	Significant				
+179442	SUSBITE	20	56.23	56.23-56.23	26221159	26221199	Insect bite hypersensitivity	Significant				
+179445	SUSBITE	20	74.89	74.89-74.89	34924535	34924575	Insect bite hypersensitivity	Significant				
+179469	SUSBITE	20	76.43	76.43-76.43	35643180	35643220	Insect bite hypersensitivity	Significant				
+179470	SUSBITE	20	76.43	76.43-76.43	35643180	35643220	Insect bite hypersensitivity	Significant				
+28360	heaves	21	21.3		0	100	Recurrent airway obstruction	Significant				
+28361	heaves	21	34.5		0	100	Recurrent airway obstruction	Significant				
+29333	OSTEO	21	211.56	211.56-211.56	11327111	11327151	Osteochondrosis	Significant				
+29524	BFSUS	21		1065.36-1065.36	57039373	57039413	Bone fracture	Significant				
+32150	SUSLAR	21	41.16	41.16-41.16	2203630	2203670	Recurrent laryngeal neuropathy	Significant				
+70913	OSTEO	21		1017.96-1017.96	54501449	54501489	Osteochondrosis	Significant				
+160707	SUSBITE	21	202.15	201.44-202.86	10784937	10861217	Insect bite hypersensitivity	Significant				
+179444	SUSBITE	21			31044301	31044341	Insect bite hypersensitivity	Significant				
+179446	SUSBITE	21			30022489	30022529	Insect bite hypersensitivity	Significant				
+179447	SUSBITE	21			30022781	30022821	Insect bite hypersensitivity	Significant				
+179448	SUSBITE	21			30033626	30033666	Insect bite hypersensitivity	Significant				
+29529	BFSUS	22	81.27	81.27-81.27	39170059	39170099	Bone fracture	Significant				
+29528	BFSUS	22	81.27	81.27-81.27	39169730	39169770	Bone fracture	Significant				
+29527	BFSUS	22	81.25	81.25-81.25	39157821	39157861	Bone fracture	Significant				
+29526	BFSUS	22	80.26	80.26-80.26	38680439	38680479	Bone fracture	Significant				
+29525	BFSUS	22	80.07	80.07-80.07	38591747	38591787	Bone fracture	Significant				
+178630	SUSBITE	22	52.94	52.00-53.88	25060028	25967632	Insect bite hypersensitivity	Significant		rs69251608	rs69256343	
+179449	SUSBITE	22	95.93	95.93-95.93	46231580	46231620	Insect bite hypersensitivity	Significant				
+179450	SUSBITE	22	9.61	9.61-9.61	4630931	4630971	Insect bite hypersensitivity	Significant				
+28920	SARRESI	23	36.3	26.3 - 49.3	0	100	Equine sarcoids	Significant				
+27145	OSTEO	23	44.4		0	100	Osteochondrosis	Significant				
+27154	OSTEO	23	44.4		0	100	Osteochondrosis	Significant				
+29300	SUSBITE	23	19.94	19.37-20.50	14019453	14839182	Insect bite hypersensitivity	Suggestive	rs69278469			rs69434182
+29322	SUSBITE	23	6.21	5.57-6.85	4031496	4957018	Insect bite hypersensitivity	Suggestive	rs69237038			rs69271414
+160708	SUSBITE	23	44.94	44.67-45.21	32331580	32716916	Insect bite hypersensitivity	Significant				
+166788	SUSLAR	23	55.01	55.01-55.01	39812027	39812067	Recurrent laryngeal neuropathy	Significant				
+179451	SUSBITE	23	66.81	66.81-66.81	48348143	48348183	Insect bite hypersensitivity	Significant				
+179452	SUSBITE	23	66.81	66.81-66.81	48348419	48348459	Insect bite hypersensitivity	Significant				
+179453	SUSBITE	23	66.89	66.89-66.89	48411696	48411736	Insect bite hypersensitivity	Significant				
+179455	SUSBITE	23	67.83	67.83-67.83	49092658	49092698	Insect bite hypersensitivity	Significant				
+29245	RHOD	24	165.63	165.63-165.63	41033573	41033613	Rhodococcus equi infection	Significant				
+166352	SUSLAR	24	87.42	87.42-87.42	46707135	46707175	Recurrent laryngeal neuropathy	Significant				
+28921	SARRESI	25	38.9	35.3 - 42.4	0	100	Equine sarcoids	Significant				
+27146	OSTD	25	41.18	41.18-41.18	0	100	Osteochondrosis dissecans	Significant				
+27155	OSTEO	25	41.18	41.18-41.18	0	100	Osteochondrosis	Significant				
+28362	heaves	25	12.4		0	100	Recurrent airway obstruction	Significant				
+179457	SUSBITE	25	47.24	47.24-47.24	35644277	35644317	Insect bite hypersensitivity	Significant				
+27178	OSTEO	26	19.4		0	100	Osteochondrosis	Significant				
+28363	heaves	26		0-6.9	0	100	Recurrent airway obstruction	Significant		UMNe066	LEX044	
+29246	RHOD	26	137.18	137.18-137.18	39777612	39777652	Rhodococcus equi infection	Significant				
+29247	RHOD	26	137.18	137.18-137.18	39861089	39861129	Rhodococcus equi infection	Significant				
+29248	RHOD	26	137.18	137.18-137.18	39867943	39867983	Rhodococcus equi infection	Significant				
+29253	RHOD	26	137.18	137.18-137.18	39777612	39777652	Rhodococcus equi infection	Significant				
+29254	RHOD	26	137.18	137.18-137.18	39861089	39861129	Rhodococcus equi infection	Significant				
+29255	RHOD	26	137.18	137.18-137.18	39867943	39867983	Rhodococcus equi infection	Significant				
+32152	FOALIMM	26	24.4	1.19-1.39	0	100	Foal Immunodeficiency Syndrome	Significant				
+32153	FOALIMM	26	46.20	46.20-46.20	29804037	29804077	Foal Immunodeficiency Syndrome	Significant				
+32154	FOALIMM	26	49.90	49.90-49.90	32187952	32187992	Foal Immunodeficiency Syndrome	Significant				
+160709	SUSBITE	26	0.53	0.39-0.67	250337	434632	Insect bite hypersensitivity	Significant				
+166351	SUSLAR	26	55.31	55.31-55.31	35681831	35681871	Recurrent laryngeal neuropathy	Significant				
+179362	SUSBITE	26	12.13	12.13-12.13	7825697	7825737	Insect bite hypersensitivity	Significant				
+179454	SUSBITE	26	24.95	24.95-24.95	16094883	16094923	Insect bite hypersensitivity	Significant				
+179456	SUSBITE	26	46.98	46.98-46.98	30306190	30306230	Insect bite hypersensitivity	Significant				
+29301	SUSBITE	27	31.40	30.27-32.53	13007826	13977295	Insect bite hypersensitivity	Suggestive	rs69340453			rs69344817
+29382	OSTEO	27	52.63	52.63-52.63	22613745	22613785	Osteochondrosis	Significant				
+29383	OSTEO	27	55.15	55.15-55.15	23696895	23696935	Osteochondrosis	Significant				
+37897	SUSBITE	27	30.72	30.72-30.72	13198779	13198819	Insect bite hypersensitivity	Significant				
+37905	OSTD	27	89.39	89.39-89.39	38407254	38407294	Osteochondrosis dissecans	Significant				
+37906	OSTD	27	91.23	91.23-91.23	39199636	39199676	Osteochondrosis dissecans	Significant				
+166284	OSTD	27	91.23	91.23-91.23	39199636	39199676	Osteochondrosis dissecans	Significant				
+29302	SUSBITE	28	78.25	77.34-79.17	41002903	41970177	Insect bite hypersensitivity	Suggestive	rs69367404			rs69372811
+37907	OSTD	28	80.36	80.36-80.36	42605593	42605633	Osteochondrosis dissecans	Significant				
+37908	OSTD	28	80.37	80.37-80.37	42609129	42609169	Osteochondrosis dissecans	Significant				
+160710	SUSBITE	28	0.36	0.01-0.71	4428	376070	Insect bite hypersensitivity	Significant				
+164003	OSTEO	28	49.42	49.42-49.42	26198096	26198136	Osteochondrosis	Significant				
+164004	OSTEO	28	49.42	49.42-49.42	26198096	26198136	Osteochondrosis	Significant				
+166350	SUSLAR	28	50.03	50.03-50.03	26524404	26524444	Recurrent laryngeal neuropathy	Significant				
+56199	OSTD	29	62.33	62.33-62.33	18297977	18298017	Osteochondrosis dissecans	-				
+166285	OSTD	29	57.27	57.27-57.27	16812970	16813010	Osteochondrosis dissecans	Significant				
+166286	OSTD	29	57.27	57.27-57.27	16812970	16813010	Osteochondrosis dissecans	Significant				
+181834	ERU	29	36.26	36.26-36.26	10645535	10645575	Recurrent uveitis	Significant				
+181836	ERU	29	36.23	36.23-36.23	10634790	10634830	Recurrent uveitis	Significant				
+29251	RHOD	30	466.29	466.29-466.29	20687183	20687223	Rhodococcus equi infection	Significant				
+29252	RHOD	30	466.29	466.29-466.29	20690835	20690875	Rhodococcus equi infection	Significant				
+29261	RHOD	30	466.29	466.29-466.29	6939811	6939851	Rhodococcus equi infection	Significant				
+29271	RHOD	30	466.29	466.29-466.29	5321740	5321780	Rhodococcus equi infection	Significant				
+37898	SUSBITE	30	23.63	23.63-23.63	4483998	4484038	Insect bite hypersensitivity	Significant				
+37899	SUSBITE	30	110.51	110.51-110.51	20973079	20973119	Insect bite hypersensitivity	Significant				
+37900	SUSBITE	30	110.51	110.51-110.51	20973264	20973304	Insect bite hypersensitivity	Significant				
+29334	OSTEO	31	107.27	107.27-107.27	21700527	21700567	Osteochondrosis	Significant				
+29335	OSTEO	31	107.27	107.27-107.27	21700642	21700682	Osteochondrosis	Significant				
+29384	OSTEO	31	84.10	84.10-84.10	17012731	17012771	Osteochondrosis	Significant				
+32151	SUSLAR	31	48.76	48.76-48.76	9863258	9863298	Recurrent laryngeal neuropathy	Significant				
+181844	ERU	31	102.08	102.08-102.08	20650962	20651002	Recurrent uveitis	Significant				

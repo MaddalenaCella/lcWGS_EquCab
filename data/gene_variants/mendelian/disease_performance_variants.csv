@@ -1,0 +1,39 @@
+Table S2: Genetics Variants Underlying Disease and Performance traits in the Horse. Genomic coordinates denoted with a # symbol are based on the EquCab3.0 assembly all others are reported according to the Equcab2.0 coordinates.,,,,,,,,,,
+Disease ,Gene,type of variant,Mode of Inheritance,ECA Number,Genomic Coordinate,coding position,protein position,Breed ,Year Published,Pubmed ID
+Hyperkalemic Periodic Paralysis  (HYPP),SCN4A,missense,dominant,11,g.15474228C>G#,c.4248C>G,p.F1416L,American Quarter Horse and related breeds,1992,1338908
+Ovotesticular Disorder of Sexual Development (DSD),SRY,large deletion of the DNA-binding domain of the SRY gene,Y-linked,Y,,,,Standardbred,1995,7558880
+Severe combined immunodeficiency disease (SCID),PRKDC,deletion 5 bp,recessive,9,g.36395752_36395759del#,c.9478_9482del,p.N3160fs*3,Arabian,1997,9103416
+Junctional Epidermolysis Bullosa (JEB1),LAMC2,insertion 1 bp,recessive,5,,c.1368insC,,Belgian and Italian draft horse,2002,12230513
+Malignant hyperthermia (MH),RYR1,missense,dominant,10,,c.7360C>G,p.R2454G,American Quarter Horse,2004,15318347
+Glycogen Branching Enzyme Deficiency (GBED),GBE1,nonsense (stop-gain),recessive,26,,c.102C>A,p.Y34*,American Quarter Horse and related breeds,2004,15366377
+Thrombasthenia,ITGA2B,missense,recessive,11,,,p.R41P,American Quarter Horse & Thoroughbred,2006,16407493
+Thrombasthenia,ITGA2B,deletion 10 bp,recessive,11,,,,American Quarter Horse,2007,17338169
+Hereditary Equine Regional Dermal Asthenia (HERDA),PPIB,missense,recessive,1,g.128056148G>A,c.115G>A,p.G39R,American Quarter Horse,2007,17498917
+Polysaccharide storage myopathy (PSSM1),GYS1,missense,incompletely dominant,10,g.18940324G>A,c.926G>A,p.R309H,"American Quarter Horse, American Paint Horse, Appaloosa, Draft,  Pony of the America,  and Warmblood",2008,18358695
+Junctional Epidermolysis Bullosa (JEB2) ,LAMA3,deletion 6589 bp,recessive,5,g.3724_10312del6589,,,American Saddlebred,2009,19016681
+Racing distance,MSTN,"insertion 227 bp, regulatory",,18,g.66495326_66495327ins227,,,Thoroughbred,2010,20098749  25160752 30379863
+Cerebellar abiotrophy (CA),MUTYH,regulatory,recessive,2,g.13122415G>A#,,,"Arabian, Bashkir Curly Horse, Danish Sport Horse, Trakehner, and Welsh Pony",2011,21126570 and 29103988
+Foal immunodeficiency syndrome in the Fell and Dales Pony (FIS),SLC5A3,missense,recessive,26,g.30660224G>T,c.1337G>T,p.P446L,Dales Pony and Fell Pony,2011,21750681
+Androgen insensitivity syndrome (AIS),AR,regulatory,X linked,X,,c.1A>G,,American Quarter Horse,2012,22095250
+Myotonia,CLCN1,missense,recessive,4,,c.1775A>C,p.D592A,New Forest Pony,2012,22197188
+Permissive to gait,DMRT3,nonsense (stop-gain),dominant,23,g.22999655C>A,,p.S301*,Numerous breeds,2012,22932389
+"Warmblood Fragile Foal Syndrome (WFFS) or Ehlers-Danlos Syndrome, type VI",PLOD1,missense,recessive,2,g.39711930G>A,c.2032G>A,p.G678R,Warmblood,2015,25637337
+Hoof wall separation syndrome,SERPINB11,insertion 1 bp ,recessive,8,g.80111598_80111599insC,c.504_505insC,,Connemara pony,2015,25875171
+Hydrocephalus,B3GALNT2,nonsense (stop-gain),recessive,1,g.76887901C>T,c.1423C>T,p.Q475*,Friesian,2015,26452345
+Androgen insensitivity syndrome (AIS),AR,missense,X linked,X,,c.2042G>C,,Thoroughbred,2016,27073903
+Skeletal atavism,SHOX,2 over lapping deletions 160=180 kb and 60-80 kb,recessive,X and Y PAR,,,,Shetland Pony,2016,27207956
+"Dwarfism, Friesian",B4GALT7,missense,recessive,14,g.4535550C>T,c.50G>A,p.R17K,Friesian,2016,27793082
+"Dwarfism, ACAN-related D3*",ACAN,missense,recessive,1,g.95282140C>G#,,p.A505P,Miniature Shetland,2017,27942904
+Occipitoatlantoaxial malformation (OAAM),HOXD3,deletion 2.7 kb,recessive,18,,,,Arabian,2017,28111759
+Androgen insensitivity syndrome (AIS),AR,deletion 25 bp,X linked,X,,,,Warmblood,2017,28192783
+Naked foal syndrome,ST14,nonsense (stop-gain),recessive,7,,c.388G>T,p.E130*,Akhal-Teke,2017,28235824
+Ocular squamous cell carcinoma (ocular SCC),DDB2,missense,recessive,12,g.11608667C>T, c.1013C>T, p.T338M,"Belgian, Haflinger, Percheron, Rocky Mountain Horse",2017,28425625
+Immune-mediated myositis (IMM/MYH1),MYH1,missense,recessive,11,g.53345548T>C#,,p.E321G,American Quarter Horse,2018,29510741
+Curly coat with hypotrichosis Crd,KRT25,missense,dominant,11,g.21962991G>A#,c.266G>A,p.R89H,Bashkir Curly Horse ,2018,29686323 29141579 
+Curly coat without hypotrichosis,SP6,missense,dominant,11,g.24096309C>T#,c.1090G>A,p.D364N,American Bashkir Curly horse and Missouri Foxtrotter,2018,29686323
+"Dwarfism, ACAN-related D4",ACAN,deletion 42 bp,recessive,1,g.95257458_95257500del#,,p.F2017_D2023del,Miniature,2018,30058072
+"Dwarfism, ACAN-related D2",ACAN,missense,recessive,1,g.95284530C>T#,,p.V424M,Miniature,2018,30058072
+"Dwarfism, ACAN-related D1",ACAN,deletion1bp,recessive,1,g.95291270del#,c.245del,p.K82*,Miniature,2018,30058072
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,, ,,,,
