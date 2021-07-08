@@ -1,1 +1,5 @@
 results/
+data/.~lock.no_merge.csv#
+data/.~lock.to_merge.csv#
+data/bam1.list
+analysis/trailplot.Rplot.pdf
