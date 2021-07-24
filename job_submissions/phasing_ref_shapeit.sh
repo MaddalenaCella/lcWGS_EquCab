@@ -24,7 +24,7 @@ FILE_LINE=`echo $PBS_ARRAY_INDEX`
 echo '=================================='
 echo -e "\nPhasing variants in each chromosome\n"
 
-shapeit -V $CODE_DIR/results/SNP_calls_ref/chr$FILE_LINE:.refpanel.anc..vcf.gz -O $CODE_DIR/results/phased_chr/chr$FILE_LINE.phased
+shapeit -V $CODE_DIR/results/SNP_calls_ref/chr$FILE_LINE:.refpanel.anc..vcf.gz --rho 1.16 -O $CODE_DIR/results/phased_chr/chr$FILE_LINE.phased
 
 echo '=================================='
 echo -e "\nConverting haps into vcf format\n"

@@ -1,0 +1,10 @@
+genotypename:    treemix.ped
+snpname:         treemix.map # or example.map, either works 
+indivname:       treemix.ped # or example.ped, either works
+outputformat:    EIGENSTRAT
+genotypeoutname: treemix.eigenstratgeno
+snpoutname:      treemix.snp
+indivoutname:    treemix.ind
+familynames:     NO
+
+##this is a param file to run confertf from the package eigensoft

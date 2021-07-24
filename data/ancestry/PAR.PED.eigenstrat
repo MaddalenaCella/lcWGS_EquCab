@@ -1,0 +1,8 @@
+genotypename:    /rds/general/project/human-popgen-datasets/live/Maddalena/EquSeq/data/gene_variants/treemix/treemix.ped
+snpname:         /rds/general/project/human-popgen-datasets/live/Maddalena/EquSeq/data/gene_variants/treemix/treemix.map # or example.map, either works 
+indivname:       /rds/general/project/human-popgen-datasets/live/Maddalena/EquSeq/data/gene_variants/treemix/treemix.ped # or example.ped, either works
+outputformat:    EIGENSTRAT
+genotypeoutname: /rds/general/project/human-popgen-datasets/live/Maddalena/EquSeq/data/gene_variants/treemix/treemix.eigenstratgeno
+snpoutname:      /rds/general/project/human-popgen-datasets/live/Maddalena/EquSeq/data/gene_variants/treemix/treemix.snp
+indivoutname:    /rds/general/project/human-popgen-datasets/live/Maddalena/EquSeq/data/gene_variants/treemix/treemix.ind
+familynames:     NO

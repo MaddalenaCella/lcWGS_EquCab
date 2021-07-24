@@ -226,9 +226,16 @@ FacetZoom2 <- ggproto(
     final
   }
 )
+
 breeds <-read.csv("results/ancestry/clusters.csv", fill=T, stringsAsFactors = F)
 pcs <-read.table("results/ancestry/PCA_analysis.eigenvec")
+eigenvals<- read.table("results/ancestry/PCA_analysis.eigenval") ##for calculating PCs variance
 plot( pcs[,3], pcs[,4], xlab = "PC1", ylab = "PC2" )
+
+##variance explained by eac PC
+PVE <- eigenvals[1] / sum(eigenvals$V1)
+PC1<-PVE[1,] ##0.1432354
+PC2<-PVE[2,] ##0.1112072
 
 #vector<-c("Benson",1,"unknown")
 #add column called "indv" to dataframe pcs
@@ -248,7 +255,7 @@ pairs(pcs_with_breed[,3:7], col=pcs_with_breed$colour, pch=20, lower.panel=NULL)
 legend(0.1, 0.5, col=1:max(pcs_with_breed$colour), legend = levels(pcs_with_breed[,2]), pch=20, xpd=NA )
 
 #plot of just PC1 and PC2
-plot( pcs_with_breed[,5], pcs_with_breed[,6], col=pcs_with_breed$colour, xlab = "PC1", ylab = "PC2" )
+plot( pcs_with_breed[,5], pcs_with_breed[,6], col=pcs_with_breed$colour, xlab = "PC1 (14.32%)", ylab = "PC2 (11.12%)" )
 text( pcs_with_breed[,5], pcs_with_breed[,6], labels = pcs_with_breed[,2], cex = 0.7, pos= 3) 
 ##try ggplot2
 # counts
@@ -270,9 +277,7 @@ ggplot(data=pcs_with_breed, aes(x=PC1, y=PC2,
     curvature = .3, arrow = arrow(length = unit(2, "mm"))
   ) +
   annotate(geom = "text", x = 0.0, y = 0.1, label = "Benson", hjust = "left")+
-  #geom_text() +
-  #directlabels::geom_dl(aes(label = CLUSTER), method = "smart.grid") +
-  #ggtitle(title) + 
+  xlab("PC1 (14.32%)") + ylab("PC2 (11.12%)") +
   scale_shape_manual(values = rep(shapes, len = popCount)) + 
   scale_colour_manual(values = rep(cbPalette, len = popCount))+
   scale_x_continuous(breaks=trans_breaks(identity, identity, n = 5))+
@@ -285,11 +290,7 @@ ggplot(data=pcs_with_breed, aes(x=PC1, y=PC2,
         panel.background = element_blank()
   )
 dev.off()
-  #guides(shape=guide_legend(ncol=1,bycol=TRUE,
-                           # title.position="top")) 	
-
-#PC1 -0.037920100
-#PC2 0.095331100
+  
 highlight_df <- subset(pcs_with_breed, CLUSTER == "Unknown")
 ##now i need to filter the PCA eigenvector file to remove Prez.
 pcs_no_Prze <- subset(pcs_with_breed, CLUSTER != "Przewalski" & CLUSTER != "Przewalski-hybrid")
@@ -303,9 +304,7 @@ ggplot(data=pcs_no_Prze, aes(x=PC1, y=PC2,
     curvature = .3, arrow = arrow(length = unit(2, "mm"))
   ) +
   annotate(geom = "text", x = -0.02, y = 0.1, label = "Benson", hjust = "left")+ 
-  #geom_text() +
-  #directlabels::geom_dl(aes(label = CLUSTER), method = "smart.grid") +
-  #ggtitle(title) + 
+  xlab("PC1 (14.32%)") + ylab("PC2 (11.12%)") +
   scale_shape_manual(values = rep(shapes, len = popCount)) + 
   scale_colour_manual(values = rep(cbPalette, len = popCount))+
   scale_x_continuous(breaks=trans_breaks(identity, identity, n = 5))+
@@ -320,3 +319,86 @@ ggplot(data=pcs_no_Prze, aes(x=PC1, y=PC2,
   facet_zoom2(xlim=c(-0.06,0.00), ylim=c(0.04,0.12), zoom.size=2.5, horizontal = T) ##zoom in particular range in y axis
 dev.off()
 
+## same thing for the PCA without Prz
+pcs_noPrz <-read.table("results/ancestry/PCA_no_Prz.eigenvec")
+eigenvals_noPrz<- read.table("results/ancestry/PCA_no_Prz.eigenval") ##for calculating PCs variance
+plot( pcs_noPrz[,3], pcs_noPrz[,4], xlab = "PC1", ylab = "PC2" )
+
+##variance explained by eac PC
+PVE_noPrz <- eigenvals_noPrz[1] / sum(eigenvals_noPrz$V1)
+PC1_noPrz<-PVE_noPrz[1,] ##0.1307375
+PC2_noPrz<-PVE_noPrz[2,] ##0.0983190
+
+vec_noPrz <- seq(1,nrow(pcs_noPrz))
+pcs_new_noPrz <- pcs_noPrz %>%
+  mutate(indv = vec_noPrz) %>% relocate(indv, .before = V1)
+
+
+breeds_no_prz<- breeds[-c(80,81,82,83,84,110,111),]
+vec_noPrz_br <- seq(1,nrow(breeds_no_prz))
+breeds_new_noPrz <- breeds_no_prz %>%
+  mutate(ID = vec_noPrz_br)
+
+#pcs file with breed names
+pcs_with_breed_noPrz <- merge(pcs_new_noPrz, breeds_new_noPrz, by.x = 1, by.y = 1, all.x = T) %>% relocate(CLUSTER, .after = indv)
+pcs_with_breed_noPrz[160,2]<-"Unknown" #< add Benson's breed
+
+##try ggplot2
+# counts
+popCount_noPrz <- length(unique(pcs_with_breed_noPrz$CLUSTER))
+
+# colours
+cbPalette <- c("#000000", "#999999", "#E69F00", "#56B4E9", 
+               "#009E73", "#F0E442", 
+               "#0072B2", "#D55E00", "#CC79A7")
+# shapes
+shapes <- c(15:18, 3, 4, 8 ,10)
+
+pdf(file='results/ancestry/PCA_noPrz.pdf', width=12, height=7)
+ggplot(data=pcs_with_breed_noPrz, aes(x=PC1, y=PC2, 
+                                color=CLUSTER, fill=CLUSTER)) + 
+  geom_point(size = 2,  alpha = 0.85, stroke = 0.7, aes(shape=CLUSTER)) +
+  annotate(
+    geom = "curve", x = 0.05, y = 0.09, xend = 0.09884140, yend = 0.061974900,
+    curvature = .3, arrow = arrow(length = unit(2, "mm"))
+  ) +
+  annotate(geom = "text", x = 0.04, y = 0.1, label = "Benson", hjust = "left")+
+  xlab("PC1 (13.07%)") + ylab("PC2 (9.83%)") +
+  scale_shape_manual(values = rep(shapes, len = popCount_noPrz)) + 
+  scale_colour_manual(values = rep(cbPalette, len = popCount_noPrz))+
+  scale_x_continuous(breaks=trans_breaks(identity, identity, n = 5))+
+  theme_pubr()+
+  labs(shape = "Breeds", color = "Breeds", fill = "Breeds") +
+  theme(legend.position="bottom",
+        legend.key.size = unit(3, "mm"),
+        panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        panel.background = element_blank()
+  )
+dev.off()
+
+
+pdf(file='results/ancestry/PCA_noPrz_zoom.pdf', width=12, height=7)
+ggplot(data=pcs_with_breed_noPrz, aes(x=PC1, y=PC2, 
+                                      color=CLUSTER, fill=CLUSTER)) + 
+  geom_point(size = 2,  alpha = 0.85, stroke = 0.7, aes(shape=CLUSTER)) +
+  annotate(
+    geom = "curve", x = 0.07, y = 0.08, xend = 0.09884140, yend = 0.061974900,
+    curvature = .3, arrow = arrow(length = unit(2, "mm"))
+  ) +
+  annotate(geom = "text", x = 0.07, y = 0.082, label = "Benson", hjust = "left")+
+  xlab("PC1 (13.07%)") + ylab("PC2 (9.83%)") +
+  scale_shape_manual(values = rep(shapes, len = popCount_noPrz)) + 
+  scale_colour_manual(values = rep(cbPalette, len = popCount_noPrz))+
+  scale_x_continuous(breaks=trans_breaks(identity, identity, n = 5))+
+  theme_pubr()+
+  labs(shape = "Breeds", color = "Breeds", fill = "Breeds") +
+  theme(legend.position="bottom",
+        legend.key.size = unit(3, "mm"),
+        panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        panel.background = element_blank()
+  )+
+  facet_zoom2(xlim=c(0.05,0.12), ylim=c(0.0,0.12), zoom.size=2.5, horizontal = T) ##zoom in particular range in y axis
+
+dev.off()

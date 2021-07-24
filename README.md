@@ -16,7 +16,7 @@
 * [Contact](#contact)
 
 ## General info
-Add more general information about project. What the purpose of the project is? Motivation?
+This project aims to develop a pipeline that allows to obtain ancestry and phenotype information from a horse sample sequenced at low-coverage. It was developed as part of my Masters Thesis in Computational Methods in Ecology and Evolution. This repo contains all the scripts used to achieve the Thesis' aim and instructions to obtain the raw data and reproduce the analysis. In order to automate the process I additionally developed two nextflow pipelines: one for mapping of the horse sample and one for imputation of the missing genotype positions to allow ancestry and phenotype analysis available at [nf-pipelines](https://github.com/MaddalenaCella/nf-lcWGS-mapping-and-imputation). 
 
 ## Requirements
 In order to utilise this tool and reproduce my analysis, make sure have access to an HPC or HTC. 
@@ -30,6 +30,7 @@ The computing languages and bioinformatics tools used are the following:
 ### Bioinformatic Tools
 * BamUtils (1.0.14)
 * BWA (0.7.8)
+* Bowtie2 (bowtie/2.2.6)
 * fastq-tools (0.8.3)
 * FastQC (0.11.9)
 * FastX (0.0.14)
@@ -38,6 +39,9 @@ The computing languages and bioinformatics tools used are the following:
 * Samtools (1.3.1)
 * ShapeIt (2.778)
 * Beagle (4.0)
+* evalAdmix (0.95)
+* Eigensoft (3.0)
+* Admixtools (7.0.2)
 
 ### Python modules 
 * argparse
@@ -62,8 +66,8 @@ The computing languages and bioinformatics tools used are the following:
 * scales
 * grid
 
-## Set-up
-
+## Setup
+Before reproducing this analysis, make sure you have the required tools in the correct version installed on your HPC machine.
 
 ## Retrieving the raw data
 * The horse sample analysed is available upon request from Vincent Savolainen HPC environment. To run the analysis using the script provided in this repo, move the reads to `data/Benson`.
@@ -100,22 +104,50 @@ ShapeIt was used to phase the reference panel. The phasing algorithm was perform
 * To phase the reference panel per chromosome run `job_submissions/phasing_ref_shapeit.sh`;
 * to concatenate the phased vcf files run `job_submissions/concatRef.sh`.
 
-##SNP calling and Imputation
+## SNP calling and Imputation
 Angsd was used for a preliminary variants calling (p-value to call SNPs set to -SNP_pval 1e-1). To speed up the SNP calling algorithm, the search of SNPs in the horse sample file was limited to the variants identified in the reference panel. Variants calling was followed by imputation of the missing geneotypes with Beagle 4.0. 
 * To call variants and impute missing genotypes run the job `job_submissions/SNP_caling_imputation.sh`
 
 ## Ancestry analysis
 * First, remove singletons and sites in LD with vcftools and Plink respectively by submitting `job_submissions/LD_singletons_pruning.sh`;
-* to conduct the PCA analysis submit `job_submissions/PCA_plink.sh`;
+* to create a --keep file to run the PCA also without Przewalski and Przewalski hybrids run `analysis/PCA_no_Prz.r`;
+* to conduct the PCA analysis with and without Przewalski and Przewalski hybrids submit `job_submissions/PCA_plink.sh`;
 * to conduct the ancestry analysis submit `job_submissions/ancestry.sh`;
+* to evaluate the results of admixture submit `job_submissions/evalAdmix.sh` as a job array with one job per number of ancestral K populations tried;
+* scp the PCA results, the .Q files from the admixture analysis and the .txt files from the evalAdmix runs locally in the results/ancestry directory;
+* to extract the basename from the bam file list `for F in $(cat data/bam1.list); do     basename $F _dedup_overlapclipped.bam >> data/ancestry/identifiers.txt; done`;
+* run the scripts `analysis/Breeds_table.r`, `analysis/PCA_plotting.r` and `analysis/admixture_plotting.r` to produce the plots of interest;
+* create a parameter file to convert ped to eigenstrat format and submit the job `job_submissions/ped_to_eigenstrat.sh`. The parameter file should look like this:
 
+```
+genotypename:    treemix.ped
+snpname:         treemix.map # or example.map, either works 
+indivname:       treemix.ped # or example.ped, either works
+outputformat:    EIGENSTRAT
+genotypeoutname: treemix.eigenstratgeno
+snpoutname:      treemix.snp
+indivoutname:    treemix.ind
+familynames:     NO
+```
+* scp locally the .ind file produced from the above analysis and run `analysis/ind_add_pop.r` to add the population individuals belong to the file and move the file back to the HPC; 
+* generate all possible combinations of source populations running the R script `analysis/generate_pops.r`. Move the .tsv file obtained to HPC to run the f3 analysis or alternatively, create a customised tsv file with the combinations of populations of interest;
+* create the parameter file for the f3 analysis including the eigenstrat files (.snp, .ind, .geno) and the populations file and submit `job_submissions/treemix.sh`. The parameter file should look like this:
 
-* to extract the basename from the bam file list `for F in $(cat data/bam1.list); do     basename $F _dedup_overlapclipped.bam >> data/ancestry/identifiers.txt; done`
+```
+genotypename: treemix.eigenstratgeno
+snpname: treemix.snp
+indivname: treemixpop.ind ##modified .ind file obtained from ind_add_pop.r
+popfilename: pop_combos_all.tsv ##tab-delimited file with population combinations
+```
+* to filter out the unnecessary information from the output of the f3 analysis and keep just the rows starting with 'result:' use `grep 'result:' f3stat_poplist.txt > f3stat_poplist_filtered.txt`;
+* to visualise and summarise the results of the f3 analysis in plots and table run `analysis/f3_analysis.r`;
+
 
 ## Plotting
 The plots used in the write-up were created with the following scripts:
 * The table containing the number of individuals in the reference panel and their breeds was produced with the R script `analysis/Breeds_table.r`;
 * PCA results were plotted with the R script `analysis/PCA_plotting.r`;
+* cross-validation, Admixture and evalAdmix plots were produced by running `analysis/admixture_plotting.r`;
 
 
 ## Phenotype inference
