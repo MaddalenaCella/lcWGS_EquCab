@@ -230,7 +230,7 @@ FacetZoom2 <- ggproto(
 breeds <-read.csv("results/ancestry/clusters.csv", fill=T, stringsAsFactors = F)
 pcs <-read.table("results/ancestry/PCA_analysis.eigenvec")
 eigenvals<- read.table("results/ancestry/PCA_analysis.eigenval") ##for calculating PCs variance
-plot( pcs[,3], pcs[,4], xlab = "PC1", ylab = "PC2" )
+#plot( pcs[,3], pcs[,4], xlab = "PC1", ylab = "PC2" )
 
 ##variance explained by eac PC
 PVE <- eigenvals[1] / sum(eigenvals$V1)
@@ -355,7 +355,7 @@ cbPalette <- c("#000000", "#999999", "#E69F00", "#56B4E9",
 shapes <- c(15:18, 3, 4, 8 ,10)
 
 pdf(file='results/ancestry/PCA_noPrz.pdf', width=12, height=7)
-ggplot(data=pcs_with_breed_noPrz, aes(x=PC1, y=PC2, 
+ggplot(data=pcs_with_breed_noPrz, aes(x=V3, y=V4, 
                                 color=CLUSTER, fill=CLUSTER)) + 
   geom_point(size = 2,  alpha = 0.85, stroke = 0.7, aes(shape=CLUSTER)) +
   annotate(
@@ -379,7 +379,7 @@ dev.off()
 
 
 pdf(file='results/ancestry/PCA_noPrz_zoom.pdf', width=12, height=7)
-ggplot(data=pcs_with_breed_noPrz, aes(x=PC1, y=PC2, 
+ggplot(data=pcs_with_breed_noPrz, aes(x=V3, y=V4, 
                                       color=CLUSTER, fill=CLUSTER)) + 
   geom_point(size = 2,  alpha = 0.85, stroke = 0.7, aes(shape=CLUSTER)) +
   annotate(
@@ -401,4 +401,106 @@ ggplot(data=pcs_with_breed_noPrz, aes(x=PC1, y=PC2,
   )+
   facet_zoom2(xlim=c(0.05,0.12), ylim=c(0.0,0.12), zoom.size=2.5, horizontal = T) ##zoom in particular range in y axis
 
+dev.off()
+
+##two plots in one pdf file
+
+highlight_df <- subset(pcs_with_breed, CLUSTER == "Unknown")
+pcs_no_Prze <- subset(pcs_with_breed, CLUSTER != "Przewalski" & CLUSTER != "Przewalski-hybrid")
+
+pdf(file='results/ancestry/PCA_two_plots.pdf', width=12, height=20)
+plot1<-ggplot(data=pcs_with_breed, aes(x=PC1, y=PC2, 
+                                color=CLUSTER, fill=CLUSTER)) + 
+  geom_point(size = 2,  alpha = 0.85, stroke = 0.7, aes(shape=CLUSTER)) +
+  annotate(
+    geom = "curve", x = 0.0, y = 0.1, xend = -0.037920100, yend = 0.09533110,
+    curvature = .3, arrow = arrow(length = unit(2, "mm"))
+  ) +
+  annotate(geom = "text", x = 0.0, y = 0.1, label = "Benson", hjust = "left")+
+  xlab("PC1 (14.32%)") + ylab("PC2 (11.12%)") +
+  scale_shape_manual(values = rep(shapes, len = popCount)) + 
+  scale_colour_manual(values = rep(cbPalette, len = popCount))+
+  scale_x_continuous(breaks=trans_breaks(identity, identity, n = 5))+
+  theme_pubr()+
+  labs(shape = "Breeds", color = "Breeds", fill = "Breeds") +
+  theme(legend.position = "none",
+        panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        panel.background = element_blank()
+  )
+
+plot2<- ggplot(data=pcs_with_breed, aes(x=PC1, y=PC2, 
+                             color=CLUSTER, fill=CLUSTER)) + 
+  geom_point(size = 2,  alpha = 0.85, stroke = 0.7, aes(shape=CLUSTER)) +
+  annotate(
+    geom = "curve", x = -0.02, y = 0.1, xend = -0.037920100, yend = 0.09533110,
+    curvature = .3, arrow = arrow(length = unit(2, "mm"))
+  ) +
+  annotate(geom = "text", x = -0.02, y = 0.1, label = "Benson", hjust = "left")+ 
+  xlab("PC1 (14.32%)") + ylab("PC2 (11.12%)") +
+  scale_shape_manual(values = rep(shapes, len = popCount)) + 
+  scale_colour_manual(values = rep(cbPalette, len = popCount))+
+  scale_x_continuous(breaks=trans_breaks(identity, identity, n = 5))+
+  theme_pubr()+
+  labs(shape = "Breeds", color = "Breeds", fill = "Breeds") +
+  theme(legend.position="bottom",
+        legend.key.size = unit(3, "mm"),
+        panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        panel.background = element_blank()
+  ) +
+  facet_zoom2(xlim=c(-0.06,0.00), ylim=c(0.04,0.12), zoom.size=2.5, horizontal = T) ##zoom in particular range in y axis
+
+ggarrange(plot1, plot2, 
+          labels = c("A", "B"),
+          ncol = 1, nrow = 2)
+dev.off()
+
+pdf(file='results/ancestry/PCA_two_noPrz.pdf', width=12, height=20)
+plot3<-ggplot(data=pcs_with_breed_noPrz, aes(x=V3, y=V4, 
+                                      color=CLUSTER, fill=CLUSTER)) + 
+  geom_point(size = 2,  alpha = 0.85, stroke = 0.7, aes(shape=CLUSTER)) +
+  annotate(
+    geom = "curve", x = 0.05, y = 0.09, xend = 0.09884140, yend = 0.061974900,
+    curvature = .3, arrow = arrow(length = unit(2, "mm"))
+  ) +
+  annotate(geom = "text", x = 0.04, y = 0.1, label = "Benson", hjust = "left")+
+  xlab("PC1 (13.07%)") + ylab("PC2 (9.83%)") +
+  scale_shape_manual(values = rep(shapes, len = popCount_noPrz)) + 
+  scale_colour_manual(values = rep(cbPalette, len = popCount_noPrz))+
+  scale_x_continuous(breaks=trans_breaks(identity, identity, n = 5))+
+  theme_pubr()+
+  labs(shape = "Breeds", color = "Breeds", fill = "Breeds") +
+  theme(legend.position="none",
+        legend.key.size = unit(3, "mm"),
+        panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        panel.background = element_blank()
+  )
+
+plot4<-ggplot(data=pcs_with_breed_noPrz, aes(x=V3, y=V4, 
+                                      color=CLUSTER, fill=CLUSTER)) + 
+  geom_point(size = 2,  alpha = 0.85, stroke = 0.7, aes(shape=CLUSTER)) +
+  annotate(
+    geom = "curve", x = 0.07, y = 0.08, xend = 0.09884140, yend = 0.061974900,
+    curvature = .3, arrow = arrow(length = unit(2, "mm"))
+  ) +
+  annotate(geom = "text", x = 0.07, y = 0.082, label = "Benson", hjust = "left")+
+  xlab("PC1 (13.07%)") + ylab("PC2 (9.83%)") +
+  scale_shape_manual(values = rep(shapes, len = popCount_noPrz)) + 
+  scale_colour_manual(values = rep(cbPalette, len = popCount_noPrz))+
+  scale_x_continuous(breaks=trans_breaks(identity, identity, n = 5))+
+  theme_pubr()+
+  labs(shape = "Breeds", color = "Breeds", fill = "Breeds") +
+  theme(legend.position="bottom",
+        legend.key.size = unit(3, "mm"),
+        panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        panel.background = element_blank()
+  )+
+  facet_zoom2(xlim=c(0.05,0.12), ylim=c(0.0,0.12), zoom.size=2.5, horizontal = T) ##zoom in particular range in y axis
+
+ggarrange(plot3, plot4, 
+          labels = c("A", "B"),
+          ncol = 1, nrow = 2)
 dev.off()

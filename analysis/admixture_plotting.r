@@ -1,3 +1,10 @@
+#!/usr/bin/Rscript
+# Author: Maddalena Cella
+# Email mc2820@ic.ac.uk
+# Date: 24-07-2021
+# Last Modified: 24-07-2021
+# Description: script that plots PCA graphs for different values of K tested
+
 # link to admixtools https://cran.r-project.org/web/packages/admixr/vignettes/tutorial.html
 ##packages required
 library(pophelper) #for guide on installation http://www.royfrancis.com/pophelper/index.html
@@ -41,9 +48,9 @@ ggplot(k_cv, aes(x=K., y=CV_error)) +
 dev.off()
 #ggsave(file="Cross_validation.pdf", plot = last_plot(), device = pdf, path = "results/ancestry")##save plot as pdf
 
-breeds <-read.csv("results/ancestry/clusters.csv", fill=T, stringsAsFactors = F) #dataframe with individual id and Breeds
-Benson<-c("Benson","BEN","unknown")
-breeds_with_Benson <- rbind(breeds, Benson)
+#breeds <-read.csv("results/ancestry/clusters.csv", fill=T, stringsAsFactors = F) #dataframe with individual id and Breeds
+#Benson<-c("Benson","BEN","unknown")
+#breeds_with_Benson <- rbind(breeds, Benson)
 
 qlist1<- readQ(list.files(path='results/ancestry/Q_files/', pattern=".Q", full.names = T, recursive= F)) ##why can I not find all the Q files
 meta <-read.csv("results/ancestry/clusters.csv", fill=T, stringsAsFactors = F)

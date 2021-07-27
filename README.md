@@ -41,7 +41,7 @@ The computing languages and bioinformatics tools used are the following:
 * Beagle (4.0)
 * evalAdmix (0.95)
 * Eigensoft (3.0)
-* Admixtools (7.0.2)
+* AdmixTools (7.0.2)
 
 ### Python modules 
 * argparse
@@ -51,6 +51,7 @@ The computing languages and bioinformatics tools used are the following:
 * os
 * pandas
 * re
+* matplotlib
 
 ### R packages
 * tidyverse
@@ -140,7 +141,7 @@ indivname: treemixpop.ind ##modified .ind file obtained from ind_add_pop.r
 popfilename: pop_combos_all.tsv ##tab-delimited file with population combinations
 ```
 * to filter out the unnecessary information from the output of the f3 analysis and keep just the rows starting with 'result:' use `grep 'result:' f3stat_poplist.txt > f3stat_poplist_filtered.txt`;
-* to visualise and summarise the results of the f3 analysis in plots and table run `analysis/f3_analysis.r`;
+* to visualise and summarise the results of the f3 analysis in plots and tables run `analysis/f3_analysis.r` and `analysis/f3_plots.py`;
 
 
 ## Plotting

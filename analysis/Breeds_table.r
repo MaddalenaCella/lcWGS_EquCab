@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 # Author: Jacob Brown
 # Email j.brown19@imperial.ac.uk
 # Date:   2020-05-11
@@ -48,18 +47,34 @@ if(any(is.na(run_join$sub_group))){print("check bam.list and info file, NA found
 
 # then final.bam
 # if still no match, output error
+write.csv(run_join, file="results/general/clusters_SRcodes.csv", row.names = F)
+run_join_ordered<- run_join %>% arrange(index)
 len <- length(run_join$sub_group)
 
-table <- cbind(run_join$index,rep(1,len), run_join$sub_group)
-colnames(table) <- c("ID","FID","CLUSTER") ##maybe do something like if they belong to the same species they get a special id flag
+a <- c("50QUAR",  "AMPA"  ,  "AMPA" ,   "AMPA"  ,  "FRDW"   , "FRDW"  ,  "FRDW" ,   "STBR"  ,  "AT"   ,   "AT"  ,    "AT",   "AT" ,  "AR",     
+        "FRMO"  ,  "FRMO", "FRMO", "FRMO" , "FRMO",  "FRMO" , "FRMO"  ,"FRMO"   , "FRMO"  ,  "FRMO"   , "FRMO"  ,  "FRMO" ,   "FRMO",   
+        "FRMO"   , "HA"   ,   "DUWA" ,   "QUHO" ,   "QUHO" ,   "QUHO" ,   "FRMO" ,   "SWWA" ,   "GEWA" ,   "GEWA" ,   "GEWA" ,   "GEWA" ,   "GEWA",   
+        "GEWA"  , "GEWA"   , "GEWA" ,   "GEWA"  ,  "GEWA" ,   "GEWA"  ,  "GEWA" ,   "THR"     ,"FRMO" ,   "FRMO"  ,  "GEPO" ,   "WEPO"  ,  "AR" ,    
+        "GEPO"  ,   "MORG"  ,  "HOL" ,    "OLD" ,    "AR"    ,  "NORIK" ,  "HA"  ,    "HA"  ,    "HA"  ,    "SWWA"  ,  "TRAK"  ,  "AMPA"  ,  "SHET",   
+       "ICE"    , "HOL" ,    "HOL"  ,   "HOL" ,    "HOL"  ,   "GEPO"  ,  "SHET" ,   "SHET"  ,  "AMMIN"  , "PEHO"  ,  "TWHO" ,   "MONG"  ,  "MAMA",   
+        "MONG"  ,  "PRZ-HY" , "PRZ"  ,   "PRZ"  ,   "PRZ"  ,   "PRZ",   "FRMO" ,   "FRMO" ,   "FRMO" , "FRMO", "FRMO" ,   "FRMO" ,   "FRMO" ,
+       "FRMO"   , "FRMO"  ,  "YAKHO"  , "YAKHO" ,  "YAKHO"  , "YAKHO" ,  "YAKHO"  , "YAKHO" ,  "YAKHO"  , "YAKHO" ,  "YAKHO"  , "JEHO"  ,  "JEHO",   
+        "JEHO"   , "MONG" ,   "MONG" ,   "MONG" ,   "MONG" ,   "PRZ"  ,   "PRZ",   "AR" ,   "SORR" ,   "HANO" ,   "HANO" ,   "DUPO" ,   "MAR",
+        "COPO"  ,  "COPO"  ,  "COPO"  ,  "COPO" ,   "HANO"  , "HANO", "SAX-THU", "SORR",    "STBR"  ,  "STBR" ,   "STBR"  ,  "STBR" ,   "STBR",   
+       "STBR"   , "STBR"  ,  "STBR"  ,  "STBR"  ,  "STBR"  ,  "STBR"  ,  "STBR"  ,  "STBR"  ,  "STBR"  ,  "STBR"  ,  "STBR"  , "STBR"  ,  "THR" ,
+        "LIPI"   , "LIPI"  ,  "LIPI"  ,  "LIPI" ,   "THR"   ,  "THR"  ,   "THR"   ,  "THR"  ,   "THR"   ,  "THR"  ,   "THR"   ,  "THR"  ,   "THR" ,   
+        "THR"   ,  "THR"  ,   "THR"   ,  "JEHO" ,   "JEHO"  ,  "JEHO" ,   "THR"   ,  "THR"  ,   "THR" ,    "THR" )
+
+table <- cbind(run_join_ordered$index, a, run_join_ordered$sub_group)
+colnames(table) <- c("ID","CLUS","CLUSTER") ##maybe do something like if they belong to the same species they get a special id flag
 df <- data.frame(table)
 df$ID <- as.numeric(as.character(df$ID))
 df <- df[order(df$ID),]
 
 # write table out
 write.table(df, row.names=F, sep="\t", file="results/ancestry/clusters", quote=F)
-write_csv(df, file="results/ancestry/clusters.csv")
-## Summary tables for report writeup
+write.csv(df, file="results/ancestry/clusters.csv")
+## Summary tables for report write-up
 #a table of the individuals used and accession codes
 df_info_all <- run_join %>% 
   filter(sub_group != "BENSON") %>%

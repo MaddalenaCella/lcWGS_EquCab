@@ -1,4 +1,9 @@
-### script to create text file with individuals to keep for second run of PCA
+#!/usr/bin/Rscript
+# Author: Maddalena Cella
+# Email mc2820@ic.ac.uk
+# Date: 15-07-2021
+# Last Modified: 15-07-2021
+# Decription: script to create text file with individuals to keep for second run of PCA
 
 breeds <-read.csv("results/ancestry/clusters.csv", fill=T, stringsAsFactors = F) #dataframe with individual id and Breeds
 Benson<-c("Benson","BEN","unknown")

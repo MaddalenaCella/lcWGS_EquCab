@@ -11,5 +11,3 @@ individuals_used = read.table("../data/identifiers.txt", fill=T, stringsAsFactor
 x <- as.vector(t(as.matrix(individuals_used[1])))
 
 newdf<-dplyr::filter(df, Run %in% x | BioSample %in% x & sub_group=='Przewalski') ##data frame with rows where Run or BioSample match to vector x of individuals used
-
-##maybe do something about Biosample being unique
