@@ -55,7 +55,7 @@ The computing languages and bioinformatics tools used are the following:
 
 ### R packages
 * tidyverse
-* admixturegraph
+* pophelper
 * dplyr
 * ggplot2
 * gridExtra
@@ -94,7 +94,13 @@ Before reproducing this analysis, make sure you have the required tools in the c
 
 ## Deduplicate and clip overlapping read pairs
 * To deduplicate and clip overlapping read pairs on the merged horse bam file submit the job `job_submissions/dedup_clipover.sh`;
-* for the reference panel run `job_submissions/dedup_clipover_wgs.sh`.
+* for the reference panel run `job_submissions/dedup_clipover_wgs.sh`;
+* to calculate the average depth after this step in the reference panel run: 
+```
+for i in results/wgs_data/depth/*.txt; do cat $i>> results/wgs_data/depth/depths.txt; done
+
+awk '{ total += $1 } END { print total/NR }' results/wgs_data/depth/depths.txt > results/wgs_data/depth/avg_depth.txt
+```
 
 ## SNP calling
 ANGSD was used to call genotypes (p-value to call SNPs set to -SNP_pval 1e-6).
@@ -156,6 +162,8 @@ To find whether some SNPs associated with phenotypes of interest were present on
 1. generate a list of genomic positions for the QTLs and Mendelian traits of interest run `Rscript data/gene_variants/all_traits.r`. The csv file (all_traits.csv) from which the genomic positions were obtained was manually curated by me based on the article: Ten years of the horse reference genome: insights into equine biology, domestication and population dynamics in the post-genome era.
 2. covert between a list of genomic positions in the format chromosome:start position-end position run `cat data/gene_variants/angsd_pos.txt | sed 's/:/\t/' | sed 's/-/\t/' > data/gene_variants/angsd_final.file`.
 3. finally, run the script `job_submissions/pheno_search.sh`.
+
+To produce tables with all Mendelian traits and QTLs included in the anlysis, as well as the phenotypic variants found in the horse sample `analysis/phenotype.r`.
  
 ## Status
 Project is: _in progress_

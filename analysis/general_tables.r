@@ -24,9 +24,12 @@ names(breed_table)[1]<- "Breeds" #rename first column in the data frame
 names(breed_table)[2]<- "Breeds code" 
 names(breed_table)[3]<- "Number"
 
-
+write.csv(breed_table, 'results/change_me.csv')
+bb<-read.csv('results/change_me.csv')
+bb<- bb[-1]
+bb<- bb[,c(2,1,3,4)]
 pdf(file='results/general/breeds_code.pdf', width=7, height=12)
-a<-grid.table(breed_table, rows=NULL)
+a<-grid.table(bb, rows=NULL)
 dev.off()
 
 breeds_SRcodes_noid <- subset(breeds_SRcodes, select = -c(index,era))

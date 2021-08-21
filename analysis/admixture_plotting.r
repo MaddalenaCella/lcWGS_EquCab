@@ -19,6 +19,7 @@ library(colorspace)
 library(dplyr)
 library(ggplot2)
 library(hrbrthemes)
+library(egg)
 
 ##packages to generate colour palette
 ##install them if they are missing
@@ -55,8 +56,8 @@ dev.off()
 qlist1<- readQ(list.files(path='results/ancestry/Q_files/', pattern=".Q", full.names = T, recursive= F)) ##why can I not find all the Q files
 meta <-read.csv("results/ancestry/clusters.csv", fill=T, stringsAsFactors = F)
 B<-c("Benson","BEN","unknown")
-metadata <- rbind(meta, B)
-metadata<- metadata %>% select(CLUS)
+metadata1 <- rbind(meta, B)
+metadata<- metadata1 %>% select(CLUS)
 colnames(metadata) <-"Breeds" #change name to cluster column from cluster to breeds
 
 clist <- list(
@@ -80,7 +81,7 @@ K4_6 <- plotQ(alignK(qlist1[c(6,7,8)], type="across"), imgoutput="join", showind
             selgrp="Breeds", ordergrp = T, grplabangle = 270, grplabpos = 0.4 , grplabheight = 10,
             grplabspacer = -0.7, grplabsize = 2.5,
             showlegend=T, showdiv =F, clustercol=clist$shiny,
-            legendtextsize = 6, legendkeysize = 6, legendpos="right",
+            legendtextsize = 8, legendkeysize = 8, legendpos="right",
             height=0.5, #indlabsize=8, panelspacer=1, indlabheight=0.08,indlabspacer=10
             barbordercolour="white",barbordersize=0.5, barsize = 0.7,
             returnplot=T,exportplot=F,
@@ -109,35 +110,19 @@ grid.arrange(K5_8$plot[[1]])
 source("evalAdmix/visFuns.R") ## need to clone git repo locally
 
 plot_evalAdmix <- function(Q_file, R_file){
-pop <- as.vector(breeds_with_Benson$CLUSTER) # N length character vector with each individual population assignment
+pop <- as.vector(metadata1$CLUSTER) # N length character vector with each individual population assignment
 q <- as.matrix(read.table(Q_file)) # admixture porpotions q is optional for visualization but if used for ordering plot might look better
 r <- as.matrix(read.table(R_file))
 ord <- orderInds(pop=pop, q=q) # ord is optional but this make it easy that admixture and correlation of residuals plots will have individuals in same order
-b<-plotAdmix(q=q, pop=pop, ord=ord)
-a <- plotCorRes(cor_mat = r, pop = pop, ord=ord, title = "Admixture evaluation as correlation of residuals", max_z=0.25, min_z=-0.25,
-                pop_labels = c(F,F), plot_legend = T)
+#b<-plotAdmix(q=q, pop=pop, ord=ord)
+a <- plotCorRes(cor_mat = r, pop = pop, ord=ord, max_z=0.25, min_z=-0.25, title= "",
+                pop_labels = c(F,F), color_palette= c("red", "green", "blue"), plot_legend = T, lineswidth = 0.07)
 return(a)
 }
-plot_evalAdmix("results/ancestry/Q_files/PCA_ready.5.Q","results/ancestry/corr/evaladmix5.corr")
-plot_evalAdmix("results/ancestry/Q_files/PCA_ready.6.Q","results/ancestry/corr/evaladmix6.corr")
-plot_evalAdmix("results/ancestry/Q_files/PCA_ready.9.Q","results/ancestry/corr/evaladmix9.corr")
-plot_evalAdmix("results/ancestry/Q_files/PCA_ready.15.Q","results/ancestry/corr/evaladmix15.corr")
 
-source("visFuns.R")
+a<-plot_evalAdmix("results/ancestry/Q_files/PCA_ready.4.Q","results/ancestry/corr/evaladmix4.corr")
 
-pop <- as.vector(breeds_with_Benson$CLUS) # N length character vector with each individual population assignment
-q <- as.matrix(read.table("results/ancestry/Q_files/PCA_ready.5.Q")) # admixture porpotions q is optional for visualization but if used for ordering plot might look better
-r <- as.matrix(read.table("results/ancestry/corr/evaladmix5.corr"))
+b<-plot_evalAdmix("results/ancestry/Q_files/PCA_ready.5.Q","results/ancestry/corr/evaladmix5.corr")
 
-ord <- orderInds(pop=pop, q=q) # ord is optional but this make it easy that admixture and correlation of residuals plots will have individuals in same order
+c<-plot_evalAdmix("results/ancestry/Q_files/PCA_ready.6.Q","results/ancestry/corr/evaladmix6.corr")
 
-plotAdmix(q=q, pop=pop, ord=ord)
-
-graphics.off()
-plotCorRes(cor_mat = r, pop = pop, ord=ord, title = "Admixture evaluation as correlation of residuals", max_z=0.25, min_z=-0.25, rotatelabpop=90, 
-           cex.lab=0.4, cex.lab.2 = 0.4, plot_legend = T)
-
-corr_list<- list.files(path='results/ancestry/corr', full.names = T, recursive= F)
-
-#summariseQ(tr1, writetable=TRUE)
-#look in grp function to sort by group

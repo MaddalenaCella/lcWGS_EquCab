@@ -71,3 +71,16 @@ table_f3_out$Populations <- paste(table_f3_out$`Target`, "-", table_f3_out$`Pop 
 write.csv(table_f3_out, "results/ancestry/eigenstrat/modified_f3_outgroup.csv", row.names = F)
 
 
+f4_stat <- read.table("results/ancestry/eigenstrat/f4_results_filtered.txt")
+f4_stat<- subset(f4_stat, select = -c(V1,V8,V9,V10))
+col_names<- c("Outgroup", "Pop A", "Pop B", "Target", "F4", "Z-score")
+names(f4_stat)<- col_names ##data frame with column names
+
+f4_stat_ordered<- f4_stat[order(f4_stat$F4, decreasing = T),]
+
+row.names(table_f3) <- NULL #to remove row numbering from table
+
+pdf(file='results/ancestry/eigenstrat/poplist_table.pdf', width=5, height=3.3)
+b<-grid.table(table_f3, rows=NULL)
+dev.off()
+
